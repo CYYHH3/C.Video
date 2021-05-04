@@ -17,10 +17,12 @@
         var url="https://cdn.jsdelivr.net/gh/CYYHH3/Video@main";
         const dp = new DPlayer({
             container: document.getElementById('dplayer'),
+            screenshot: true,
             video: {
                 url: url+'/video/Wonderful Tools-Apple.mp4',
             },
         });
+        dp.fullScreen.request('web');
     </script>
 </body>
 </html>
