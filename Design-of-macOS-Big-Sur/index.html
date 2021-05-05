@@ -14,16 +14,16 @@
     <div id="dplayer"></div>
     <script src="../DPlayer-1.26.0/dist/DPlayer.min.js"></script>
     <script>
-        var url=".";
-        //var url="https://cdn.jsdelivr.net/gh/CYYHH3/Video@main/Design-of-macOS-Big-Sur";
+        var url1=".";
+        var url2="https://cdn.jsdelivr.net/gh/CYYHH3/Video@main/Design-of-macOS-Big-Sur";
         const dp = new DPlayer({
             container: document.getElementById('dplayer'),
             screenshot: true,
             video: {
-                url: url+'/video/Design of macOS Big Sur.mp4',
+                url: url1+'/video/Design of macOS Big Sur.mp4',
             },
             subtitle: {
-                url: './video/subtitle/Design of macOS Big Sur.vtt',
+                url: url2+'/video/subtitle/Design of macOS Big Sur.vtt',
             },
         });
         dp.fullScreen.request('web');
