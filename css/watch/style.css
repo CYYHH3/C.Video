@@ -1,0 +1,13 @@
+body {
+    font-family: 微软雅黑;
+}
+.dplayer {
+    /*margin: 0px 100px;
+    height: 527px;*/
+}
+.dplayer-danmaku .dplayer-danmaku-right.dplayer-danmaku-move {
+    /*-webkit-transform: translate3d(-804px,0px,0px) rotate(0.1deg) !important;*/
+}
+.dplayer-subtitle p {
+    line-height: 10px;
+}

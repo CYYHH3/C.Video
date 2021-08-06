@@ -1,0 +1,7530 @@
+﻿WEBVTT
+
+00:00:02.202 --> 00:00:04.538
+["Daydreamer" by Aurora playing]
+
+00:01:21.882 --> 00:01:25.519
+Good morning. And welcome to WWDC.
+
+00:01:25.586 --> 00:01:31.625
+WWDC is an incredibly important event
+to Apple, our developers and our users.
+
+00:01:32.025 --> 00:01:35.329
+It's here that we bring
+some of our biggest innovations to life.
+
+00:01:35.829 --> 00:01:37.464
+And we have not stopped innovating,
+
+00:01:37.531 --> 00:01:40.868
+doing the work that will enrich
+people's lives for years to come.
+
+00:01:41.235 --> 00:01:44.738
+Because we're all looking forward
+to a more hopeful tomorrow.
+
+00:01:45.172 --> 00:01:49.209
+That's why we believe it's so important
+to have WWDC this year.
+
+00:01:49.643 --> 00:01:52.813
+And while it cannot possibly
+feel the same in here without you,
+
+00:01:52.880 --> 00:01:56.450
+I can assure you
+that we have a great show ahead of us.
+
+00:01:57.150 --> 00:01:59.820
+This year we're delivering the conference
+in a whole new way
+
+00:01:59.887 --> 00:02:03.123
+to all of you around the world,
+directly to your home.
+
+00:02:03.190 --> 00:02:06.493
+And we want to welcome you
+to our home here at Apple Park.
+
+00:02:07.361 --> 00:02:09.696
+I'd like to first talk to you
+about two big things
+
+00:02:09.763 --> 00:02:11.765
+that are happening in the world right now.
+
+00:02:12.666 --> 00:02:17.938
+To start, I want to address the topic
+of racism, inequality and injustice
+
+00:02:18.372 --> 00:02:21.742
+and to recognize the pain being felt
+throughout our nation,
+
+00:02:22.075 --> 00:02:24.511
+especially in
+our Black and Brown communities,
+
+00:02:24.578 --> 00:02:27.080
+after the senseless killing
+of George Floyd.
+
+00:02:27.948 --> 00:02:31.218
+And while the events of this past month
+are sadly not new,
+
+00:02:31.285 --> 00:02:32.452
+they have caused us to face
+
+00:02:32.519 --> 00:02:36.690
+long-standing institutional inequalities
+and social injustices.
+
+00:02:37.191 --> 00:02:41.395
+This country was founded on the principles
+of freedom and equality for all.
+
+00:02:42.029 --> 00:02:46.200
+For too many people and for too long,
+we haven't lived up to those ideals.
+
+00:02:47.034 --> 00:02:48.302
+We're inspired and moved
+
+00:02:48.368 --> 00:02:51.805
+by the passionate people around our nation
+and around the world
+
+00:02:51.872 --> 00:02:53.941
+who have stood up to demand change.
+
+00:02:54.408 --> 00:02:59.746
+We must all aim far higher to build
+a future that lives up to our ideals.
+
+00:03:00.147 --> 00:03:01.849
+This means taking action.
+
+00:03:02.516 --> 00:03:07.154
+Two weeks ago, we announced Apple's
+Racial Equity and Justice Initiative
+
+00:03:07.221 --> 00:03:09.790
+with a commitment
+of one hundred million dollars.
+
+00:03:10.324 --> 00:03:13.694
+Starting in the United States,
+and expanding over time,
+
+00:03:13.760 --> 00:03:16.263
+this initiative will challenge
+systemic barriers
+
+00:03:16.330 --> 00:03:19.132
+that limit opportunity
+for communities of color
+
+00:03:19.199 --> 00:03:24.605
+in the critical areas of education,
+economic equality and criminal justice.
+
+00:03:25.339 --> 00:03:28.809
+We also announced something important
+for this community,
+
+00:03:28.876 --> 00:03:32.346
+the new Developer Entrepreneur Camp
+for Black developers.
+
+00:03:32.679 --> 00:03:37.684
+We want to do everything we can to foster
+the brightest lights and best ideas.
+
+00:03:38.452 --> 00:03:42.623
+At Apple, our mission has always been
+to make the world a better place,
+
+00:03:42.689 --> 00:03:45.292
+and we're committed
+to being a force for change.
+
+00:03:46.193 --> 00:03:48.762
+Right now our world is
+also battling a virus
+
+00:03:48.829 --> 00:03:51.899
+that is affecting
+the daily lives of billions of people.
+
+00:03:52.533 --> 00:03:55.135
+We want to thank the dedicated people
+everywhere,
+
+00:03:55.502 --> 00:03:57.337
+especially our health-care workers,
+
+00:03:57.404 --> 00:04:01.141
+who have made tremendous sacrifices
+to take care of those in need.
+
+00:04:02.009 --> 00:04:05.779
+We've also seen the profound impact
+our products have had.
+
+00:04:06.647 --> 00:04:11.552
+People are relying on them more than ever
+to remain connected to family and friends,
+
+00:04:11.618 --> 00:04:14.354
+to do their work,
+to express their creativity,
+
+00:04:14.421 --> 00:04:17.124
+to be entertained
+as well as to entertain others.
+
+00:04:17.624 --> 00:04:20.827
+Today the world is counting on all of us,
+
+00:04:20.894 --> 00:04:24.598
+and on the products and experiences
+that we create, to move forward.
+
+00:04:25.465 --> 00:04:26.967
+Because throughout history,
+
+00:04:27.034 --> 00:04:31.505
+great challenges have been met with great
+creativity and important breakthroughs.
+
+00:04:32.072 --> 00:04:35.576
+That's why we're so excited
+about this year's conference.
+
+00:04:35.642 --> 00:04:38.045
+This is going to be truly a unique week,
+
+00:04:38.111 --> 00:04:40.514
+delivered unlike any
+that we've done before.
+
+00:04:41.448 --> 00:04:44.451
+There will be more than a hundred
+engineering-led video sessions,
+
+00:04:44.518 --> 00:04:47.087
+one-on-one consultations
+with Apple engineers,
+
+00:04:47.154 --> 00:04:49.690
+developer forums and so much more,
+
+00:04:49.756 --> 00:04:53.861
+delivered to you from different locations
+right here at Apple Park.
+
+00:04:54.595 --> 00:04:56.697
+And this year,
+the conference will be available
+
+00:04:56.763 --> 00:05:00.067
+to our entire community
+of 23 million developers,
+
+00:05:00.133 --> 00:05:03.604
+as well as anyone who is interested,
+for free.
+
+00:05:04.171 --> 00:05:08.575
+Presenting the conference in this way
+allows us to be more inclusive than ever.
+
+00:05:08.642 --> 00:05:11.979
+Perhaps this will inspire
+the next generation of developers.
+
+00:05:12.546 --> 00:05:15.182
+So even though
+we can't be together in person,
+
+00:05:15.249 --> 00:05:17.951
+in some ways we're going to be
+more together than ever.
+
+00:05:18.785 --> 00:05:21.288
+Today we're going to push
+each of our platforms forward
+
+00:05:21.355 --> 00:05:23.891
+in some exciting and breakthrough ways.
+
+00:05:23.957 --> 00:05:26.860
+With that, let's get started
+by sending it over to Craig.
+
+00:05:34.201 --> 00:05:37.070
+Good morning. Great to have you here.
+
+00:05:37.137 --> 00:05:42.142
+As you can see, we've got a lot to cover,
+so let's get started with iOS.
+
+00:05:44.111 --> 00:05:45.245
+Together with iPhone,
+
+00:05:45.312 --> 00:05:49.616
+iOS is central to how we navigate
+our lives and stay connected.
+
+00:05:49.683 --> 00:05:53.320
+And now we're making it
+even more powerful and easier to use.
+
+00:05:53.987 --> 00:05:56.957
+Our new release is iOS 14.
+
+00:05:57.824 --> 00:05:59.960
+This year we've spent time rethinking
+
+00:06:00.027 --> 00:06:03.864
+some of the most iconic elements
+of the experience on iPhone.
+
+00:06:03.931 --> 00:06:05.365
+Now it all started here,
+
+00:06:05.432 --> 00:06:09.770
+with a carefully considered Home Screen
+that has truly stood the test of time.
+
+00:06:09.837 --> 00:06:13.207
+Of course, over the years, we've kept
+the fundamentals largely the same
+
+00:06:13.273 --> 00:06:17.611
+but carefully added features
+like folders for organizing your apps,
+
+00:06:17.678 --> 00:06:19.613
+widgets for quick information
+
+00:06:19.680 --> 00:06:23.417
+and personalized experiences
+powered by on-device intelligence
+
+00:06:23.483 --> 00:06:27.087
+that serve up just the right thing
+at just the right moment.
+
+00:06:27.154 --> 00:06:30.357
+It's hard to imagine iPhone
+without these features now.
+
+00:06:30.424 --> 00:06:32.526
+Well, that brings us to this year.
+
+00:06:32.593 --> 00:06:35.395
+We're doing more on our iPhones today
+than ever before,
+
+00:06:35.462 --> 00:06:39.466
+so we've rethought some of
+the core elements of iOS to reflect this.
+
+00:06:39.533 --> 00:06:41.335
+Let me give you a quick peek.
+
+00:06:42.202 --> 00:06:44.872
+["Like This Like That" by
+BEGINNERS & Night Panda playing]
+
+00:07:19.873 --> 00:07:21.542
+This is gonna be amazing.
+
+00:07:21.608 --> 00:07:24.378
+Let's dig in,
+starting with the Home Screen.
+
+00:07:24.978 --> 00:07:28.582
+Today's Home Screen works great,
+but as we get more and more apps,
+
+00:07:28.649 --> 00:07:29.950
+we can end up with this:
+
+00:07:30.017 --> 00:07:32.085
+lots and lots of pages.
+
+00:07:32.152 --> 00:07:34.555
+And we tend to forget
+what's beyond the first couple.
+
+00:07:34.955 --> 00:07:36.023
+Wouldn't it be great
+
+00:07:36.089 --> 00:07:40.093
+if there were a way to organize
+all of those apps without doing a thing?
+
+00:07:40.160 --> 00:07:44.531
+Well, this year we're doing just that
+with something called the App Library.
+
+00:07:44.598 --> 00:07:47.267
+It's a new space
+at the end of your Home Screen pages
+
+00:07:47.334 --> 00:07:49.837
+that automatically organizes all your apps
+
+00:07:49.903 --> 00:07:52.873
+in one simple and easy-to-navigate view.
+
+00:07:52.940 --> 00:07:53.941
+Let me show you.
+
+00:07:57.811 --> 00:07:59.012
+Here's my Home Screen.
+
+00:07:59.079 --> 00:08:03.317
+Now, like you, I have muscle memory built
+for the first page or two,
+
+00:08:03.383 --> 00:08:05.886
+but when it comes to all of these pages,
+
+00:08:05.953 --> 00:08:08.922
+well, honestly, I've lost track
+of where a lot of things are.
+
+00:08:08.989 --> 00:08:11.692
+And that's where the App Library comes in.
+
+00:08:11.758 --> 00:08:15.329
+You can see that all of my apps
+are automatically organized here.
+
+00:08:15.395 --> 00:08:17.130
+In fact, now with the App Library,
+
+00:08:17.197 --> 00:08:20.467
+I actually don't need all those pages
+for all my apps.
+
+00:08:20.534 --> 00:08:23.303
+So we created an easy way
+to hide app pages.
+
+00:08:23.370 --> 00:08:26.406
+I just go into jiggle mode,
+tap the dots at the bottom,
+
+00:08:26.473 --> 00:08:27.474
+and check this out,
+
+00:08:27.541 --> 00:08:30.177
+I get a zoomed-out view
+of all my app pages.
+
+00:08:30.244 --> 00:08:33.780
+I can simply tap
+to hide the pages I no longer need.
+
+00:08:33.847 --> 00:08:35.449
+Just like that.
+
+00:08:35.516 --> 00:08:37.551
+And now with those pages hidden,
+
+00:08:37.618 --> 00:08:40.754
+App Library is always
+just a swipe or two away.
+
+00:08:41.154 --> 00:08:45.158
+So here in App Library, getting to the app
+I'm looking for is really easy.
+
+00:08:45.526 --> 00:08:47.761
+Up at the top I have the Search field,
+
+00:08:47.828 --> 00:08:50.831
+and I get all my apps
+organized from A to Z.
+
+00:08:50.898 --> 00:08:54.468
+Now over here on the upper left
+I have Suggestions.
+
+00:08:54.535 --> 00:08:56.236
+It uses on-device intelligence
+
+00:08:56.303 --> 00:08:59.006
+to show me the apps
+that I'm likely to need next.
+
+00:08:59.072 --> 00:09:01.475
+And on the right is Recently Added,
+
+00:09:01.542 --> 00:09:05.045
+giving me access to the apps that I've
+recently downloaded from the App Store.
+
+00:09:05.445 --> 00:09:08.115
+And below are
+intelligently curated categories.
+
+00:09:08.515 --> 00:09:11.652
+So I can tap into a category
+like Apple Arcade
+
+00:09:11.718 --> 00:09:14.388
+and see all of my apps in that category.
+
+00:09:14.788 --> 00:09:16.056
+Now let's go back.
+
+00:09:16.123 --> 00:09:18.225
+You may notice
+that in each of these categories
+
+00:09:18.292 --> 00:09:21.094
+the apps I use most are right here
+at the top level,
+
+00:09:21.395 --> 00:09:25.666
+so I can launch one of these directly
+with just a tap.
+
+00:09:25.732 --> 00:09:28.068
+So that's App Library.
+
+00:09:28.135 --> 00:09:32.005
+We think this is gonna make it
+easier than ever to get to your apps.
+
+00:09:32.506 --> 00:09:35.108
+Next, let's turn to Widgets.
+
+00:09:36.143 --> 00:09:39.012
+Today, widgets help you get information
+at a glance.
+
+00:09:39.079 --> 00:09:41.648
+But a lot has changed
+since we first introduced these.
+
+00:09:42.015 --> 00:09:45.953
+Now we have Apple Watch, where we're able
+to surface so much information
+
+00:09:46.019 --> 00:09:48.355
+on a small screen
+that you wear on your wrist.
+
+00:09:48.422 --> 00:09:50.824
+Well, this year,
+we're taking all that we've learned
+
+00:09:50.891 --> 00:09:53.861
+to create a completely reimagined
+experience for widgets.
+
+00:09:54.461 --> 00:09:57.698
+To start,
+they're more beautiful and data rich.
+
+00:09:57.764 --> 00:09:59.399
+And we're introducing different sizes,
+
+00:09:59.466 --> 00:10:01.935
+so you can choose one
+that best fits your needs.
+
+00:09:59.466 --> 00:10:01.935
+so you can choose one
+that best fits your needs.
+
+00:10:02.436 --> 00:10:05.372
+Let's take a look at them in iOS 14.
+
+00:10:06.540 --> 00:10:10.911
+So let's swipe over to Today View
+and take a look at our new widgets.
+
+00:10:10.978 --> 00:10:12.279
+They're just beautiful.
+
+00:10:12.346 --> 00:10:15.115
+And the new designs are
+more data rich than ever.
+
+00:10:15.616 --> 00:10:19.520
+And you can see
+they now come in a variety of sizes.
+
+00:10:19.586 --> 00:10:22.656
+So you can pick just the right level
+of information for each one.
+
+00:10:22.723 --> 00:10:25.259
+Now we like these new widgets so much,
+
+00:10:25.325 --> 00:10:27.561
+we wanted to make them
+even more accessible.
+
+00:10:28.028 --> 00:10:29.029
+So check this out.
+
+00:10:29.096 --> 00:10:31.331
+I'm just gonna tap and hold
+on the Weather widget,
+
+00:10:31.398 --> 00:10:35.369
+and I can drag it out of Today View
+and onto my Home Screen.
+
+00:10:35.636 --> 00:10:37.471
+And watch, as I move it around,
+
+00:10:37.538 --> 00:10:41.275
+the apps just dance out of the way
+to make space for my new widget.
+
+00:10:41.341 --> 00:10:42.776
+Let's add a second one.
+
+00:10:42.843 --> 00:10:45.179
+Just gonna tap the plus
+here in the upper left
+
+00:10:45.245 --> 00:10:46.847
+and grab on to Podcasts.
+
+00:10:47.181 --> 00:10:49.116
+I can drop it just like that.
+
+00:10:49.183 --> 00:10:53.620
+Now I'm gonna swipe over to page 2 here
+and bring back up the Widget Gallery.
+
+00:10:53.987 --> 00:10:56.490
+The gallery is a great place
+to explore widgets.
+
+00:10:56.890 --> 00:10:58.759
+Now when I tap on one,
+
+00:10:59.059 --> 00:11:02.930
+I can actually page through
+all of the different sizes available.
+
+00:11:02.996 --> 00:11:04.097
+Just like this.
+
+00:11:04.164 --> 00:11:07.100
+But, you know, right now what I want to do
+is grab this widget up top.
+
+00:11:07.167 --> 00:11:09.970
+It's a really special one.
+It's called the Smart Stack.
+
+00:11:10.037 --> 00:11:12.306
+Just gonna tap it and drop it here.
+
+00:11:12.973 --> 00:11:16.577
+With the Smart Stack,
+I can easily swipe through widgets
+
+00:11:16.643 --> 00:11:19.513
+to pick just the one I want
+for the moment.
+
+00:11:19.880 --> 00:11:21.348
+But what's really cool
+
+00:11:21.415 --> 00:11:26.253
+is that the Smart Stack can
+actually do this for me automatically.
+
+00:11:26.720 --> 00:11:29.356
+So in the morning,
+I can get my news briefing.
+
+00:11:29.790 --> 00:11:33.026
+Throughout the day,
+find out when I have a meeting coming up.
+
+00:11:33.427 --> 00:11:36.430
+And in the evening, I might get
+a summary of my activity for the day.
+
+00:11:36.864 --> 00:11:39.066
+So that's widgets on the Home Screen.
+
+00:11:39.132 --> 00:11:42.803
+We're excited to see how everyone
+will customize them in their own way.
+
+00:11:43.237 --> 00:11:46.940
+Next, we're also bringing
+Picture in Picture to iPhone.
+
+00:11:47.841 --> 00:11:49.643
+So you can access apps on your iPhone
+
+00:11:49.710 --> 00:11:52.846
+while watching video
+or talking on a FaceTime call.
+
+00:11:53.347 --> 00:11:54.481
+Let me show you.
+
+00:11:54.882 --> 00:11:56.183
+So here on my Home Screen,
+
+00:11:56.250 --> 00:11:58.085
+the Smart Stack
+is showing me the TV widget.
+
+00:11:58.151 --> 00:12:00.721
+So I can just tap to start playing a show.
+
+00:12:01.188 --> 00:12:04.091
+Now check this out.
+When I swipe to go Home,
+
+00:12:04.157 --> 00:12:06.927
+the video automatically goes
+into Picture in Picture
+
+00:12:06.994 --> 00:12:08.295
+right over the Home Screen.
+
+00:12:08.762 --> 00:12:13.233
+And when I launch another app, like Notes,
+I can keep watching.
+
+00:12:13.734 --> 00:12:17.437
+Now I can drag the picture
+to another part of the screen.
+
+00:12:17.504 --> 00:12:20.674
+If I want to make it bigger,
+I can even pinch to zoom.
+
+00:12:20.741 --> 00:12:24.545
+And as I move between applications
+it stays with me.
+
+00:12:24.878 --> 00:12:28.148
+And what's cool is
+I can also swipe it to the side,
+
+00:12:28.215 --> 00:12:31.285
+and the audio keeps playing
+when it's off-screen.
+
+00:12:32.152 --> 00:12:35.556
+Now here on the Home Screen
+I can bring it back out if I want.
+
+00:12:36.523 --> 00:12:39.293
+And I have controls
+to get back to full-screen playback,
+
+00:12:39.693 --> 00:12:42.863
+or I can just tap the "X" to close it.
+
+00:12:43.330 --> 00:12:45.499
+And that's Picture in Picture video.
+
+00:12:45.566 --> 00:12:48.235
+It's a great way
+to continue enjoying your video
+
+00:12:48.302 --> 00:12:51.638
+while tapping into everything else
+your iPhone can do for you.
+
+00:12:52.272 --> 00:12:56.376
+And that's a quick look at the updates
+to the core elements of iOS.
+
+00:12:56.443 --> 00:13:00.080
+We think these new features are gonna
+make iOS even more helpful in the moment.
+
+00:13:00.581 --> 00:13:04.585
+Another iconic experience
+that's getting a major update is Siri.
+
+00:13:06.386 --> 00:13:08.355
+As much as Siri has advanced
+over the years,
+
+00:13:08.422 --> 00:13:12.459
+the visual interface for interacting
+with it has remained largely unchanged.
+
+00:13:12.526 --> 00:13:15.796
+When you use Siri, your iPhone
+switches to this full-screen UI,
+
+00:13:15.863 --> 00:13:17.464
+obscuring your current context.
+
+00:13:17.931 --> 00:13:21.335
+So this year, we've completely redesigned
+the Siri experience
+
+00:13:21.401 --> 00:13:23.003
+with a new compact design.
+
+00:13:23.403 --> 00:13:26.540
+It makes tasks like launching apps
+incredibly seamless.
+
+00:13:26.607 --> 00:13:29.243
+For example, if you say, "Open Safari,"
+
+00:13:29.676 --> 00:13:33.013
+Siri pops up at the bottom of the screen
+and instantly launches the app.
+
+00:13:33.514 --> 00:13:35.782
+Or if you ask for information,
+like the weather,
+
+00:13:35.849 --> 00:13:39.453
+results appear at the top of the screen
+just like a notification.
+
+00:13:39.920 --> 00:13:41.321
+Now this is especially great
+
+00:13:41.388 --> 00:13:43.757
+when there's information
+you want to reference on-screen.
+
+00:13:44.091 --> 00:13:46.827
+For example, you could ask Siri
+to add to your grocery list.
+
+00:13:47.728 --> 00:13:51.465
+So that's the new Siri design in iOS 14.
+
+00:13:51.532 --> 00:13:54.134
+But the UI is only part of the story.
+
+00:13:54.201 --> 00:13:57.204
+To tell you more about
+how we're making Siri smarter than ever,
+
+00:13:57.538 --> 00:13:59.506
+I'll hand it off to Yael Garten.
+
+00:14:00.240 --> 00:14:01.275
+Thanks, Craig.
+
+00:14:01.341 --> 00:14:04.511
+Siri's getting smarter
+and even more helpful every day,
+
+00:14:04.578 --> 00:14:06.880
+and I'm really excited to share
+the latest updates with you.
+
+00:14:07.347 --> 00:14:09.750
+Siri helps you in a ton of little ways
+every day:
+
+00:14:10.083 --> 00:14:13.854
+playing the morning news,
+ordering a coffee, getting directions,
+
+00:14:13.921 --> 00:14:16.924
+setting the alarm before going to bed
+and so much more.
+
+00:14:17.491 --> 00:14:20.093
+In fact, Siri's helping so many of you
+
+00:14:20.160 --> 00:14:22.930
+with a staggering 25 billion requests
+each month.
+
+00:14:23.430 --> 00:14:25.899
+And Siri's getting more helpful every day.
+
+00:14:26.400 --> 00:14:28.502
+Siri's always been great
+for getting information
+
+00:14:28.569 --> 00:14:31.939
+and now has over 20 times more facts
+than just three years ago.
+
+00:14:32.472 --> 00:14:33.674
+For more complex questions
+
+00:14:33.740 --> 00:14:37.411
+like "How do hybrid cars work?"
+or "What causes seasons?",
+
+00:14:37.477 --> 00:14:40.981
+we recently introduced answers
+from websites across the Internet,
+
+00:14:41.048 --> 00:14:43.851
+enabling Siri to help you
+find even more answers.
+
+00:14:44.585 --> 00:14:48.555
+Another way Siri helps is
+with communication, like sending messages.
+
+00:14:48.622 --> 00:14:52.025
+This year, you can now ask Siri
+to send an audio message,
+
+00:14:52.092 --> 00:14:53.560
+and Siri will start recording.
+
+00:14:53.927 --> 00:14:57.664
+This is great when you really want to have
+the emotion of your voice come through.
+
+00:14:58.232 --> 00:15:01.568
+Another popular way to send messages
+with your voice is using dictation.
+
+00:15:01.969 --> 00:15:05.372
+Keyboard Dictation uses
+the same speech recognition as Siri.
+
+00:15:05.772 --> 00:15:08.642
+And leveraging
+the power of the Neural Engine,
+
+00:15:08.709 --> 00:15:11.578
+we are now able
+to run dictation on-device.
+
+00:15:12.012 --> 00:15:14.848
+This provides great accuracy and privacy.
+
+00:15:15.916 --> 00:15:19.853
+When communicating with someone in another
+language, Siri can help with translations.
+
+00:15:20.320 --> 00:15:23.624
+This year we're expanding
+to support many new language pairs.
+
+00:15:23.690 --> 00:15:25.058
+This is hugely popular,
+
+00:15:25.125 --> 00:15:28.195
+but we know our users want
+more than just translating phrases.
+
+00:15:28.262 --> 00:15:30.464
+They want to have entire conversations.
+
+00:15:30.531 --> 00:15:32.966
+And we believe conversations
+between languages
+
+00:15:33.033 --> 00:15:37.304
+should feel natural and easy
+and have the ability to stay private.
+
+00:15:37.771 --> 00:15:41.241
+That's why we're introducing
+a new app called Translate.
+
+00:15:42.176 --> 00:15:46.280
+It is designed to be the best
+and easiest-to-use app for conversations.
+
+00:15:46.346 --> 00:15:50.517
+And it can work completely off-line,
+keeping your conversations private.
+
+00:15:51.018 --> 00:15:54.621
+Using advanced on-device machine learning
+and the powerful Neural Engine,
+
+00:15:54.955 --> 00:15:56.657
+you can translate your text and voice
+
+00:15:56.723 --> 00:15:59.393
+between any combination
+of these 11 languages.
+
+00:15:59.893 --> 00:16:02.729
+So I could have a conversation
+with someone in Mandarin,
+
+00:16:02.996 --> 00:16:05.699
+and they could have a conversation
+with someone in Russian.
+
+00:16:06.033 --> 00:16:09.136
+Just tap on the microphone and say,
+"What are your store hours?"
+
+00:16:09.703 --> 00:16:11.738
+[Siri reads Spanish translation]
+
+00:16:11.805 --> 00:16:14.007
+[Yael] You get back
+the text and audio right away.
+
+00:16:14.374 --> 00:16:18.111
+And just turn the phone to landscape
+to open conversation mode.
+
+00:16:18.178 --> 00:16:20.147
+We've designed a side-by-side view
+
+00:16:20.214 --> 00:16:24.084
+that's easy for two people to know
+which side to follow in the conversation.
+
+00:16:24.484 --> 00:16:27.955
+This mode is incredibly intuitive,
+with just a single microphone button
+
+00:16:28.021 --> 00:16:31.458
+because the app intelligently detects
+the language spoken
+
+00:16:31.525 --> 00:16:34.194
+and shows translation
+on the correct side of the screen.
+
+00:16:35.028 --> 00:16:39.166
+Translate will make communicating
+between languages easier than ever before,
+
+00:16:39.233 --> 00:16:41.034
+connecting people in new ways.
+
+00:16:41.101 --> 00:16:43.270
+And we can't wait for you to try it.
+
+00:16:43.737 --> 00:16:44.938
+Thanks, Yael.
+
+00:16:45.005 --> 00:16:47.074
+Next up, Messages.
+
+00:16:47.774 --> 00:16:51.712
+Messages is how many of us communicate
+with people most important to us.
+
+00:16:52.279 --> 00:16:54.248
+And now we're using it more than ever.
+
+00:16:54.314 --> 00:16:55.682
+Compared to just a year ago,
+
+00:16:55.749 --> 00:16:59.586
+we have a record number of users
+sending a record number of messages.
+
+00:16:59.987 --> 00:17:02.222
+And we've seen people use Messages
+more and more
+
+00:17:02.289 --> 00:17:04.958
+to keep in touch
+with their closest groups.
+
+00:17:05.025 --> 00:17:06.727
+This year, we're introducing
+
+00:17:06.793 --> 00:17:10.130
+a new way to stay connected
+with your most important conversations,
+
+00:17:10.197 --> 00:17:13.267
+giving you new ways
+to express your identity with Memoji
+
+00:17:13.700 --> 00:17:17.237
+and making big changes
+to how we communicate in groups.
+
+00:17:17.738 --> 00:17:20.340
+To tell you more, here's Stacey Lysik.
+
+00:17:20.874 --> 00:17:21.875
+Thanks, Craig.
+
+00:17:21.942 --> 00:17:25.045
+First, let's get started
+with Conversations.
+
+00:17:25.112 --> 00:17:27.014
+From the beginning, Messages was designed
+
+00:17:27.080 --> 00:17:29.750
+to make it really easy
+to get to your newest messages.
+
+00:17:29.816 --> 00:17:31.818
+But with so many active conversations,
+
+00:17:31.885 --> 00:17:35.289
+sometimes it can be tough to get to
+the ones that are most important to you.
+
+00:17:35.989 --> 00:17:38.091
+So we are introducing a new way
+
+00:17:38.158 --> 00:17:41.795
+to let you stay connected
+to your most important conversations:
+
+00:17:41.862 --> 00:17:44.331
+by letting you pin them
+at the top of your list
+
+00:17:44.398 --> 00:17:45.899
+so you can always get to them.
+
+00:17:46.500 --> 00:17:50.871
+And you can see messages as they come in
+with a beautiful animation on the pin.
+
+00:17:51.338 --> 00:17:54.341
+Next, let's talk about expressing yourself
+with Memoji.
+
+00:17:55.576 --> 00:17:59.580
+There are over one trillion ways
+to customize your identity with Memoji.
+
+00:18:00.013 --> 00:18:03.417
+In iOS 14, we're adding even more ways
+to create your look
+
+00:18:03.483 --> 00:18:06.320
+with over 20 new hair and headwear styles
+
+00:18:06.386 --> 00:18:10.023
+to let you reflect your hobby, profession
+and personality.
+
+00:18:10.624 --> 00:18:14.528
+We've also added something that's
+even more relevant today: face coverings.
+
+00:18:15.229 --> 00:18:17.898
+And we're adding more age options too.
+
+00:18:18.432 --> 00:18:22.135
+My favorite way of using Memoji
+is with Memoji stickers.
+
+00:18:22.536 --> 00:18:24.838
+And now we have
+three brand-new Memoji stickers
+
+00:18:24.905 --> 00:18:29.142
+that let you send a hug, a fist bump
+or even a blush to your friends.
+
+00:18:29.810 --> 00:18:31.812
+Last, let's chat about groups.
+
+00:18:32.312 --> 00:18:35.182
+When you're talking to a group,
+sometimes there's so much going on,
+
+00:18:35.249 --> 00:18:37.551
+it can be hard to keep track
+of the conversation.
+
+00:18:37.618 --> 00:18:40.654
+So this year, we're gonna help you
+bring order to the chaos.
+
+00:18:41.421 --> 00:18:43.190
+First we're adding inline replies
+
+00:18:43.257 --> 00:18:45.726
+that let you reply
+directly to a specific message.
+
+00:18:46.126 --> 00:18:48.462
+You can view replies
+in the full conversation
+
+00:18:48.529 --> 00:18:53.066
+or you can view them as their own thread
+so you can focus in on the specific topic.
+
+00:18:53.534 --> 00:18:56.203
+To make it even more clear
+who a message was meant for,
+
+00:18:56.270 --> 00:18:57.671
+we're introducing mentions.
+
+00:18:58.238 --> 00:19:00.340
+With mentions,
+you can just type someone's name
+
+00:19:00.407 --> 00:19:01.875
+to direct a message to them.
+
+00:19:02.543 --> 00:19:05.112
+And now you have the ability
+to only be notified
+
+00:19:05.179 --> 00:19:07.414
+when you're mentioned
+in the group conversation.
+
+00:19:07.881 --> 00:19:10.050
+And check out
+the top of this conversation.
+
+00:19:10.117 --> 00:19:12.586
+We have an all-new design
+for how groups appear.
+
+00:19:13.053 --> 00:19:14.855
+It lets you see
+all the members of your group,
+
+00:19:14.922 --> 00:19:17.624
+where the most recently active people
+are shown largest.
+
+00:19:18.125 --> 00:19:19.526
+And, for the first time ever,
+
+00:19:19.593 --> 00:19:23.230
+you can create a unique visual identity
+for your group
+
+00:19:23.297 --> 00:19:24.698
+by setting a group photo
+
+00:19:25.165 --> 00:19:27.634
+or customizing your group's look
+with an emoji.
+
+00:19:28.535 --> 00:19:30.037
+Inside the conversation
+
+00:19:30.103 --> 00:19:32.639
+you see group members' photos
+around the image.
+
+00:19:32.706 --> 00:19:34.842
+Of course it looks great as a pin.
+
+00:19:35.475 --> 00:19:37.511
+You know who's most recently commented
+in the group
+
+00:19:37.578 --> 00:19:40.647
+because their photo will appear
+around the outside of the pin.
+
+00:19:40.714 --> 00:19:43.750
+And that's what's coming to Messages
+in iOS 14:
+
+00:19:43.817 --> 00:19:47.387
+all-new pinned conversations,
+fun updates to Memoji
+
+00:19:47.454 --> 00:19:49.489
+and powerful improvements to groups.
+
+00:19:50.057 --> 00:19:51.291
+Thanks, Stacey.
+
+00:19:51.358 --> 00:19:55.195
+Next, let's take a look at features
+that help us while we're out and about.
+
+00:19:55.729 --> 00:19:59.399
+Now we know that life looks very different
+for many of us right now,
+
+00:19:59.466 --> 00:20:01.168
+but it won't always be this way.
+
+00:19:59.466 --> 00:20:01.168
+but it won't always be this way.
+
+00:20:01.235 --> 00:20:02.936
+And as things start to open up,
+
+00:20:03.003 --> 00:20:06.373
+we have a new set of features
+that will help us explore the world again,
+
+00:20:06.440 --> 00:20:08.175
+starting with Maps.
+
+00:20:08.942 --> 00:20:11.845
+Apple Maps is the best way to navigate
+and explore the world,
+
+00:20:11.912 --> 00:20:13.680
+all while protecting your privacy.
+
+00:20:13.747 --> 00:20:16.617
+Over the past several years,
+we've added many great features,
+
+00:20:16.683 --> 00:20:19.887
+and of course we've been
+rebuilding our map from the ground up.
+
+00:20:20.387 --> 00:20:23.323
+Our new map finished rolling out
+across the US earlier this year
+
+00:20:23.390 --> 00:20:26.593
+and brought with it better navigation
+and far richer detail
+
+00:20:26.660 --> 00:20:29.897
+for roads, pedestrian paths,
+landcover and more.
+
+00:20:30.364 --> 00:20:33.734
+The new map also offers
+more accurate information for places
+
+00:20:33.800 --> 00:20:37.171
+and allows us to build incredible features
+like Look Around.
+
+00:20:37.237 --> 00:20:40.474
+Maps has come a long way,
+and people have noticed.
+
+00:20:40.541 --> 00:20:42.509
+Just look at this quote from Fast Company.
+
+00:20:42.576 --> 00:20:45.546
+"Apple Maps has improved
+by leaps and bounds
+
+00:20:45.612 --> 00:20:47.881
+and is a formidable rival to Google Maps.
+
+00:20:47.948 --> 00:20:50.184
+It's also arguably got the better UI,
+
+00:20:50.250 --> 00:20:54.254
+and by far-- by far--
+the better privacy policy."
+
+00:20:54.721 --> 00:20:56.056
+We're excited to announce
+
+00:20:56.123 --> 00:20:59.259
+we're bringing our new map
+to more countries later this year,
+
+00:20:59.326 --> 00:21:02.396
+including the UK, Ireland and Canada.
+
+00:21:03.163 --> 00:21:06.033
+In addition to the rich detail
+and improved accuracy,
+
+00:21:06.099 --> 00:21:09.903
+the new map serves as the foundation
+for many great new features.
+
+00:21:10.304 --> 00:21:12.472
+In iOS 14, we're adding things
+
+00:21:12.539 --> 00:21:15.475
+that will make it easier
+for people to find places they love
+
+00:21:15.542 --> 00:21:17.211
+and help them get to where they're going
+
+00:21:17.277 --> 00:21:19.246
+in ways that are better
+for the environment.
+
+00:21:19.680 --> 00:21:23.083
+To tell you more,
+I'll hand it off to Meg Frost.
+
+00:21:23.684 --> 00:21:24.818
+Thanks, Craig.
+
+00:21:24.885 --> 00:21:28.121
+First, let's talk about
+finding great places.
+
+00:21:28.188 --> 00:21:31.124
+We have millions of people
+coming to Maps every day
+
+00:21:31.191 --> 00:21:33.193
+to discover great new places,
+
+00:21:33.594 --> 00:21:35.963
+whether they're planning
+their next big vacation
+
+00:21:36.029 --> 00:21:38.165
+or just looking for
+something to eat nearby.
+
+00:21:38.632 --> 00:21:40.067
+In iOS 14,
+
+00:21:40.133 --> 00:21:44.104
+the Maps team will be working with
+some of the world's most trusted brands
+
+00:21:44.171 --> 00:21:46.673
+to offer amazing Guides.
+
+00:21:46.740 --> 00:21:49.643
+Guides for great places to eat, shop,
+
+00:21:49.710 --> 00:21:53.747
+meet friends or explore
+in cities around the world.
+
+00:21:54.114 --> 00:21:57.518
+You can save Guides
+so you can easily get back to them later,
+
+00:21:57.584 --> 00:22:01.255
+and the best part is they automatically
+update when new places are added,
+
+00:22:01.321 --> 00:22:04.658
+so you always have
+the latest recommendations.
+
+00:22:05.092 --> 00:22:07.861
+In addition to helping you
+discover great new places,
+
+00:22:07.928 --> 00:22:11.698
+Maps helps you get there
+in a way that's better for the planet.
+
+00:22:11.765 --> 00:22:14.368
+For years,
+Maps has made it easy to navigate
+
+00:22:14.434 --> 00:22:18.105
+using environmentally-friendly options
+like public transit and walking.
+
+00:22:18.572 --> 00:22:21.742
+With iOS 14,
+we're introducing great new features
+
+00:22:21.808 --> 00:22:24.344
+to help our users
+reduce their carbon footprint,
+
+00:22:24.811 --> 00:22:28.215
+and our first one is
+also our most requested:
+
+00:22:28.282 --> 00:22:29.616
+It's Cycling.
+
+00:22:30.517 --> 00:22:32.986
+We've built an incredible
+cycling experience
+
+00:22:33.053 --> 00:22:35.355
+that helps you get around town
+on your bike.
+
+00:22:36.123 --> 00:22:38.959
+We're adding a dedicated cycling option
+to Maps
+
+00:22:39.026 --> 00:22:44.097
+which allows users to ride their bike
+along bike lanes, paths and roads.
+
+00:22:44.498 --> 00:22:46.333
+Maps takes elevation into account
+
+00:22:46.400 --> 00:22:49.336
+to let you know if you're in for
+a challenging uphill workout
+
+00:22:49.770 --> 00:22:51.638
+or a leisurely flat ride.
+
+00:22:52.005 --> 00:22:55.809
+You can also see if your route
+includes quiet or busy roads.
+
+00:22:56.176 --> 00:22:59.279
+We'll even let you know
+if you have a steep passage coming up
+
+00:22:59.346 --> 00:23:01.548
+or if you'll need to carry your bike
+up the stairs.
+
+00:23:02.182 --> 00:23:05.452
+You can also choose
+to avoid stairs altogether.
+
+00:23:06.353 --> 00:23:09.690
+With iOS 14, we're bringing cycling
+to New York City, LA,
+
+00:23:09.756 --> 00:23:11.258
+the San Francisco Bay Area,
+
+00:23:11.325 --> 00:23:14.728
+along with a number of cities in China
+like Shanghai and Beijing.
+
+00:23:15.195 --> 00:23:18.632
+And we'll be adding many more cities
+in the coming months.
+
+00:23:19.099 --> 00:23:23.971
+For environmentally conscious drivers,
+we're also introducing EV routing.
+
+00:23:25.005 --> 00:23:26.573
+If you have an electric car,
+
+00:23:26.640 --> 00:23:30.244
+Maps is going to help eliminate
+range anxiety.
+
+00:23:30.310 --> 00:23:33.981
+With iOS 14,
+Maps will track your current charge
+
+00:23:34.047 --> 00:23:36.917
+and factor in things
+like elevation and weather
+
+00:23:36.984 --> 00:23:40.621
+to automatically add charging stops
+along your route.
+
+00:23:40.687 --> 00:23:44.124
+And Maps will know
+which type of charger works for your car,
+
+00:23:44.191 --> 00:23:47.394
+making sure to only route you
+to compatible stations.
+
+00:23:47.861 --> 00:23:49.897
+We're working with a number
+of manufacturers
+
+00:23:49.963 --> 00:23:52.399
+to support EV routing in their vehicles,
+
+00:23:52.466 --> 00:23:54.368
+including BMW and Ford,
+
+00:23:54.434 --> 00:23:57.204
+and we'll be adding many more
+in the near future.
+
+00:23:57.271 --> 00:24:02.776
+Cities around the world are also working
+to improve air quality and reduce traffic,
+
+00:24:02.843 --> 00:24:06.213
+so we're adding
+congestion and green zones to Maps
+
+00:24:06.280 --> 00:24:10.617
+to easily see where they are
+along with alternate routing options.
+
+00:24:11.185 --> 00:24:12.886
+In addition, drivers in China
+
+00:24:12.953 --> 00:24:16.356
+can securely store their
+license plate number on their iPhone,
+
+00:24:16.423 --> 00:24:20.160
+and Maps will let them know which days
+they can enter congested city centers
+
+00:24:20.227 --> 00:24:21.828
+based on that number.
+
+00:24:21.895 --> 00:24:24.631
+And those are just some
+of the great new features
+
+00:24:24.698 --> 00:24:27.201
+coming to Apple Maps in iOS 14,
+
+00:24:27.267 --> 00:24:29.736
+making Maps the best product
+
+00:24:29.803 --> 00:24:32.840
+to help users explore
+and navigate their world.
+
+00:24:33.874 --> 00:24:35.108
+Thanks, Meg.
+
+00:24:35.175 --> 00:24:37.611
+And now, on to CarPlay,
+
+00:24:37.678 --> 00:24:40.347
+which has transformed
+the driving experience for iPhone owners
+
+00:24:40.414 --> 00:24:44.685
+by being the smarter, safer way
+to use the apps you love in your car.
+
+00:24:44.751 --> 00:24:48.222
+CarPlay is everywhere,
+and it's incredibly popular.
+
+00:24:48.288 --> 00:24:51.792
+Here in the US,
+it's available on basically every new car.
+
+00:24:51.859 --> 00:24:55.896
+And worldwide, it's available
+on over 80% of new cars sold
+
+00:24:55.963 --> 00:24:59.967
+and has quickly become the default
+in-car experience for so many people.
+
+00:25:00.033 --> 00:25:04.338
+People love CarPlay, and we get
+some really passionate reactions.
+
+00:25:04.404 --> 00:25:07.674
+Joanna Stern says
+it makes her life "infinitely better."
+
+00:25:07.741 --> 00:25:11.245
+We have some great updates for iOS 14.
+
+00:25:11.311 --> 00:25:15.816
+First up, we have new wallpaper options
+perfect for the car.
+
+00:25:15.883 --> 00:25:18.619
+And we're adding support
+for new categories of CarPlay apps:
+
+00:25:18.685 --> 00:25:22.422
+parking, EV charging
+and quick food ordering.
+
+00:25:22.489 --> 00:25:25.425
+In addition to this,
+we're really excited for the next step
+
+00:25:25.492 --> 00:25:28.128
+in how we're transforming
+your relationship with your car
+
+00:25:28.195 --> 00:25:30.364
+by rethinking car keys.
+
+00:25:30.430 --> 00:25:32.132
+They've been around
+for over a hundred years,
+
+00:25:32.199 --> 00:25:36.403
+but they've become big, bulky
+and ripe for reimagining.
+
+00:25:36.470 --> 00:25:38.705
+To tell you more about
+what we have planned,
+
+00:25:38.772 --> 00:25:41.275
+let's go to the garage
+with Emily Schubert.
+
+00:25:42.709 --> 00:25:43.777
+Thanks, Craig.
+
+00:25:43.844 --> 00:25:46.914
+I'm excited to introduce
+a digital version of car keys.
+
+00:25:46.980 --> 00:25:49.316
+Now you can leave your keys at home
+
+00:25:49.383 --> 00:25:51.852
+and unlock and start your car
+with your iPhone.
+
+00:25:51.919 --> 00:25:57.124
+And the very first car to support this
+will be the new 2021 BMW 5 Series.
+
+00:25:57.191 --> 00:25:58.559
+Let me show you how it works.
+
+00:25:58.625 --> 00:26:00.060
+It's super simple.
+
+00:26:00.127 --> 00:26:02.596
+-It uses NFC, and you just tap to unlock.
+-[beeps]
+
+00:26:04.298 --> 00:26:07.835
+And I place my phone on the charging pad
+and then push to start.
+
+00:26:07.901 --> 00:26:08.869
+[chimes]
+
+00:26:08.936 --> 00:26:12.539
+But this goes beyond just one less thing
+you have to keep in your pocket.
+
+00:26:12.973 --> 00:26:15.242
+Digital keys have security benefits.
+
+00:26:15.309 --> 00:26:18.178
+They live in the Secure Element
+of your iPhone,
+
+00:26:18.245 --> 00:26:22.716
+and if it goes missing, you can turn off
+your keys remotely via iCloud.
+
+00:26:23.317 --> 00:26:25.786
+They're even easier to share
+than a physical key.
+
+00:26:25.853 --> 00:26:28.655
+Copies don't involve
+trips to the dealership.
+
+00:26:28.722 --> 00:26:32.025
+And you can share
+from wherever you are with iMessage.
+
+00:26:32.793 --> 00:26:36.096
+Let's give Craig a key so he can
+drive home after we're done here.
+
+00:26:37.064 --> 00:26:39.800
+With each key you share,
+you can set options,
+
+00:26:39.867 --> 00:26:44.004
+like a restricted driving profile,
+perfect for teen drivers.
+
+00:26:44.071 --> 00:26:46.306
+Which is tempting,
+
+00:26:46.373 --> 00:26:48.876
+but we'll give Craig full access.
+
+00:26:50.777 --> 00:26:51.778
+[phone chimes]
+
+00:26:53.981 --> 00:26:56.717
+-[phone chimes]
+-Full access? Thanks, Emily.
+
+00:26:57.251 --> 00:27:00.754
+The new BMW will be available
+to customers next month.
+
+00:27:00.821 --> 00:27:03.257
+In addition to adding this feature
+to iOS 14,
+
+00:27:03.323 --> 00:27:05.492
+we're also enabling it in iOS 13,
+
+00:27:05.559 --> 00:27:08.595
+so customers can use their car keys
+even sooner.
+
+00:27:09.129 --> 00:27:11.999
+Of course,
+we want this to work in any car,
+
+00:27:12.065 --> 00:27:14.768
+so we've been working on standards
+with industry groups.
+
+00:27:14.835 --> 00:27:16.670
+And this is just the beginning.
+
+00:27:16.737 --> 00:27:19.806
+We're working on technology
+that will leverage our U1 chip,
+
+00:27:19.873 --> 00:27:24.578
+which uses Ultra Wideband technology
+for precise spatial awareness.
+
+00:27:24.645 --> 00:27:27.314
+So you'll be able to leave your iPhone
+in your bag or pocket
+
+00:27:27.381 --> 00:27:30.551
+and still securely
+unlock and start your car.
+
+00:27:30.617 --> 00:27:34.788
+We expect to see support for this standard
+starting in new cars next year.
+
+00:27:35.355 --> 00:27:38.225
+Now, let's turn to the App Store.
+
+00:27:38.292 --> 00:27:39.426
+Twelve years ago,
+
+00:27:39.493 --> 00:27:42.863
+we revolutionized the industry
+with the launch of the App Store.
+
+00:27:42.930 --> 00:27:47.868
+Today we have so many amazing apps
+that offer a rich set of experiences,
+
+00:27:47.935 --> 00:27:51.071
+we can truly say
+that for everything we want to do,
+
+00:27:51.138 --> 00:27:53.273
+"There's an app for that."
+
+00:27:53.340 --> 00:27:56.577
+So now it's time for us to extend
+the success of the App Store
+
+00:27:56.643 --> 00:27:59.680
+and make apps available and accessible
+in whole new ways.
+
+00:28:00.214 --> 00:28:03.917
+What if you could have the right app
+you needed at just the right moment?
+
+00:28:03.984 --> 00:28:06.653
+Let's look at what it would be like
+if you did.
+
+00:28:07.554 --> 00:28:09.623
+[narrator]
+Today, no matter what you want to do,
+
+00:28:09.690 --> 00:28:10.924
+there's an app for that.
+
+00:28:10.991 --> 00:28:13.961
+<i>But what if you don't have the app
+you need right when you need it?</i>
+
+00:28:14.027 --> 00:28:18.432
+<i>Like when you need to pay for parking.
+Well, now there's an App Clip for that.</i>
+
+00:28:19.299 --> 00:28:20.167
+[car chirps]
+
+00:28:20.667 --> 00:28:23.270
+Ooh. Look, a new coffee shop.
+
+00:28:23.337 --> 00:28:24.938
+There's an App Clip for that.
+
+00:28:27.341 --> 00:28:29.910
+<i>Or a friend sends you a message
+with a print you like.</i>
+
+00:28:30.711 --> 00:28:32.246
+There's an App Clip for that.
+
+00:28:32.713 --> 00:28:34.248
+That looks nice.
+
+00:28:34.314 --> 00:28:37.184
+<i>Looking for somewhere to eat nearby?
+App Clip.</i>
+
+00:28:37.818 --> 00:28:39.553
+Very health conscious of you.
+
+00:28:40.621 --> 00:28:43.557
+<i>Hey, there's a scooter.
+Let's take it for a spin.</i>
+
+00:28:43.624 --> 00:28:44.791
+Yep. App Clip.
+
+00:28:46.860 --> 00:28:50.264
+<i>Mmm. Ice cream. Wait.
+There isn't one for that yet?</i>
+
+00:28:50.330 --> 00:28:53.100
+<i>Well, soon there could be
+an App Clip for that.</i>
+
+00:28:53.166 --> 00:28:54.067
+And that.
+
+00:28:54.134 --> 00:28:55.035
+And that.
+
+00:28:55.102 --> 00:28:56.003
+And that.
+
+00:28:56.069 --> 00:28:57.337
+-And that.
+-[martial artist] Hi-yah!
+
+00:29:00.941 --> 00:29:03.744
+An App Clip is a small part of an app.
+
+00:29:03.810 --> 00:29:06.346
+It's light and fast and easy to discover,
+
+00:29:06.413 --> 00:29:09.016
+so you can quickly get what you need
+right when you need it.
+
+00:29:09.917 --> 00:29:13.253
+Everything about App Clips
+is designed for speed.
+
+00:29:13.320 --> 00:29:16.223
+They start with this card
+which quickly pops up.
+
+00:29:16.290 --> 00:29:19.326
+And with just a tap,
+you can launch the App Clip.
+
+00:29:19.393 --> 00:29:21.428
+You don't need to enter
+credit card numbers
+
+00:29:21.495 --> 00:29:24.364
+because App Clips
+can use Apple Pay for payments.
+
+00:29:24.431 --> 00:29:27.100
+And you don't have to manually
+log into an account
+
+00:29:27.167 --> 00:29:29.837
+because it can take advantage
+of Sign in with Apple.
+
+00:29:30.504 --> 00:29:32.873
+App Clips won't clutter your Home Screen
+
+00:29:32.940 --> 00:29:35.609
+and will only stay along
+as long as you need them.
+
+00:29:35.676 --> 00:29:40.514
+But you can easily launch recently used
+App Clips from the new App Library.
+
+00:29:40.581 --> 00:29:42.850
+It's always easy to download the full app,
+
+00:29:42.916 --> 00:29:45.752
+and this makes App Clips
+an easy way to discover
+
+00:29:45.819 --> 00:29:48.555
+more of what the App Store has to offer.
+
+00:29:48.622 --> 00:29:50.557
+And discovery is key.
+
+00:29:50.624 --> 00:29:54.461
+App Clips are all about getting to a part
+of an app at the moment you need it,
+
+00:29:54.528 --> 00:29:57.497
+so it was critical that we made them
+really easy to find.
+
+00:29:58.131 --> 00:30:01.335
+App Clips can be easily discovered
+and launched from the web.
+
+00:29:58.131 --> 00:30:01.335
+App Clips can be easily discovered
+and launched from the web.
+
+00:30:01.401 --> 00:30:04.438
+You can launch App Clips from Messages
+when friends share them with you.
+
+00:30:04.505 --> 00:30:07.074
+When you want to order takeout
+from a restaurant in Maps,
+
+00:30:07.140 --> 00:30:10.110
+you can launch an App Clip
+right from a place card.
+
+00:30:10.177 --> 00:30:14.515
+You'll be able to tap on NFC tags out in
+the world, on things like parking meters.
+
+00:30:14.581 --> 00:30:16.316
+Or you can scan QR codes
+
+00:30:16.383 --> 00:30:19.219
+to launch App Clips
+that work with products you purchase.
+
+00:30:19.286 --> 00:30:24.191
+The best way to discover App Clips will be
+with the new Apple-designed App Clip code.
+
+00:30:24.258 --> 00:30:28.295
+So when you see one, you'll know
+that there's an App Clip waiting for you.
+
+00:30:28.362 --> 00:30:31.431
+They incorporate
+both a visual code and NFC,
+
+00:30:31.498 --> 00:30:36.103
+so you tap on them or scan them with
+the camera to bring up an App Clip.
+
+00:30:36.170 --> 00:30:39.806
+App Clips will be great for businesses
+that already have apps.
+
+00:30:39.873 --> 00:30:42.543
+But we want to be able
+to use App Clips everywhere,
+
+00:30:42.609 --> 00:30:46.380
+including smaller spots
+that may not have their own app.
+
+00:30:46.446 --> 00:30:50.284
+So we made it possible for apps like Yelp,
+which support multiple businesses,
+
+00:30:50.350 --> 00:30:54.688
+to create App Clip experiences
+for each of the places they work with.
+
+00:30:54.755 --> 00:30:57.558
+Developers will create App Clips
+from a part of an app,
+
+00:30:57.624 --> 00:31:00.627
+using Xcode and the full power of the SDK.
+
+00:31:01.028 --> 00:31:02.429
+To ensure that they launch quickly,
+
+00:31:02.496 --> 00:31:05.632
+they'll need to be
+less than 10 megabytes in size.
+
+00:31:05.699 --> 00:31:07.901
+And that's App Clips.
+
+00:31:07.968 --> 00:31:09.670
+Immediately discoverable,
+
+00:31:09.736 --> 00:31:11.872
+small in size, so they launch fast,
+
+00:31:11.939 --> 00:31:14.274
+integrated Apple Pay for easy payment,
+
+00:31:14.341 --> 00:31:17.644
+Sign in with Apple
+for quick and privacy-friendly login
+
+00:31:17.711 --> 00:31:20.447
+and the option to download the full app
+from the App Store
+
+00:31:20.514 --> 00:31:22.049
+when you want to keep it around.
+
+00:31:22.115 --> 00:31:25.886
+We can't wait to see all the App Clips
+developers will create.
+
+00:31:25.953 --> 00:31:28.388
+And that's iOS 14.
+
+00:31:28.455 --> 00:31:32.526
+It's a huge release that transforms
+the core experience of iPhone,
+
+00:31:32.593 --> 00:31:35.195
+with redesigned widgets
+right on the Home Screen
+
+00:31:35.262 --> 00:31:38.398
+and a new way to organize your apps
+with the App Library.
+
+00:31:38.899 --> 00:31:41.568
+It adds incredible updates
+to some of the most popular apps,
+
+00:31:41.635 --> 00:31:44.037
+with powerful improvements
+to Messages and Maps,
+
+00:31:44.104 --> 00:31:47.140
+and introduces a whole new way
+to tap into apps
+
+00:31:47.207 --> 00:31:48.542
+with App Clips.
+
+00:31:48.609 --> 00:31:50.844
+And next up, iPadOS.
+
+00:31:50.911 --> 00:31:53.480
+["S.S. Luker's Mom" by Oh Sees playing]
+
+00:32:01.255 --> 00:32:02.990
+Oh, hey, we made it.
+
+00:32:03.056 --> 00:32:04.925
+All right. Well, let's jump right in.
+
+00:32:05.392 --> 00:32:09.696
+iPadOS builds on
+all the amazing features of iOS
+
+00:32:09.763 --> 00:32:12.032
+while adding unique capabilities
+
+00:32:12.099 --> 00:32:15.602
+that deliver a distinct experience
+for iPad.
+
+00:32:16.436 --> 00:32:20.974
+Like using Apple Pencil for taking notes,
+markup and illustration.
+
+00:32:21.041 --> 00:32:22.643
+A reimagined track pad experience
+
+00:32:22.709 --> 00:32:25.512
+that lets you interact with iPad
+in a whole new way.
+
+00:32:25.579 --> 00:32:28.182
+And unmatched AR experiences with ARKit
+
+00:32:28.248 --> 00:32:31.552
+and the amazing new LiDAR Scanner
+in iPad Pro.
+
+00:32:31.618 --> 00:32:35.189
+All of this combines to put iPad
+into a class of its own.
+
+00:32:36.323 --> 00:32:38.892
+iPad excels at "every type of input"
+
+00:32:38.959 --> 00:32:42.129
+and is a "product to do anything
+and everything."
+
+00:32:43.630 --> 00:32:48.235
+Which brings us to this year
+and our new release, iPadOS 14.
+
+00:32:49.102 --> 00:32:51.104
+Let's start with experience.
+
+00:32:51.438 --> 00:32:55.342
+This year iPadOS delivers
+unique made-for-iPad designs
+
+00:32:55.409 --> 00:32:59.546
+that take great advantage
+of the iPad's large, multi-touch display.
+
+00:32:59.613 --> 00:33:02.115
+Now iPad has always been about the apps.
+
+00:33:02.182 --> 00:33:05.919
+In the beginning, we focused on
+giving the ecosystem of iPhone apps
+
+00:33:05.986 --> 00:33:09.723
+a larger canvas
+to deliver new and unique experiences.
+
+00:33:09.790 --> 00:33:12.993
+This quickly sparked
+an entirely new set of apps,
+
+00:33:13.060 --> 00:33:14.595
+designed for iPad first,
+
+00:33:14.661 --> 00:33:16.296
+with immersive experiences
+
+00:33:16.363 --> 00:33:18.665
+that transform this magical sheet of glass
+
+00:33:18.732 --> 00:33:20.334
+into whatever you needed it to be.
+
+00:33:20.834 --> 00:33:24.137
+We're proud of the over one million apps
+on the App Store today
+
+00:33:24.204 --> 00:33:26.874
+designed just for iPad.
+
+00:33:26.940 --> 00:33:30.544
+With customers continuing to push
+their iPads further than ever before,
+
+00:33:30.611 --> 00:33:32.746
+we're extending
+the design language of iPad
+
+00:33:32.813 --> 00:33:36.416
+to make apps more streamlined
+and more powerful.
+
+00:33:37.150 --> 00:33:39.286
+To give you a live look
+at these enhancements,
+
+00:33:39.353 --> 00:33:41.722
+I'll hand it over to Josh Shaffer.
+
+00:33:42.055 --> 00:33:43.090
+Thanks, Craig.
+
+00:33:43.524 --> 00:33:45.826
+Let's take a look at
+some of the enhancements to iPadOS.
+
+00:33:45.893 --> 00:33:47.594
+The first thing that you'll notice
+
+00:33:47.661 --> 00:33:50.898
+are the same redesigned widgets
+that you saw in iOS 14.
+
+00:33:51.298 --> 00:33:53.333
+They look great on iPad as well,
+
+00:33:53.400 --> 00:33:56.603
+and they give you information at a glance
+whenever you go Home.
+
+00:33:57.171 --> 00:34:00.474
+But let's see some of the improvements
+in the apps, starting with Photos.
+
+00:34:01.041 --> 00:34:03.810
+iPad is the perfect device
+for browsing your photos.
+
+00:34:04.211 --> 00:34:07.814
+Its large canvas lets you immerse yourself
+in all your favorite memories.
+
+00:34:07.881 --> 00:34:11.919
+And this year, we're making it even easier
+to browse and organize your photos
+
+00:34:11.985 --> 00:34:13.387
+with an all-new sidebar.
+
+00:34:13.954 --> 00:34:17.024
+With just a tap of this button,
+I can reveal the sidebar,
+
+00:34:17.090 --> 00:34:20.394
+with all the core functionality of the app
+in a single location.
+
+00:34:21.128 --> 00:34:23.397
+My photos remain front and center,
+
+00:34:23.463 --> 00:34:26.567
+but now I can quickly tap to move
+between parts of the app.
+
+00:34:26.967 --> 00:34:30.704
+The sidebar is a really powerful way
+to organize your photos too.
+
+00:34:30.771 --> 00:34:33.240
+I can easily drag a photo to the sidebar
+
+00:34:33.607 --> 00:34:36.009
+and then just drop it
+to add it to an album.
+
+00:34:36.076 --> 00:34:39.346
+We've brought this sidebar to many apps
+across iPadOS.
+
+00:34:39.746 --> 00:34:40.747
+Like Notes,
+
+00:34:40.814 --> 00:34:44.051
+where it provides quick and easy access
+to all your folders.
+
+00:34:44.618 --> 00:34:48.789
+And Files, where we've consolidated
+navigation into the sidebar
+
+00:34:48.856 --> 00:34:50.757
+for a streamlined new design.
+
+00:34:50.824 --> 00:34:52.893
+We've also streamlined the toolbars,
+
+00:34:52.960 --> 00:34:55.863
+adding new drop-down menus
+that consolidate functions
+
+00:34:55.929 --> 00:34:57.798
+into a single, easy-to-access button.
+
+00:34:58.465 --> 00:35:01.068
+I can just tap to change views like this.
+
+00:35:01.134 --> 00:35:02.836
+And for even quicker access,
+
+00:35:02.903 --> 00:35:06.974
+I can just tap and drag to change
+the sort order, all in a single motion.
+
+00:35:07.674 --> 00:35:11.078
+You'll find this same approach
+across other apps, like Calendar,
+
+00:35:11.411 --> 00:35:14.314
+where we've brought controls
+into a single toolbar at the top,
+
+00:35:14.748 --> 00:35:16.683
+providing more space for your content
+
+00:35:16.750 --> 00:35:20.754
+and a single unified place to access
+all the app's functionality.
+
+00:35:20.821 --> 00:35:23.323
+Finally, Music has been updated
+
+00:35:23.390 --> 00:35:26.360
+to take even better advantage
+of iPad's large screen.
+
+00:35:26.827 --> 00:35:29.696
+The sidebar in Music makes it easy
+to move between views.
+
+00:35:30.230 --> 00:35:34.067
+I can quickly jump between
+the new Listen Now and my playlists.
+
+00:35:34.401 --> 00:35:36.270
+-And once I start playing a song...
+-["Caution" by The Killers playing]
+
+00:35:36.336 --> 00:35:39.006
+...I can bring up the brand-new
+full-screen player,
+
+00:35:39.072 --> 00:35:42.509
+where I can see rich album art,
+transport controls and lyrics,
+
+00:35:42.576 --> 00:35:44.378
+-all in one single view.
+-[song fades]
+
+00:35:44.444 --> 00:35:46.180
+And these are just
+some of the enhancements
+
+00:35:46.246 --> 00:35:48.415
+that are coming to apps in iPadOS.
+
+00:35:49.049 --> 00:35:51.318
+We're really loving these new app designs.
+
+00:35:51.385 --> 00:35:52.553
+But there's more,
+
+00:35:52.619 --> 00:35:54.254
+starting with Siri.
+
+00:35:54.688 --> 00:35:57.691
+The new compact Siri design
+that you heard about in iOS 14
+
+00:35:57.758 --> 00:36:00.093
+is especially useful on iPad.
+
+00:36:00.460 --> 00:36:02.196
+Results appear at the bottom right corner,
+
+00:36:02.262 --> 00:36:05.632
+allowing you to easily reference the app
+while using Siri.
+
+00:36:05.699 --> 00:36:08.802
+And we applied this same approach
+to other parts of the experience...
+
+00:36:10.637 --> 00:36:11.638
+like calls.
+
+00:36:11.705 --> 00:36:15.008
+Now today when you receive a call
+on iPad, you see this.
+
+00:36:15.075 --> 00:36:16.076
+[beeps]
+
+00:36:16.143 --> 00:36:18.645
+Whatever you were working on
+is suddenly completely covered
+
+00:36:18.712 --> 00:36:20.547
+with the incoming call screen.
+
+00:36:20.614 --> 00:36:21.748
+Not cool.
+
+00:36:21.815 --> 00:36:24.051
+Wouldn't it be nicer
+if instead you saw this?
+
+00:36:24.117 --> 00:36:25.285
+[beeps]
+
+00:36:25.352 --> 00:36:26.553
+Well, that's much better.
+
+00:36:27.020 --> 00:36:30.023
+Now an incoming call is presented
+with a compact notification
+
+00:36:30.090 --> 00:36:32.292
+that doesn't take you out of context.
+
+00:36:32.860 --> 00:36:36.430
+And you can simply tap to answer
+or flick it away to dismiss.
+
+00:36:36.997 --> 00:36:39.900
+And this applies to all calls,
+including those from your iPhone
+
+00:36:39.967 --> 00:36:42.035
+or third-party VoIP apps like Skype.
+
+00:36:42.102 --> 00:36:43.170
+[rings]
+
+00:36:43.237 --> 00:36:46.473
+And of course we're bringing this
+to iOS as well.
+
+00:36:46.540 --> 00:36:49.309
+We think our iPhone customers
+are going to love it.
+
+00:36:49.376 --> 00:36:53.046
+Now there's one more key experience
+we've redesigned for iPad this year,
+
+00:36:53.680 --> 00:36:55.315
+and that's Search.
+
+00:36:55.382 --> 00:36:57.985
+Today Search is a full-screen experience,
+
+00:36:58.051 --> 00:37:00.854
+and sometimes you can lose track
+of your context.
+
+00:37:00.921 --> 00:37:04.057
+So we've redesigned Search
+with a new, compact design.
+
+00:37:04.124 --> 00:37:07.127
+You can start a search from anywhere,
+like the Home Screen
+
+00:37:07.194 --> 00:37:08.962
+or over any app.
+
+00:37:09.029 --> 00:37:10.964
+And this makes it easy
+to find what you need
+
+00:37:11.031 --> 00:37:13.634
+without feeling like you've left the app
+you're working in.
+
+00:37:14.034 --> 00:37:15.736
+But we didn't just redesign it.
+
+00:37:15.802 --> 00:37:20.440
+We've rebuilt Search from the ground up
+to be Universal,
+
+00:37:20.507 --> 00:37:24.311
+becoming a single destination
+where you can start all of your searches.
+
+00:37:24.645 --> 00:37:27.181
+First, we made it better than ever
+as an app launcher.
+
+00:37:27.247 --> 00:37:29.216
+You just start typing a few characters,
+
+00:37:29.283 --> 00:37:31.852
+and you can instantly get
+to where you're going.
+
+00:37:31.919 --> 00:37:35.622
+It's also great for finding contacts
+to message or call
+
+00:37:35.689 --> 00:37:36.890
+or documents.
+
+00:37:36.957 --> 00:37:42.095
+You can even search directly into apps
+like Keynote, Messages, Mail or Files.
+
+00:37:42.162 --> 00:37:44.498
+Or look up information
+about people or places.
+
+00:37:44.965 --> 00:37:48.969
+And it's also a great place to start
+all of your web searches as well.
+
+00:37:49.036 --> 00:37:50.304
+As soon as you start typing,
+
+00:37:50.370 --> 00:37:52.840
+you get relevant suggestions
+to complete your search.
+
+00:37:52.906 --> 00:37:56.176
+And you can get to your web search results
+with just a tap.
+
+00:37:56.243 --> 00:37:59.213
+And Search now makes navigating
+to your favorite websites
+
+00:37:59.279 --> 00:38:01.849
+just as easy as launching an app.
+
+00:38:01.915 --> 00:38:05.686
+Just type a few letters and the top hit
+will take you right to Safari.
+
+00:38:07.087 --> 00:38:10.457
+So those are some of our updates
+to the iPad experience.
+
+00:38:10.524 --> 00:38:12.292
+And of course,
+you also get the new widgets
+
+00:38:12.359 --> 00:38:15.729
+and all the other great app enhancements
+from iOS 14.
+
+00:38:16.864 --> 00:38:21.101
+Next, we want to push forward your ability
+to express yourself creatively
+
+00:38:21.168 --> 00:38:23.737
+with improvements to Apple Pencil.
+
+00:38:24.938 --> 00:38:27.074
+Apple Pencil is a game-changing tool
+
+00:38:27.140 --> 00:38:29.910
+that turns iPad into
+a professional drawing canvas,
+
+00:38:29.977 --> 00:38:32.613
+a great way to mark up and sign documents
+
+00:38:32.679 --> 00:38:35.249
+and the ultimate note-taking device.
+
+00:38:35.315 --> 00:38:38.852
+What many people love most
+about taking notes with Apple Pencil
+
+00:38:38.919 --> 00:38:41.889
+is how they can express themselves
+in a free-form way.
+
+00:38:41.955 --> 00:38:45.559
+Mixing handwriting and drawings can be
+the best way to capture your thoughts.
+
+00:38:45.626 --> 00:38:48.929
+Now the challenge is
+when you want to change things afterwards.
+
+00:38:48.996 --> 00:38:53.066
+Here, working with handwriting
+just isn't as easy as with typed text.
+
+00:38:53.133 --> 00:38:55.269
+Now, we sometimes take it for granted,
+
+00:38:55.335 --> 00:38:57.971
+but with typed text
+it's so easy to select,
+
+00:38:58.038 --> 00:39:00.007
+copy and paste into another document,
+
+00:39:00.073 --> 00:39:02.843
+or even just make space for more text.
+
+00:39:02.910 --> 00:39:06.747
+Well, this year, we're going to make
+handwriting just as easy
+
+00:39:06.813 --> 00:39:08.348
+and just as powerful.
+
+00:39:08.415 --> 00:39:09.750
+But that's not all.
+
+00:39:09.816 --> 00:39:13.320
+Our customers tell us that once they have
+an Apple Pencil in their hand,
+
+00:39:13.387 --> 00:39:14.821
+they don't want to put it away.
+
+00:39:14.888 --> 00:39:18.725
+So this year,
+we're bringing Scribble to iPad.
+
+00:39:19.226 --> 00:39:21.295
+So you can handwrite into any text field,
+
+00:39:21.361 --> 00:39:23.864
+and it will automatically
+be converted to text.
+
+00:39:24.464 --> 00:39:26.300
+To show you all of this in action,
+
+00:39:26.366 --> 00:39:29.369
+I'd like to welcome Jenny Chen
+for a live demo.
+
+00:39:29.636 --> 00:39:30.604
+Thanks, Craig.
+
+00:39:30.671 --> 00:39:33.774
+I'm really excited to show you
+some great new features we have
+
+00:39:33.841 --> 00:39:36.210
+for Apple Pencil and iPadOS this year.
+
+00:39:36.276 --> 00:39:39.146
+One of the great parts about taking notes
+with the Apple Pencil
+
+00:39:39.213 --> 00:39:41.348
+is that it really lets you work
+in a free-form way.
+
+00:39:41.415 --> 00:39:43.283
+I can just start writing anywhere.
+
+00:39:43.717 --> 00:39:45.853
+And it's not just about text.
+
+00:39:45.919 --> 00:39:49.857
+I can also express myself
+with drawings or shapes.
+
+00:39:49.923 --> 00:39:53.026
+But sometimes you want that
+more professional, cleaned-up look.
+
+00:39:53.093 --> 00:39:56.463
+So now, when I draw a simple shape
+and pause at the end,
+
+00:39:56.530 --> 00:39:59.399
+it'll automatically convert
+to that ideal shape.
+
+00:39:59.933 --> 00:40:02.769
+And we're smart about it,
+retaining the same size
+
+00:39:59.933 --> 00:40:02.769
+And we're smart about it,
+retaining the same size
+
+00:40:03.537 --> 00:40:05.138
+and angle that you drew it at.
+
+00:40:06.573 --> 00:40:07.808
+In addition to shapes,
+
+00:40:07.875 --> 00:40:10.777
+we've also made huge improvements
+to our handwriting recognition.
+
+00:40:10.844 --> 00:40:13.747
+So now, when I write,
+I can easily make a selection
+
+00:40:13.814 --> 00:40:16.350
+using the same gestures
+that I use for typed text.
+
+00:40:16.416 --> 00:40:20.420
+I can double tap to select a word
+or double tap again to select a line.
+
+00:40:21.288 --> 00:40:24.024
+Thanks to our advanced,
+on-device machine learning,
+
+00:40:24.091 --> 00:40:26.159
+you'll notice how we can
+select the handwriting
+
+00:40:26.226 --> 00:40:28.562
+while avoiding the drawings nearby.
+
+00:40:28.629 --> 00:40:29.930
+Now that I have the selection,
+
+00:40:29.997 --> 00:40:33.433
+I can easily change the color
+or move it around the document.
+
+00:40:33.500 --> 00:40:37.437
+It's also perfectly easy for me
+to make space for more room to write.
+
+00:40:37.771 --> 00:40:41.141
+We think that this will make note-taking
+with the Apple Pencil even better.
+
+00:40:41.208 --> 00:40:45.145
+Now, you don't even have to put it down
+when you want to do something else.
+
+00:40:45.212 --> 00:40:48.081
+Let's say you want to search
+for "Edison bulbs" in Safari.
+
+00:40:48.515 --> 00:40:51.552
+Using Scribble, I can just write
+directly into the text field...
+
+00:40:54.087 --> 00:40:56.757
+and it automatically
+gets converted to typed text.
+
+00:40:56.823 --> 00:40:59.359
+It also works in any text field,
+
+00:40:59.426 --> 00:41:01.061
+so I can easily add a new Reminder
+
+00:41:01.128 --> 00:41:03.297
+to my shared Reminders list
+with my husband.
+
+00:41:05.933 --> 00:41:07.367
+I've also been learning Chinese,
+
+00:41:07.434 --> 00:41:10.304
+so I want to surprise him
+with some of my progress and skills.
+
+00:41:10.771 --> 00:41:12.773
+I'll use Scratch to delete "lights."
+
+00:41:12.840 --> 00:41:17.010
+And then I can use Scribble to write "new"
+and then "light fixture" in Chinese.
+
+00:41:18.212 --> 00:41:23.217
+You'll notice how Scribble recognizes
+both English and Chinese in the same line.
+
+00:41:23.817 --> 00:41:26.186
+And what's awesome is that
+we can build on this technology
+
+00:41:26.253 --> 00:41:29.156
+to deliver other great features,
+like Data Detectors.
+
+00:41:29.223 --> 00:41:31.425
+We can automatically detect
+what you write,
+
+00:41:31.491 --> 00:41:33.760
+like phone numbers,
+so I can make a phone call.
+
+00:41:34.228 --> 00:41:36.797
+Or addresses, so I can look up directions.
+
+00:41:37.564 --> 00:41:41.168
+We can use these features together
+to do even more with your handwriting.
+
+00:41:41.568 --> 00:41:44.438
+Let's say I wanted to use my handwriting
+in another app.
+
+00:41:44.505 --> 00:41:46.173
+I can easily select what I want,
+
+00:41:46.807 --> 00:41:49.109
+tap the new Copy as Text
+from the callout bar,
+
+00:41:49.810 --> 00:41:52.246
+and then paste it into an app like Pages.
+
+00:41:52.312 --> 00:41:54.915
+And it's automatically converted
+to typed text.
+
+00:41:54.982 --> 00:41:57.951
+We're really excited
+about these awesome new features.
+
+00:41:58.018 --> 00:42:00.821
+And we think it will let you do
+even more with the Apple Pencil.
+
+00:42:01.555 --> 00:42:02.556
+Thanks, Jenny.
+
+00:42:02.623 --> 00:42:04.591
+So those are the enhancements to Pencil.
+
+00:42:04.658 --> 00:42:07.394
+Just one part of an amazing release,
+
+00:42:07.461 --> 00:42:10.197
+with Scribble for handwriting
+into any text field,
+
+00:42:10.264 --> 00:42:12.900
+a whole new way to work
+with your handwritten notes,
+
+00:42:12.966 --> 00:42:15.736
+broad enhancements to the app experience,
+
+00:42:15.802 --> 00:42:18.438
+and of course, iPad users also benefit
+
+00:42:18.505 --> 00:42:21.808
+from the great features
+you already saw in iOS 14
+
+00:42:21.875 --> 00:42:24.178
+and much more that
+we didn't have time to talk about.
+
+00:42:24.711 --> 00:42:27.314
+So that's iOS and iPadOS.
+
+00:42:27.381 --> 00:42:29.883
+Next, let's talk about AirPods.
+
+00:42:30.417 --> 00:42:31.752
+From the one-click setup
+
+00:42:31.818 --> 00:42:34.021
+to the automatic pairing
+with all your devices
+
+00:42:34.087 --> 00:42:36.223
+to how they pause your audio
+when you take them out,
+
+00:42:36.290 --> 00:42:39.660
+people love the magical experience
+that AirPods deliver.
+
+00:42:40.294 --> 00:42:43.430
+Now we're bringing even more magic
+to AirPods.
+
+00:42:43.497 --> 00:42:47.134
+To tell you all about it,
+here's Mary-Ann Ionascu.
+
+00:42:47.534 --> 00:42:48.602
+Thanks, Craig.
+
+00:42:48.669 --> 00:42:52.172
+We have some amazing updates
+coming to AirPods,
+
+00:42:52.239 --> 00:42:53.907
+starting with Automatic Switching.
+
+00:42:54.408 --> 00:42:57.244
+AirPods will now seamlessly move
+between your devices
+
+00:42:57.311 --> 00:43:00.047
+without you having
+to manually switch them.
+
+00:43:00.113 --> 00:43:02.516
+Let's say you just finished
+listening to a podcast
+
+00:43:02.583 --> 00:43:05.185
+and you pick up your iPad to watch a show.
+
+00:43:05.252 --> 00:43:07.788
+AirPods will magically switch over.
+
+00:43:07.855 --> 00:43:10.457
+And later you start a video conference
+on your Mac.
+
+00:43:10.524 --> 00:43:13.527
+AirPods will automatically switch again.
+
+00:43:13.594 --> 00:43:15.195
+-[ringing]
+-And if a phone call comes in,
+
+00:43:15.262 --> 00:43:18.732
+the audio in your AirPods
+will route right back to your phone.
+
+00:43:18.799 --> 00:43:22.603
+We also have an exciting new feature
+coming to AirPods Pro:
+
+00:43:22.669 --> 00:43:24.771
+spatial audio.
+
+00:43:24.838 --> 00:43:27.474
+You know the experience
+of being in a movie theater
+
+00:43:27.541 --> 00:43:30.644
+with a state-of-the-art
+surround sound system,
+
+00:43:30.711 --> 00:43:33.514
+one where the sound
+not only comes from in front of you...
+
+00:43:33.580 --> 00:43:35.682
+-[tone pulsing]
+-...but also from the left, the right,
+
+00:43:35.749 --> 00:43:37.985
+behind, and even from above you?
+
+00:43:38.051 --> 00:43:43.457
+Well, we are thrilled to bring that same
+immersive experience to AirPods Pro.
+
+00:43:43.524 --> 00:43:45.526
+But it turns out it's a lot harder to do
+
+00:43:45.592 --> 00:43:48.495
+when you only have a single earbud
+in each ear.
+
+00:43:48.562 --> 00:43:52.699
+So our team created advanced
+spatial audio algorithms for AirPods Pro
+
+00:43:52.766 --> 00:43:55.903
+that replicate
+the movie theater experience.
+
+00:43:55.969 --> 00:43:58.172
+By applying directional audio filters
+
+00:43:58.238 --> 00:44:01.675
+and subtly adjusting the frequencies
+each ear receives,
+
+00:44:01.742 --> 00:44:03.911
+we can place sounds
+virtually anywhere in space...
+
+00:44:03.977 --> 00:44:05.145
+[high-speed vehicles passing]
+
+00:44:05.212 --> 00:44:08.048
+...creating an immersive
+surround sound experience.
+
+00:44:08.515 --> 00:44:13.253
+But to truly deliver on this promise,
+we had to factor in real-life situations.
+
+00:44:13.954 --> 00:44:16.323
+First, people move their heads.
+
+00:44:16.390 --> 00:44:18.859
+For an authentic
+surround sound experience,
+
+00:44:18.926 --> 00:44:21.028
+you need the sound field to stay fixed
+
+00:44:21.094 --> 00:44:23.530
+so the voice feels like
+it's coming from the actor
+
+00:44:23.597 --> 00:44:25.899
+and not some random point in space.
+
+00:44:25.966 --> 00:44:29.336
+So we use the accelerometer
+and gyroscopes in AirPods Pro
+
+00:44:29.403 --> 00:44:31.038
+to track the motion of your head,
+
+00:44:31.572 --> 00:44:35.008
+remapping the sound field
+so it stays anchored to your device,
+
+00:44:35.075 --> 00:44:37.244
+even as your head moves.
+
+00:44:37.311 --> 00:44:39.346
+And it's not only your head that can move,
+
+00:44:39.413 --> 00:44:42.449
+but you might move
+your iPad or iPhone as well.
+
+00:44:42.516 --> 00:44:44.918
+That's why we constantly compare
+the motion data
+
+00:44:44.985 --> 00:44:47.221
+from your head and your screen
+
+00:44:47.287 --> 00:44:50.724
+to understand how they are moving
+in relation to each other.
+
+00:44:50.791 --> 00:44:53.961
+So if your bus turns the corner
+or your plane banks,
+
+00:44:54.027 --> 00:44:56.196
+the sound stays in sync.
+
+00:44:56.263 --> 00:44:58.765
+The result is a surround sound experience
+
+00:44:58.832 --> 00:45:01.401
+that keeps you
+in the middle of the action,
+
+00:45:01.468 --> 00:45:02.736
+no matter where you go.
+
+00:45:03.203 --> 00:45:08.242
+Spatial audio for AirPods Pro will work
+with content encoded in 5.1, 7.1,
+
+00:45:08.308 --> 00:45:09.843
+and even Dolby Atmos.
+
+00:45:10.377 --> 00:45:11.545
+Thanks, Mary-Ann.
+
+00:45:11.612 --> 00:45:13.680
+I've been using the new spatial audio,
+
+00:45:13.747 --> 00:45:16.049
+and I think you're all
+really gonna love it.
+
+00:45:16.116 --> 00:45:19.086
+All right. Next let's head
+to the Fitness Center
+
+00:45:19.152 --> 00:45:21.889
+to hear the latest on watchOS from Kevin.
+
+00:45:21.955 --> 00:45:24.491
+["I'm Getting Tired"
+by Jacknife Lee playing]
+
+00:45:35.602 --> 00:45:36.837
+[song ends]
+
+00:45:36.904 --> 00:45:40.040
+Thanks, Craig.
+Since we launched Apple Watch,
+
+00:45:40.107 --> 00:45:42.376
+it's completely redefined
+what a watch can do,
+
+00:45:42.442 --> 00:45:44.311
+and this has been
+incredibly meaningful work.
+
+00:45:44.711 --> 00:45:47.481
+Apple Watch not only helps you
+stay connected and active,
+
+00:45:47.548 --> 00:45:49.783
+it's become an intelligent guardian
+of your health,
+
+00:45:49.850 --> 00:45:54.521
+enabling you to take an ECG, detect falls
+and call emergency services for you.
+
+00:45:54.988 --> 00:45:58.091
+It's impacting lives in ways
+that were inconceivable five years ago.
+
+00:45:58.792 --> 00:46:01.695
+The power of Apple Watch
+is not only its built-in features,
+
+00:46:01.762 --> 00:46:03.997
+but how developers
+have personalized it for you.
+
+00:46:04.498 --> 00:46:06.900
+We introduced the App Store in watchOS 6,
+
+00:46:06.967 --> 00:46:10.170
+and there are now over 20,000
+watchOS apps available.
+
+00:46:10.237 --> 00:46:12.539
+These apps bring the information
+you care about most
+
+00:46:12.606 --> 00:46:14.374
+to just a glance at your watch face.
+
+00:46:14.441 --> 00:46:17.077
+We're taking this even further
+in watchOS 7,
+
+00:46:17.144 --> 00:46:19.012
+starting with complications.
+
+00:46:19.079 --> 00:46:23.350
+Until today, an app could appear in only
+one spot at a time on a watch face.
+
+00:46:23.417 --> 00:46:27.187
+In watchOS 7 developers can
+enable multiple complications,
+
+00:46:27.254 --> 00:46:29.690
+making even more richly personal
+watch faces.
+
+00:46:30.490 --> 00:46:32.492
+So if you like to use
+Dawn Patrol for surfing,
+
+00:46:32.559 --> 00:46:34.161
+you can create your own surf watch,
+
+00:46:34.228 --> 00:46:37.531
+including water temperature,
+swell and wind speed predictions
+
+00:46:37.598 --> 00:46:38.966
+for your favorite beach.
+
+00:46:39.032 --> 00:46:41.034
+Or new parents can use Glow Baby
+
+00:46:41.101 --> 00:46:44.738
+to see nap, changing and feeding times
+all on one face.
+
+00:46:44.805 --> 00:46:48.308
+While Nike Run Club can display stats
+like pace from your last run
+
+00:46:48.375 --> 00:46:49.910
+and your weekly run goals.
+
+00:46:50.511 --> 00:46:53.447
+We're also bringing rich complications
+to more faces,
+
+00:46:53.514 --> 00:46:55.883
+including a fresh Chronograph face
+
+00:46:55.949 --> 00:46:57.784
+with an integrated tachymeter
+
+00:46:57.851 --> 00:46:59.553
+and an updated Extra Large face
+
+00:46:59.620 --> 00:47:02.523
+with a huge, rich complication
+right in the center.
+
+00:47:02.589 --> 00:47:05.192
+And Configuring Watch Faces
+has been redesigned
+
+00:47:05.259 --> 00:47:08.962
+so you can easily select
+which information you'd like to see.
+
+00:47:09.396 --> 00:47:11.265
+As developers, with watchOS 7
+
+00:47:11.331 --> 00:47:14.601
+you can now build your rich complications
+with native SwiftUI.
+
+00:47:15.169 --> 00:47:17.404
+While there are so many ways
+to configure watch faces,
+
+00:47:17.471 --> 00:47:19.940
+you may not have yet gone in
+and set these up for yourself yet.
+
+00:47:20.007 --> 00:47:21.008
+That's okay.
+
+00:47:21.074 --> 00:47:24.945
+With watchOS 7 we're making it super easy
+to share watch faces,
+
+00:47:25.012 --> 00:47:27.814
+so you can discover a face
+that works perfectly for you.
+
+00:47:27.881 --> 00:47:30.684
+To do this,
+we're introducing Face Sharing.
+
+00:47:31.451 --> 00:47:35.756
+You'll be able to discover curated faces
+with third-party apps on the App Store,
+
+00:47:35.822 --> 00:47:39.126
+or discover a new favorite watch face
+right on a website,
+
+00:47:39.193 --> 00:47:42.296
+or receive watch faces
+directly from friends and family.
+
+00:47:42.362 --> 00:47:43.997
+Let's take a look at how this works.
+
+00:47:44.831 --> 00:47:48.602
+When you see a watch face you'd like,
+you just press "Add Apple Watch Face."
+
+00:47:49.169 --> 00:47:51.772
+If the watch face uses some apps
+that you don't have yet,
+
+00:47:51.839 --> 00:47:55.609
+you'll be offered each one right here
+so you can easily get them if you like.
+
+00:47:55.676 --> 00:47:58.045
+And the new face appears
+right on your watch.
+
+00:47:58.111 --> 00:48:00.581
+If you'd like to share a face
+you've created yourself,
+
+00:48:00.647 --> 00:48:02.182
+that's also really easy.
+
+00:48:02.249 --> 00:48:04.284
+Just long press on the face,
+
+00:48:04.351 --> 00:48:07.321
+tap "Share," pick a contact and send.
+
+00:48:08.589 --> 00:48:11.959
+Developers can offer preconfigured
+watch faces right from their apps.
+
+00:48:12.025 --> 00:48:15.329
+You can even share watch faces
+across social media.
+
+00:48:15.395 --> 00:48:18.665
+It's a great way for the community
+of Apple Watch wearers to connect
+
+00:48:18.732 --> 00:48:22.636
+and help each other discover all the
+amazing things Apple Watch is capable of.
+
+00:48:22.703 --> 00:48:25.272
+Next, let's talk about Maps.
+
+00:48:25.339 --> 00:48:29.009
+Maps is great for walking, driving
+and transit directions,
+
+00:48:29.610 --> 00:48:32.479
+and now in watchOS, just like in iOS 14,
+
+00:48:32.546 --> 00:48:34.281
+you can get cycling directions.
+
+00:48:35.148 --> 00:48:36.783
+You'll see a variety of routes
+
+00:48:36.850 --> 00:48:39.887
+with information like time, distance
+
+00:48:39.953 --> 00:48:41.622
+and whether there are bike lanes.
+
+00:48:42.823 --> 00:48:45.959
+You can preview travel time
+and elevation changes
+
+00:48:46.026 --> 00:48:49.997
+and navigate with turn-by-turn directions
+that are large and easy to read.
+
+00:48:50.697 --> 00:48:53.700
+Maps can direct you to dismount
+and walk your bike
+
+00:48:53.767 --> 00:48:56.036
+or even take the stairs to save time.
+
+00:48:56.970 --> 00:49:00.007
+You can also search for and add places
+optimized for cyclists,
+
+00:49:00.073 --> 00:49:01.341
+like bike repair shops.
+
+00:49:01.408 --> 00:49:02.276
+[chimes]
+
+00:49:02.342 --> 00:49:05.045
+Now to tell you about
+how we're advancing Workouts,
+
+00:49:05.345 --> 00:49:07.381
+please welcome Julz Arney.
+
+00:49:07.814 --> 00:49:09.082
+Thanks, Kevin.
+
+00:49:09.149 --> 00:49:11.718
+The Workout app uses algorithms
+that are smartly tuned
+
+00:49:11.785 --> 00:49:13.720
+to track all aspects of your training.
+
+00:49:14.121 --> 00:49:16.123
+It's one of the most used apps
+on Apple Watch,
+
+00:49:16.190 --> 00:49:19.793
+and we've continued to add support
+for new workout types every year.
+
+00:49:19.860 --> 00:49:23.397
+-And in watchOS 7 we're adding Dance.
+-[dance music playing]
+
+00:49:23.463 --> 00:49:26.066
+Dance is a total body workout
+that's great for your heart.
+
+00:49:26.133 --> 00:49:29.803
+It makes you more fit and flexible,
+and you're guaranteed to have fun.
+
+00:49:29.870 --> 00:49:35.008
+Whether you're doing Hip Hop, Latin,
+Bollywood, or simply Cardio Dance,
+
+00:49:35.075 --> 00:49:36.310
+the Workout app now tracks
+
+00:49:36.376 --> 00:49:39.513
+some of the world's most popular
+styles of dance for fitness.
+
+00:49:40.247 --> 00:49:43.650
+Getting the most accurate credit for Dance
+presented a unique challenge.
+
+00:49:43.717 --> 00:49:46.854
+Arm movements aren't always repetitive
+or synchronized with leg movements
+
+00:49:46.920 --> 00:49:48.789
+like in running and walking.
+
+00:49:48.856 --> 00:49:51.458
+The solution was to use
+advanced sensor fusion.
+
+00:49:51.525 --> 00:49:52.526
+[music continues]
+
+00:49:52.593 --> 00:49:55.696
+In Dance, we combine data from
+the accelerometer and the gyroscope
+
+00:49:55.762 --> 00:49:58.565
+to detect the difference between
+dancing with just your arms...
+
+00:49:59.533 --> 00:50:00.834
+just your lower body...
+
+00:49:59.533 --> 00:50:00.834
+just your lower body...
+
+00:50:02.135 --> 00:50:05.539
+or when you put it all together
+and dance with your entire body.
+
+00:50:05.606 --> 00:50:06.974
+Then we add in heart rate data
+
+00:50:07.040 --> 00:50:09.843
+for the most accurate
+calorie burn calculations.
+
+00:50:10.410 --> 00:50:13.847
+watchOS 7 also tracks accurate calories
+for Core Training,
+
+00:50:13.914 --> 00:50:16.383
+those exercises for your abs and back,
+
+00:50:16.450 --> 00:50:17.751
+Functional Strength Training,
+
+00:50:17.818 --> 00:50:21.855
+a workout type that helps you get stronger
+and move better for everyday activities,
+
+00:50:21.922 --> 00:50:23.123
+and also Cooldowns
+
+00:50:23.190 --> 00:50:24.725
+to add on to another workout
+
+00:50:24.791 --> 00:50:27.227
+when you want to continue
+with easy moves and stretches
+
+00:50:27.294 --> 00:50:29.863
+as you bring your heart rate
+and breathing back to normal.
+
+00:50:29.930 --> 00:50:33.333
+Of course, you can track your progress
+for any of these new workouts
+
+00:50:33.400 --> 00:50:35.369
+inside the Activity app on iPhone,
+
+00:50:35.435 --> 00:50:38.272
+which is completely redesigned
+in watchOS 7.
+
+00:50:38.338 --> 00:50:40.140
+The app now features a new Summary tab
+
+00:50:40.207 --> 00:50:42.843
+that gives you an easy way
+to see your activity history,
+
+00:50:42.910 --> 00:50:45.946
+workouts and trends,
+all in one seamless view.
+
+00:50:46.013 --> 00:50:49.049
+With a new focus on easy navigation
+and summary metrics,
+
+00:50:49.116 --> 00:50:51.118
+the app is getting a new name as well:
+
+00:50:51.185 --> 00:50:52.486
+[music continues]
+
+00:50:52.553 --> 00:50:53.921
+Fitness.
+
+00:50:53.987 --> 00:50:55.722
+Back to you, Kevin.
+
+00:50:56.523 --> 00:50:57.791
+-[record scratches]
+-[music ends]
+
+00:50:58.158 --> 00:50:59.226
+Thanks, Julz.
+
+00:50:59.626 --> 00:51:02.062
+Apple Watch helps you meet
+not only your fitness goals,
+
+00:51:02.129 --> 00:51:03.897
+but also helps support your health
+
+00:51:03.964 --> 00:51:08.202
+with features such as Cycle Tracking,
+the Breathe app, and Noise notifications.
+
+00:51:08.268 --> 00:51:12.072
+And we're going to be adding even more
+capabilities this year in watchOS 7.
+
+00:51:12.139 --> 00:51:14.274
+We'd like to share a couple of them
+with you today,
+
+00:51:14.341 --> 00:51:17.578
+starting with one of the most-requested
+features for Apple Watch:
+
+00:51:17.945 --> 00:51:19.413
+tracking your sleep.
+
+00:51:19.880 --> 00:51:22.115
+To tell you about this, over to Vera Carr.
+
+00:51:22.749 --> 00:51:23.884
+Thanks, Kevin.
+
+00:51:23.951 --> 00:51:28.188
+There are many ways to look at sleep:
+scores, advanced monitoring,
+
+00:51:28.255 --> 00:51:30.324
+or sleep cycle analysis.
+
+00:51:30.390 --> 00:51:32.993
+We are taking
+a more holistic approach to sleep
+
+00:51:33.060 --> 00:51:36.096
+by leveraging the devices you use
+every day
+
+00:51:36.163 --> 00:51:37.865
+to not only track your sleep
+
+00:51:37.931 --> 00:51:41.668
+but to support you in actually meeting
+your sleep duration goal.
+
+00:51:41.735 --> 00:51:45.305
+That starts with choosing not only when
+you would like to wake up in the morning,
+
+00:51:45.372 --> 00:51:47.574
+but also when you'd like to go to bed.
+
+00:51:48.008 --> 00:51:50.644
+For most of us, setting a goal is easy.
+
+00:51:50.711 --> 00:51:53.313
+But getting to bed on time,
+that's the hard part.
+
+00:51:53.780 --> 00:51:57.050
+Experts say that establishing
+a bedtime routine
+
+00:51:57.117 --> 00:52:00.787
+helps the body transition
+from wakefulness to sleep.
+
+00:52:00.854 --> 00:52:03.323
+So we are offering Wind Down.
+
+00:52:03.857 --> 00:52:07.261
+It can help you get to bed on time
+by minimizing distractions
+
+00:52:07.327 --> 00:52:09.630
+and creating a personalized routine.
+
+00:52:10.097 --> 00:52:11.532
+Let's look at how this works.
+
+00:52:12.232 --> 00:52:14.168
+In the evening, ahead of your bedtime,
+
+00:52:14.234 --> 00:52:16.203
+your phone can display
+the Wind Down screen
+
+00:52:16.270 --> 00:52:19.473
+to help you transition mentally
+before you go to bed.
+
+00:52:19.540 --> 00:52:24.044
+It creates a calm lock screen experience
+and turns on Do Not Disturb for you.
+
+00:52:24.411 --> 00:52:26.346
+You can also set up shortcuts
+
+00:52:26.413 --> 00:52:30.417
+for simple things you may like to do
+to help you prepare for bed.
+
+00:52:30.484 --> 00:52:33.153
+These might include
+using your favorite meditation app
+
+00:52:33.220 --> 00:52:35.589
+or playing relaxing music.
+
+00:52:35.956 --> 00:52:37.691
+Once it's time for bed,
+
+00:52:37.758 --> 00:52:41.128
+your screen will dim and your watch
+will go into Sleep Mode,
+
+00:52:41.528 --> 00:52:42.996
+which looks like this.
+
+00:52:43.463 --> 00:52:46.967
+The screen will be off during time in bed
+so it won't bother you,
+
+00:52:47.034 --> 00:52:50.170
+and a tap displays this simple face.
+
+00:52:50.237 --> 00:52:51.672
+When it's time to wake up,
+
+00:52:51.738 --> 00:52:55.509
+you have a selection of gentle
+and effective alarm sounds,
+
+00:52:55.576 --> 00:53:00.781
+or a silent Taptic-only wake-up alarm
+so you don't disturb your partner.
+
+00:53:00.848 --> 00:53:05.219
+Once you're up, you'll see a friendly
+greeting easing you into the day.
+
+00:53:05.752 --> 00:53:07.788
+It also shows your battery level
+
+00:53:07.855 --> 00:53:10.324
+so you can remember to charge
+in the morning.
+
+00:53:10.390 --> 00:53:11.859
+Apple Watch tracks your sleep
+
+00:53:11.925 --> 00:53:14.728
+using a machine-learning model
+that senses your motion
+
+00:53:14.795 --> 00:53:17.064
+and even interprets the micro-movements
+
+00:53:17.130 --> 00:53:19.733
+caused by the rise and fall
+of your breath,
+
+00:53:19.800 --> 00:53:22.903
+providing signals for when you're awake
+and when you're asleep.
+
+00:53:23.604 --> 00:53:26.006
+There's an updated Sleep section
+in the Health app,
+
+00:53:26.073 --> 00:53:29.076
+including a view of your trends over time.
+
+00:53:29.743 --> 00:53:32.579
+Sleep Schedules, Wind Down, and Sleep Mode
+
+00:53:32.646 --> 00:53:37.384
+are also available on iPhone,
+without a watch, in iOS 14.
+
+00:53:37.818 --> 00:53:40.721
+We know you'll enjoy using
+your watch throughout the day
+
+00:53:40.787 --> 00:53:42.723
+and now throughout the night.
+
+00:53:43.090 --> 00:53:44.525
+Thanks, Vera.
+
+00:53:44.591 --> 00:53:46.260
+In addition to sleep keeping you healthy,
+
+00:53:46.326 --> 00:53:49.863
+there's another preventative-care item
+that's so important, particularly now:
+
+00:53:50.964 --> 00:53:52.099
+handwashing.
+
+00:53:52.866 --> 00:53:54.001
+In watchOS 7,
+
+00:53:54.067 --> 00:53:58.071
+Apple Watch is the first watch
+to deliver automatic detection
+
+00:53:58.138 --> 00:54:01.708
+when you start washing your hands
+and sensing of how long you actually wash.
+
+00:54:02.276 --> 00:54:04.578
+Our approach here is using
+machine-learning models
+
+00:54:04.645 --> 00:54:07.080
+to determine motion
+which appears to be handwashing
+
+00:54:07.147 --> 00:54:09.750
+and then use audio
+to confirm the sound of running water
+
+00:54:09.816 --> 00:54:11.818
+or squishing soap on your hands.
+
+00:54:12.319 --> 00:54:15.088
+During this, you'll get a little coaching
+to do a good job.
+
+00:54:15.689 --> 00:54:18.225
+You'll see a countdown,
+along with haptics and sounds,
+
+00:54:18.292 --> 00:54:20.727
+to make sure you wash
+as long as you're supposed to.
+
+00:54:20.794 --> 00:54:23.797
+If you pause early,
+there's a polite note to keep washing.
+
+00:54:23.864 --> 00:54:26.667
+And when you're done,
+you'll see, hear and feel it.
+
+00:54:27.467 --> 00:54:30.838
+That's just some of what's coming
+this year in watchOS 7,
+
+00:54:30.904 --> 00:54:34.341
+including discovering and sharing faces,
+new workout types,
+
+00:54:34.408 --> 00:54:36.176
+sleep and handwashing detection,
+
+00:54:36.243 --> 00:54:39.379
+and other new capabilities
+like Siri language translation.
+
+00:54:40.113 --> 00:54:41.615
+And that's Apple Watch.
+
+00:54:41.682 --> 00:54:43.317
+It's time for you to join Craig again
+
+00:54:43.383 --> 00:54:46.019
+to talk about something
+that's important to all of us.
+
+00:54:46.086 --> 00:54:47.254
+Here we go!
+
+00:54:48.622 --> 00:54:50.591
+["I'm Getting Tired"
+by Jacknife Lee playing]
+
+00:55:28.395 --> 00:55:29.897
+[song ends]
+
+00:55:29.963 --> 00:55:33.500
+At Apple, we believe
+privacy is a fundamental human right.
+
+00:55:33.567 --> 00:55:37.471
+So we build it into our products
+from the beginning of the design process.
+
+00:55:38.505 --> 00:55:40.941
+Privacy matters now more than ever.
+
+00:55:41.008 --> 00:55:43.844
+And because our devices contain
+our most sensitive information,
+
+00:55:43.911 --> 00:55:47.948
+all of our product work is grounded
+in a set of privacy principles.
+
+00:55:48.549 --> 00:55:51.018
+First, data minimization.
+
+00:55:51.084 --> 00:55:53.287
+We use innovative technologies
+and techniques
+
+00:55:53.353 --> 00:55:57.558
+to minimize the personal data
+we or anyone else can access.
+
+00:55:57.624 --> 00:56:00.227
+Second, on-device intelligence.
+
+00:56:00.294 --> 00:56:01.695
+We avoid data collection
+
+00:56:01.762 --> 00:56:05.432
+by processing as much of your information
+on your device as we can
+
+00:56:05.499 --> 00:56:07.467
+rather than sending it to a server.
+
+00:56:07.534 --> 00:56:09.436
+Third, security.
+
+00:56:09.903 --> 00:56:14.074
+Security protections are foundational
+to everything we do in privacy.
+
+00:56:14.141 --> 00:56:17.044
+And finally, transparency and control.
+
+00:56:17.110 --> 00:56:19.613
+It helps you better understand
+the data being collected
+
+00:56:19.680 --> 00:56:23.884
+so that you can make your own choices
+about how that data is used.
+
+00:56:23.951 --> 00:56:26.587
+These principles come together
+across our products,
+
+00:56:26.653 --> 00:56:29.857
+in our hardware,
+our software and our services.
+
+00:56:30.290 --> 00:56:35.562
+At the end of the day, they result
+in great privacy and great ease of use.
+
+00:56:35.629 --> 00:56:38.565
+A powerful example of this
+is Sign in with Apple,
+
+00:56:38.632 --> 00:56:41.635
+which is designed for simplicity,
+security and privacy.
+
+00:56:41.702 --> 00:56:43.770
+And since we launched it last year,
+
+00:56:43.837 --> 00:56:46.940
+users have created
+over 200 million accounts
+
+00:56:47.007 --> 00:56:50.677
+across a wide variety of apps
+and websites.
+
+00:56:50.744 --> 00:56:54.114
+And developers are seeing great usage
+when they adopt it.
+
+00:56:54.181 --> 00:56:55.415
+For example,
+
+00:56:55.482 --> 00:56:57.518
+Kayak has integrated Sign in with Apple
+
+00:56:57.584 --> 00:57:01.321
+and found that their users are now
+two times more likely to use it
+
+00:57:01.388 --> 00:57:03.824
+than any other sign-in provider.
+
+00:57:04.291 --> 00:57:06.894
+Now, one thing we hear a lot
+with Sign in with Apple
+
+00:57:06.960 --> 00:57:10.664
+is that people wish they could convert
+their existing accounts to use it.
+
+00:57:10.731 --> 00:57:15.169
+So this year we're going to enable
+developers to let you do just that.
+
+00:57:15.235 --> 00:57:17.437
+When you upgrade, you get the ease of use
+
+00:57:17.504 --> 00:57:19.806
+and built-in security
+of Sign in with Apple
+
+00:57:19.873 --> 00:57:22.376
+while keeping the account
+that you already have.
+
+00:57:23.310 --> 00:57:27.414
+This is another big year
+of privacy improvements in our products.
+
+00:57:27.481 --> 00:57:31.251
+And to tell you more, here's Katie Skinner
+and Erik Neuenschwander.
+
+00:57:32.719 --> 00:57:33.687
+Thanks, Craig.
+
+00:57:33.754 --> 00:57:35.656
+First let's talk about location.
+
+00:57:35.722 --> 00:57:38.759
+This year we're continuing to give you
+even more control.
+
+00:57:38.825 --> 00:57:41.628
+In addition to the option
+of sharing your precise location,
+
+00:57:41.695 --> 00:57:45.132
+you will have the option to only share
+your approximate location with apps.
+
+00:57:46.333 --> 00:57:48.368
+We're also making changes
+for mic and camera
+
+00:57:48.435 --> 00:57:50.237
+so you always know when you're recording.
+
+00:57:50.671 --> 00:57:52.840
+In addition to requiring your permission,
+
+00:57:52.906 --> 00:57:56.610
+this year we're adding more visibility
+for current or recent mic or camera use.
+
+00:57:56.677 --> 00:58:00.280
+So if an app uses either one,
+we'll indicate that in the status bar.
+
+00:58:00.714 --> 00:58:02.449
+[Katie] Next, let's talk about tracking.
+
+00:58:02.516 --> 00:58:05.886
+Safari's Intelligent Tracking Prevention
+has been really successful on the web.
+
+00:58:05.953 --> 00:58:09.022
+And this year, we wanted to help you
+with tracking in apps.
+
+00:58:09.089 --> 00:58:13.360
+We believe tracking should always be
+transparent and under your control.
+
+00:58:13.427 --> 00:58:14.728
+So moving forward,
+
+00:58:14.795 --> 00:58:17.898
+App Store policy will require apps to ask
+before tracking you
+
+00:58:17.965 --> 00:58:20.801
+across apps and websites
+owned by other companies.
+
+00:58:20.868 --> 00:58:23.136
+[Erik] Last, let's talk about app privacy.
+
+00:58:23.203 --> 00:58:26.073
+Today we require that apps
+have a privacy policy.
+
+00:58:26.139 --> 00:58:28.709
+Wouldn't it be great to even more quickly
+and easily see
+
+00:58:28.775 --> 00:58:31.545
+a summary of an app's privacy practices
+before you download it?
+
+00:58:31.612 --> 00:58:34.381
+Now, where have we seen
+something like that before?
+
+00:58:34.448 --> 00:58:36.850
+For food, you have nutrition labels.
+
+00:58:36.917 --> 00:58:40.354
+You can see if it's packed with protein
+or loaded with sugar, or maybe both,
+
+00:58:40.420 --> 00:58:41.955
+all before you buy it.
+
+00:58:42.022 --> 00:58:45.592
+So we thought it would be great
+to have something similar for apps.
+
+00:58:45.659 --> 00:58:49.396
+We're going to require each developer
+to self-report their practices.
+
+00:58:49.463 --> 00:58:51.665
+[Katie] We'll show you what they tell us.
+
+00:58:51.732 --> 00:58:54.968
+You can see if the developer is collecting
+a little bit of data on you
+
+00:58:55.035 --> 00:58:56.737
+or a lot of data,
+
+00:58:56.803 --> 00:58:59.673
+or if they're sharing data
+with other companies to track you,
+
+00:58:59.740 --> 00:59:01.141
+and much more.
+
+00:59:01.208 --> 00:59:02.743
+[Erik] We're going to put this information
+
+00:59:02.809 --> 00:59:04.378
+on product pages in the App Store.
+
+00:59:04.444 --> 00:59:07.681
+So for each app, you can see
+highlights of their privacy information
+
+00:59:07.748 --> 00:59:09.149
+before you download it.
+
+00:59:09.216 --> 00:59:11.885
+And we're going to include this
+in all of our App Stores.
+
+00:59:11.952 --> 00:59:13.754
+Back over to you, Craig.
+
+00:59:13.820 --> 00:59:15.322
+Thanks, Katie and Erik.
+
+00:59:15.389 --> 00:59:18.592
+These are some of the ways we're
+strengthening the privacy of our platforms
+
+00:59:18.659 --> 00:59:21.862
+and bringing new features
+to give users even more control.
+
+00:59:22.563 --> 00:59:26.166
+And one of the places where
+privacy matters most is your home.
+
+00:59:26.867 --> 00:59:27.935
+Like most of you,
+
+00:59:28.001 --> 00:59:31.738
+in the past few months I've spent
+more time at home than I ever imagined.
+
+00:59:31.805 --> 00:59:33.941
+It's more clear than ever
+just how important it is
+
+00:59:34.007 --> 00:59:37.578
+to live in a home
+where the technology just works.
+
+00:59:37.644 --> 00:59:41.615
+That brings us to some great new features
+we're bringing to the home this year.
+
+00:59:41.682 --> 00:59:44.585
+All of these features share
+a few key attributes.
+
+00:59:44.651 --> 00:59:47.921
+First, anything we develop for the home
+should be easy,
+
+00:59:47.988 --> 00:59:50.157
+from initial setup to everyday use,
+
+00:59:50.224 --> 00:59:54.261
+just like how a tap of your iPhone
+can automatically configure an Apple TV.
+
+00:59:54.328 --> 00:59:58.465
+Second, home products should never
+compromise your privacy.
+
+00:59:58.532 --> 01:00:03.370
+That's why your Siri requests use
+a random identifier, not your Apple ID.
+
+00:59:58.532 --> 01:00:03.370
+That's why your Siri requests use
+a random identifier, not your Apple ID.
+
+01:00:03.437 --> 01:00:07.341
+And finally, your devices should
+all work better together,
+
+01:00:07.407 --> 01:00:11.745
+like how AirPlay lets you share
+from your iPhone straight to the TV.
+
+01:00:11.812 --> 01:00:15.516
+And when things are easy, private
+and work together seamlessly,
+
+01:00:15.582 --> 01:00:17.050
+your home is more enjoyable,
+
+01:00:17.117 --> 01:00:19.753
+whether you're watching TV,
+listening to music
+
+01:00:19.820 --> 01:00:22.122
+or getting the most
+out of your smart devices.
+
+01:00:22.189 --> 01:00:25.192
+To tell you more
+about what we have in store for the home,
+
+01:00:25.259 --> 01:00:27.294
+let me pass it to Yah Cason.
+
+01:00:30.998 --> 01:00:32.099
+Thanks, Craig.
+
+01:00:32.165 --> 01:00:34.434
+Let's start by talking about
+the smart home.
+
+01:00:34.501 --> 01:00:37.738
+With HomeKit,
+we've given developers a robust framework
+
+01:00:37.804 --> 01:00:41.375
+to create smart home accessories
+that are remarkably easy to set up
+
+01:00:41.441 --> 01:00:44.711
+all while being end-to-end encrypted
+to your Apple devices.
+
+01:00:44.778 --> 01:00:48.448
+Already there's a rich ecosystem
+of devices available.
+
+01:00:48.515 --> 01:00:50.951
+But we want to make it even easier
+to build products
+
+01:00:51.018 --> 01:00:52.853
+that work across more homes.
+
+01:00:52.920 --> 01:00:54.755
+So we formed an alliance
+
+01:00:54.821 --> 01:00:58.125
+and partnered with Amazon, Google
+and other industry leaders
+
+01:00:58.192 --> 01:01:01.762
+to define a new interoperability
+standard for the smart home.
+
+01:01:01.828 --> 01:01:03.397
+We open-sourced HomeKit
+
+01:01:03.463 --> 01:01:07.367
+to ensure its ease of use and privacy
+are core to this effort.
+
+01:01:07.434 --> 01:01:10.537
+And any accessory using HomeKit
+or this new standard
+
+01:01:10.604 --> 01:01:13.774
+will work incredibly well
+across all your Apple devices.
+
+01:01:13.841 --> 01:01:16.076
+And you control it all in the Home app,
+
+01:01:16.143 --> 01:01:18.812
+the most secure way
+to manage your smart home.
+
+01:01:18.879 --> 01:01:22.015
+Adding new devices to your home
+has never been easier.
+
+01:01:22.082 --> 01:01:24.985
+Simply tap or scan to set up an accessory.
+
+01:01:25.052 --> 01:01:28.188
+And in iOS 14, after you add an accessory,
+
+01:01:28.255 --> 01:01:30.524
+the Home app will now suggest
+useful automations
+
+01:01:30.591 --> 01:01:33.227
+so you can immediately
+put your new device to work for you.
+
+01:01:33.293 --> 01:01:35.896
+Automations are rules
+that set your home to autopilot,
+
+01:01:35.963 --> 01:01:39.233
+like automatically turning on
+your porch lights when motion is detected
+
+01:01:39.299 --> 01:01:41.902
+or having the garage door open
+as you arrive home.
+
+01:01:41.969 --> 01:01:43.637
+And now when you open the Home app,
+
+01:01:43.704 --> 01:01:46.173
+you'll see a new visual status
+right up top
+
+01:01:46.240 --> 01:01:49.576
+that prioritizes the accessories
+which most need your attention.
+
+01:01:49.643 --> 01:01:52.646
+You can easily see if you've left
+a door unlocked or the lights on
+
+01:01:52.713 --> 01:01:54.081
+and quickly control them.
+
+01:01:54.147 --> 01:01:55.449
+Let's take a closer look
+
+01:01:55.516 --> 01:01:58.285
+at one of the most popular categories
+of HomeKit accessories:
+
+01:01:58.352 --> 01:01:59.553
+Lights.
+
+01:01:59.620 --> 01:02:02.656
+Millions of us have already added
+smart bulbs to our homes,
+
+01:02:02.723 --> 01:02:05.158
+many of which can change color on demand.
+
+01:02:05.225 --> 01:02:06.493
+In iOS 14,
+
+01:02:06.560 --> 01:02:09.830
+we're introducing a feature to help you
+get the most out of those bulbs:
+
+01:02:09.897 --> 01:02:11.732
+Adaptive lighting.
+
+01:02:11.798 --> 01:02:15.135
+Adaptive lighting automatically adjusts
+the color temperature of your lights
+
+01:02:15.202 --> 01:02:16.470
+throughout the day.
+
+01:02:16.537 --> 01:02:19.173
+Turn it on to ease into the morning
+with warm colors,
+
+01:02:19.239 --> 01:02:21.808
+stay focused and alert midday
+with cooler ones,
+
+01:02:21.875 --> 01:02:24.611
+and wind down at night
+by reducing blue light.
+
+01:02:24.678 --> 01:02:28.448
+Adaptive lighting ensures
+you get the right color at the right time.
+
+01:02:28.515 --> 01:02:32.286
+Another popular smart home category
+is cameras.
+
+01:02:32.352 --> 01:02:35.622
+With HomeKit Secure Video
+your cameras are completely private.
+
+01:02:35.689 --> 01:02:40.060
+And in iOS 14, we're making your cameras
+work even harder for you.
+
+01:02:40.127 --> 01:02:44.398
+You'll be able to define Activity Zones
+that focus on the most important areas.
+
+01:02:44.464 --> 01:02:46.366
+This is great if you face a busy sidewalk
+
+01:02:46.433 --> 01:02:50.037
+and only want to be alerted when people
+actually walk up to your front door.
+
+01:02:50.637 --> 01:02:54.808
+Another powerful feature we're bringing
+to cameras is face recognition.
+
+01:02:54.875 --> 01:02:59.546
+HomeKit cameras and video doorbells will
+now provide even richer notifications,
+
+01:02:59.613 --> 01:03:02.249
+telling you who's there
+by leveraging the friends and family
+
+01:03:02.316 --> 01:03:04.184
+you've already tagged in your Photos app.
+
+01:03:04.251 --> 01:03:08.755
+And face recognition extends to HomePod,
+announcing who's at the door.
+
+01:03:08.822 --> 01:03:12.926
+And with Apple TV, you'll get a live view
+whenever someone rings the bell.
+
+01:03:13.727 --> 01:03:19.199
+In fact, all your HomeKit-enabled cameras
+will be directly integrated with tvOS 14
+
+01:03:19.266 --> 01:03:22.669
+so you can quickly bring them up
+in the new home view in Control Center.
+
+01:03:22.736 --> 01:03:26.173
+Or just ask Siri to pull up any camera
+at any time.
+
+01:03:26.607 --> 01:03:28.942
+You can even take any camera full-screen,
+
+01:03:29.009 --> 01:03:31.545
+giving you a great view
+of what's going on.
+
+01:03:31.612 --> 01:03:34.414
+And we have even more coming to tvOS 14.
+
+01:03:34.481 --> 01:03:37.251
+Now let me pass it to Cindy Lin
+to tell you about it.
+
+01:03:37.651 --> 01:03:38.652
+Thanks, Yah.
+
+01:03:39.453 --> 01:03:44.224
+Apple TV is my favorite way to unwind
+and enjoy entertainment with the family.
+
+01:03:44.291 --> 01:03:46.593
+With 4K, HDR,
+
+01:03:46.660 --> 01:03:48.795
+Dolby Vision and Dolby Atmos,
+
+01:03:48.862 --> 01:03:52.533
+you get a theater-like experience
+right in your living room,
+
+01:03:52.599 --> 01:03:56.036
+making all your movies and shows
+look and sound amazing.
+
+01:03:56.103 --> 01:03:58.705
+But Apple TV goes beyond video.
+
+01:03:58.772 --> 01:04:01.875
+You can access
+the entire Apple Music collection
+
+01:04:01.942 --> 01:04:04.044
+and even sing along with timed lyrics.
+
+01:04:04.444 --> 01:04:06.713
+You can play
+an incredible selection of games,
+
+01:04:06.780 --> 01:04:09.183
+including all the games in Apple Arcade.
+
+01:04:09.249 --> 01:04:12.452
+And we're making gaming on Apple TV
+even more personal
+
+01:04:12.519 --> 01:04:14.755
+by expanding multiuser support.
+
+01:04:14.821 --> 01:04:18.926
+Now you can instantly resume your games
+exactly where you left off.
+
+01:04:18.992 --> 01:04:21.695
+Just open Control Center
+to switch between users,
+
+01:04:21.762 --> 01:04:25.432
+and you can now see your game progress,
+achievements and friends.
+
+01:04:25.499 --> 01:04:27.968
+And for even more fun,
+we're adding support
+
+01:04:28.035 --> 01:04:32.306
+for Xbox Elite 2
+and Xbox Adaptive Controllers.
+
+01:04:32.706 --> 01:04:34.875
+Apple TV
+also helps you keep active at home
+
+01:04:34.942 --> 01:04:36.977
+with a great selection of fitness apps.
+
+01:04:37.044 --> 01:04:38.979
+And with tvOS 14,
+
+01:04:39.046 --> 01:04:42.482
+we're gonna make your workouts,
+and everything you do on Apple TV,
+
+01:04:42.549 --> 01:04:45.252
+even more productive
+by extending Picture in Picture
+
+01:04:45.319 --> 01:04:47.888
+across the entire Apple TV experience.
+
+01:04:47.955 --> 01:04:52.226
+So you can keep up with the news
+or not miss a second of the big game.
+
+01:04:52.292 --> 01:04:56.230
+You can even have an AirPlay session
+show up in a Picture in Picture window.
+
+01:04:56.296 --> 01:04:58.632
+And AirPlay is getting even better.
+
+01:04:58.699 --> 01:05:02.402
+Now the whole family can share
+their stunning videos captured on iPhone
+
+01:05:02.469 --> 01:05:05.105
+in their full 4K resolution.
+
+01:05:05.172 --> 01:05:07.774
+With videos, music, games and more,
+
+01:05:07.841 --> 01:05:11.078
+Apple TV truly offers something
+for everyone.
+
+01:05:11.144 --> 01:05:14.948
+Of course, nothing compares
+to being captivated by a good story.
+
+01:05:15.015 --> 01:05:19.286
+And we've built a service for just that:
+Apple TV+.
+
+01:05:19.353 --> 01:05:23.590
+We've already created
+an incredible lineup of Apple Originals.
+
+01:05:23.657 --> 01:05:26.360
+And you can watch them all
+in the Apple TV app,
+
+01:05:26.426 --> 01:05:29.263
+which is available
+on your favorite Apple devices,
+
+01:05:29.329 --> 01:05:31.331
+on all major streaming boxes
+
+01:05:31.398 --> 01:05:33.767
+and many popular smart TVs.
+
+01:05:33.834 --> 01:05:36.570
+It's already reaching
+over a billion screens.
+
+01:05:37.137 --> 01:05:40.641
+And it's coming to Sony and Vizio
+smart TVs later this summer.
+
+01:05:41.275 --> 01:05:45.612
+Today, we're really excited
+to tell you about a new Apple TV+ Original
+
+01:05:45.679 --> 01:05:47.281
+that we're working on.
+
+01:05:47.347 --> 01:05:49.149
+Almost 70 years ago,
+
+01:05:49.216 --> 01:05:53.320
+Isaac Asimov introduced the world
+to a series of epic novels
+
+01:05:53.387 --> 01:05:56.924
+that spanned hundreds of worlds
+and thousands of years.
+
+01:05:56.990 --> 01:06:01.495
+Many consider it to be the best
+science-fiction series of all time.
+
+01:06:01.562 --> 01:06:04.231
+I'd like to share a sneak peek
+with you now.
+
+01:06:04.298 --> 01:06:06.600
+This is Foundation.
+
+01:06:08.235 --> 01:06:10.370
+[dramatic music playing]
+
+01:06:24.785 --> 01:06:26.587
+They're going to arrest me tomorrow.
+
+01:06:27.621 --> 01:06:29.790
+And you. It's almost a certainty.
+
+01:06:35.929 --> 01:06:38.131
+<i>You're familiar with my work,
+psychohistory?</i>
+
+01:06:38.198 --> 01:06:40.567
+Yes, in theory.
+But I don't know what it has to do with--
+
+01:06:40.634 --> 01:06:41.902
+It's not a theory.
+
+01:06:46.406 --> 01:06:48.742
+[Salvor] <i>They're worried
+you can predict the future.</i>
+
+01:06:48.809 --> 01:06:50.410
+[whirring]
+
+01:06:52.613 --> 01:06:54.982
+[Hari]
+They're worried people believe I can.
+
+01:06:55.048 --> 01:06:56.650
+[whirring]
+
+01:06:59.319 --> 01:07:01.321
+And they don't like the future I predict.
+
+01:07:07.461 --> 01:07:08.595
+The empire will fall.
+
+01:07:09.897 --> 01:07:11.498
+Order will vanish.
+
+01:07:12.933 --> 01:07:15.769
+There's massive events rushing to meet us.
+
+01:07:20.374 --> 01:07:22.643
+[Salvor] Only we can shorten the darkness.
+
+01:07:35.389 --> 01:07:37.057
+[music fades]
+
+01:07:44.498 --> 01:07:49.403
+Wow. I'm super excited to watch Foundation
+when it comes to Apple TV+ next year.
+
+01:07:49.469 --> 01:07:53.140
+With Apple TV, your home
+has never been more entertaining.
+
+01:07:53.941 --> 01:07:57.144
+And with adaptive lighting,
+face recognition for cameras
+
+01:07:57.211 --> 01:07:58.946
+and these other great features,
+
+01:07:59.012 --> 01:08:01.348
+your time at home
+has never been more enjoyable.
+
+01:08:01.415 --> 01:08:03.483
+Now let me hand it back to Craig.
+
+01:08:09.556 --> 01:08:10.624
+Welcome back.
+
+01:08:10.691 --> 01:08:14.595
+Now let's talk about some big changes
+coming to macOS.
+
+01:08:15.662 --> 01:08:17.030
+Since its introduction,
+
+01:08:17.097 --> 01:08:20.667
+macOS has revolutionized the experience
+of using a computer
+
+01:08:20.734 --> 01:08:24.505
+by combining incredible power
+with incredible ease of use.
+
+01:08:24.571 --> 01:08:27.474
+And it's loved
+by all different types of users,
+
+01:08:27.541 --> 01:08:29.109
+from families and students
+
+01:08:29.176 --> 01:08:30.711
+to creative pros,
+
+01:08:30.777 --> 01:08:33.881
+businesspeople
+and, of course, software developers.
+
+01:08:33.947 --> 01:08:36.850
+And this year, we're taking
+the macOS experience you love
+
+01:08:36.917 --> 01:08:38.318
+even further.
+
+01:08:39.586 --> 01:08:41.054
+But what should we call it?
+
+01:08:41.121 --> 01:08:43.957
+Well, if you're a student of macOS,
+you know this question
+
+01:08:44.024 --> 01:08:47.628
+can only be answered by Apple's
+legendary crack marketing team.
+
+01:08:47.694 --> 01:08:49.997
+Their drug-fueled,
+minibus-driven vision quests
+
+01:08:50.063 --> 01:08:51.732
+have yielded some great names
+
+01:08:51.798 --> 01:08:54.568
+and, sadly, spawned a host of imitators.
+
+01:08:54.635 --> 01:08:56.904
+The truth is,
+we can't responsibly continue
+
+01:08:56.970 --> 01:08:59.840
+to inadvertently lead our competition
+to copy these methods
+
+01:08:59.907 --> 01:09:02.009
+when they clearly can't handle the trip.
+
+01:09:02.075 --> 01:09:05.479
+So this year, we're leaving our process
+shrouded in mystery
+
+01:09:05.546 --> 01:09:08.148
+and taking you straight
+to the glorious destination.
+
+01:09:08.215 --> 01:09:12.319
+Our next release of macOS
+is macOS Big Sur.
+
+01:09:13.187 --> 01:09:16.390
+macOS Big Sur introduces
+an entirely new design
+
+01:09:16.456 --> 01:09:20.561
+and major updates to some of
+the most essential apps on the platform.
+
+01:09:20.627 --> 01:09:22.129
+And just like its name,
+
+01:09:22.196 --> 01:09:25.766
+Big Sur brings you unmatched levels
+of power and beauty.
+
+01:09:26.567 --> 01:09:28.569
+Let's start with design,
+
+01:09:28.635 --> 01:09:33.307
+where we're making the biggest change
+since the introduction of Mac OS X.
+
+01:09:33.373 --> 01:09:36.577
+To tell you more about the philosophy
+and incredible craftsmanship
+
+01:09:36.643 --> 01:09:37.978
+behind the new design,
+
+01:09:38.045 --> 01:09:40.514
+here's a short video with Alan Dye.
+
+01:09:41.248 --> 01:09:42.816
+[piano playing]
+
+01:09:46.353 --> 01:09:49.323
+At Apple, design has always been
+about great ideas.
+
+01:09:49.389 --> 01:09:54.127
+Those ideas then are developed
+with this obsessive dedication to detail.
+
+01:09:54.695 --> 01:09:57.798
+If we care enough about all the details
+that make up a product,
+
+01:09:57.865 --> 01:10:01.068
+then in the end
+we will have designed an experience
+
+01:09:57.865 --> 01:10:01.068
+then in the end
+we will have designed an experience
+
+01:10:01.134 --> 01:10:03.036
+that really feels like
+there's no other way it could be.
+
+01:10:03.103 --> 01:10:07.107
+And the best example of this
+is macOS Big Sur.
+
+01:10:10.143 --> 01:10:13.881
+Our goal was to bring even more clarity
+to the design of the software
+
+01:10:13.947 --> 01:10:17.751
+while retaining the Mac's
+powerful capability and ease of use.
+
+01:10:17.818 --> 01:10:19.720
+We started with the simplest of elements,
+
+01:10:19.786 --> 01:10:24.124
+from the shape of a corner radius
+to refinements in buttons and controls.
+
+01:10:26.093 --> 01:10:28.996
+And we brought our unified language
+of symbols to the Mac,
+
+01:10:29.062 --> 01:10:31.999
+making them more consistent
+and easier to recognize.
+
+01:10:33.166 --> 01:10:35.903
+Depth, shading and translucency
+
+01:10:35.969 --> 01:10:38.205
+are used to create hierarchy.
+
+01:10:38.272 --> 01:10:41.074
+These new materials are rich,
+and they're vibrant.
+
+01:10:41.141 --> 01:10:43.210
+They bridge light and dark.
+
+01:10:44.011 --> 01:10:47.915
+We've reduced visual complexity
+to keep the focus on users' content.
+
+01:10:49.283 --> 01:10:51.585
+Buttons and controls appear
+when you need them,
+
+01:10:51.652 --> 01:10:53.253
+and they recede when you don't.
+
+01:10:53.620 --> 01:10:56.456
+There's a new way
+to access system-level controls
+
+01:10:56.523 --> 01:10:59.960
+and a unified space
+for notifications and widgets.
+
+01:11:00.027 --> 01:11:01.862
+We've also created a new suite of sounds.
+
+01:11:01.929 --> 01:11:05.766
+They're familiar to the Mac,
+but remastered and more refined.
+
+01:11:05.832 --> 01:11:06.700
+[pulses]
+
+01:11:06.767 --> 01:11:09.102
+[alert notifications chiming]
+
+01:11:09.670 --> 01:11:12.139
+We wanted consistency
+throughout the ecosystem,
+
+01:11:12.206 --> 01:11:15.909
+so users can move fluidly
+between their Apple devices.
+
+01:11:15.976 --> 01:11:19.346
+But we also love that Mac icons
+have a deep history
+
+01:11:19.413 --> 01:11:21.281
+and a distinct look and feel.
+
+01:11:22.015 --> 01:11:24.685
+So we've retained
+many of the highly crafted details
+
+01:11:24.751 --> 01:11:27.821
+and the playful elements
+that make Mac icons unique.
+
+01:11:30.123 --> 01:11:32.326
+This OS reflects an important history.
+
+01:11:33.026 --> 01:11:37.297
+It's familiar, but it's also
+entirely new in every detail.
+
+01:11:38.966 --> 01:11:39.967
+We love the Mac.
+
+01:11:40.033 --> 01:11:43.237
+It's the tool we use to make all the
+products that we put out into the world.
+
+01:11:44.605 --> 01:11:47.608
+And macOS Big Sur is where it starts.
+
+01:11:51.345 --> 01:11:54.248
+[Craig] So that's the thinking
+behind our new design.
+
+01:11:54.314 --> 01:11:57.117
+Now let me show it to you
+in action with a demo.
+
+01:12:00.454 --> 01:12:01.622
+As Alan said,
+
+01:12:01.688 --> 01:12:05.192
+we've refined some of the most iconic
+elements of the Mac experience.
+
+01:12:05.259 --> 01:12:06.760
+Let's start with the Dock.
+
+01:12:06.827 --> 01:12:10.531
+It has an elegant new design that floats
+along the bottom of your desktop.
+
+01:12:10.597 --> 01:12:13.634
+And you'll notice that we've created
+gorgeous new app icons
+
+01:12:13.700 --> 01:12:16.036
+for all of your favorite apps.
+
+01:12:16.103 --> 01:12:18.539
+Speaking of apps,
+let's take a look at the Finder.
+
+01:12:18.605 --> 01:12:23.877
+You notice it has a gorgeous new
+top-to-bottom design for the sidebar,
+
+01:12:23.944 --> 01:12:27.514
+and it has a compact,
+space-efficient toolbar.
+
+01:12:27.581 --> 01:12:30.651
+Makes it really easy
+to get to all of your controls.
+
+01:12:31.218 --> 01:12:34.354
+Next, let's take a look at Mail.
+
+01:12:34.421 --> 01:12:37.257
+You can see that Mail has
+all-new glyphs in the sidebar,
+
+01:12:37.324 --> 01:12:40.227
+and you may have noticed
+that we've brought color back as well.
+
+01:12:40.294 --> 01:12:42.529
+Now, each app uses its own key color.
+
+01:12:42.596 --> 01:12:46.633
+That same color is used for the elegant
+new rounded row selection style
+
+01:12:46.700 --> 01:12:48.502
+here in the message list.
+
+01:12:48.569 --> 01:12:51.471
+Now, the toolbar makes it really easy
+to get to all your controls.
+
+01:12:51.538 --> 01:12:54.474
+Check out how the search bar expands
+as I click on it.
+
+01:12:54.541 --> 01:12:56.710
+And, of course,
+other operations like filtering,
+
+01:12:56.777 --> 01:12:59.146
+they're just a click away.
+
+01:12:59.213 --> 01:13:01.882
+Next, let's take a look at Photos.
+
+01:13:01.949 --> 01:13:03.784
+It's just stunning.
+
+01:13:03.851 --> 01:13:07.087
+You can get to all your albums
+and media types from the sidebar,
+
+01:13:07.154 --> 01:13:09.289
+and the photo grid is backed by Metal,
+
+01:13:09.356 --> 01:13:11.525
+so animations are super smooth
+
+01:13:11.592 --> 01:13:14.695
+whether I'm scrolling, transitioning
+
+01:13:14.761 --> 01:13:18.232
+or zooming all the way in
+or all the way out.
+
+01:13:18.632 --> 01:13:19.633
+It's beautiful.
+
+01:13:20.133 --> 01:13:23.504
+Now we've refreshed the design
+for all the apps on the system,
+
+01:13:23.570 --> 01:13:26.773
+from apps like Calendar and Notes
+
+01:13:26.840 --> 01:13:30.377
+to Podcasts and Music,
+with its new Listen Now pane.
+
+01:13:30.444 --> 01:13:35.148
+And an all-new version of iWork
+that features a simplified toolbar.
+
+01:13:35.215 --> 01:13:37.851
+You may have noticed
+we've also updated the menu bar.
+
+01:13:37.918 --> 01:13:41.788
+It's now translucent and elegantly takes
+on the color of your desktop picture.
+
+01:13:42.523 --> 01:13:45.425
+And we've updated the layout
+of menus as well.
+
+01:13:45.492 --> 01:13:48.328
+We've given all the items
+just a little bit more room to breathe.
+
+01:13:48.395 --> 01:13:52.199
+Now, on the Mac, we love our ability
+to get directly at controls,
+
+01:13:52.266 --> 01:13:54.735
+like Wi-Fi or Sound.
+
+01:13:54.801 --> 01:13:58.572
+And you can see that we've reworked these
+to be even more useful.
+
+01:13:58.639 --> 01:14:00.541
+But we've gone even further this year
+
+01:14:00.607 --> 01:14:03.443
+by giving you one place
+to get at all your controls.
+
+01:14:03.510 --> 01:14:06.680
+We've brought Control Center to the Mac.
+
+01:14:06.747 --> 01:14:10.684
+All of my controls are here,
+and it's really easy to make adjustments.
+
+01:14:10.751 --> 01:14:13.554
+For instance,
+I can change display brightness here
+
+01:14:13.620 --> 01:14:16.523
+or I can click to dive in for more,
+
+01:14:16.590 --> 01:14:18.992
+like turning on Dark Mode
+or activating Night Shift.
+
+01:14:19.459 --> 01:14:22.129
+And what's really cool is
+that I can customize the menu bar
+
+01:14:22.196 --> 01:14:23.730
+with any of these controls.
+
+01:14:23.797 --> 01:14:27.067
+So, say I want one-click access
+to Do Not Disturb.
+
+01:14:27.568 --> 01:14:31.405
+I can just click and drag it
+right into my menu bar
+
+01:14:31.471 --> 01:14:33.273
+and customize just like that.
+
+01:14:33.874 --> 01:14:36.710
+Now we've also reinvented
+Notification Center.
+
+01:14:36.777 --> 01:14:40.280
+You can access it by clicking on the time
+in the upper right.
+
+01:14:40.347 --> 01:14:42.549
+And as you see, we now have a single view
+
+01:14:42.616 --> 01:14:46.053
+that brings your notifications and widgets
+together all in one place.
+
+01:14:46.119 --> 01:14:48.789
+And we now group
+related notifications together.
+
+01:14:48.856 --> 01:14:52.492
+You can easily expand them
+to take a closer look
+
+01:14:52.559 --> 01:14:55.562
+or clear them all out in one step.
+
+01:14:55.629 --> 01:14:58.332
+And we're bringing our redesigned widgets
+to the Mac.
+
+01:14:58.398 --> 01:14:59.733
+They're really beautiful.
+
+01:14:59.800 --> 01:15:02.102
+And you have all-new ways
+to customize them.
+
+01:15:02.169 --> 01:15:05.005
+I'm just gonna click "Edit Widgets"
+down here at the bottom.
+
+01:15:05.072 --> 01:15:07.908
+And you can see
+I have a gallery of all my widgets,
+
+01:15:07.975 --> 01:15:10.544
+and they come in a variety of sizes.
+
+01:15:10.611 --> 01:15:14.248
+I can select between them just like this.
+
+01:15:14.314 --> 01:15:16.717
+And developers can bring
+their own widgets as well,
+
+01:15:16.783 --> 01:15:18.919
+like this one here from Day One.
+
+01:15:18.986 --> 01:15:20.587
+Now adding widgets is easy.
+
+01:15:21.188 --> 01:15:25.125
+Let's start by adding,
+say, the World Clock.
+
+01:15:25.192 --> 01:15:27.528
+Maybe I'll add Notes in.
+
+01:15:27.594 --> 01:15:31.965
+And it'd be kind of cool
+to add my Reminders list as well.
+
+01:15:33.166 --> 01:15:36.436
+So that's a look at Widgets,
+Notification Center
+
+01:15:36.503 --> 01:15:39.072
+and our all-new design in Big Sur.
+
+01:15:39.540 --> 01:15:43.644
+Next, there are exciting updates
+for some of the most-used apps on the Mac.
+
+01:15:44.278 --> 01:15:46.446
+First, let's talk about Messages.
+
+01:15:47.080 --> 01:15:51.251
+Messages on the Mac is designed to work
+seamlessly with all of your devices,
+
+01:15:51.318 --> 01:15:54.288
+so your SMS and iMessage conversations
+are in sync
+
+01:15:54.354 --> 01:15:56.356
+no matter what device you're using.
+
+01:15:56.423 --> 01:15:59.193
+Now this year we're taking Messages
+to the next level
+
+01:15:59.259 --> 01:16:00.861
+with a ton of great new features.
+
+01:16:01.428 --> 01:16:05.098
+We're introducing powerful search
+to help you find what you're looking for.
+
+01:16:05.699 --> 01:16:09.937
+We have a redesigned photo picker
+to make sharing photos and videos easier.
+
+01:16:10.470 --> 01:16:14.208
+And Memoji. You can now create
+and edit your Memoji right on your Mac.
+
+01:16:14.274 --> 01:16:17.044
+And Memoji stickers
+bring personality to messages,
+
+01:16:17.110 --> 01:16:20.547
+giving you fun ways to express yourself
+in all of your conversations.
+
+01:16:20.981 --> 01:16:23.717
+Messages effects helps you
+celebrate special moments
+
+01:16:23.784 --> 01:16:24.985
+and get your point across.
+
+01:16:25.052 --> 01:16:27.654
+And you're also getting
+pinned conversations
+
+01:16:27.721 --> 01:16:30.958
+that are synced across devices
+so you can always get to them,
+
+01:16:31.024 --> 01:16:33.093
+along with new Groups enhancements.
+
+01:16:33.160 --> 01:16:35.996
+So that's what's coming
+to Messages on Mac:
+
+01:16:36.063 --> 01:16:38.498
+powerful tools
+to manage your conversations
+
+01:16:38.565 --> 01:16:41.268
+and new ways to express yourself.
+
+01:16:41.802 --> 01:16:43.837
+Next up, Maps.
+
+01:16:43.904 --> 01:16:48.008
+Apple Maps is the best way
+to explore and navigate the world,
+
+01:16:48.075 --> 01:16:50.110
+whether you're planning a trip on the Mac
+
+01:16:50.177 --> 01:16:53.013
+or using turn-by-turn directions
+on your iPhone.
+
+01:16:53.080 --> 01:16:57.618
+Today I'm excited to announce
+an all-new version of Maps for the Mac.
+
+01:16:58.051 --> 01:17:01.021
+To start,
+Maps features a stunning new design
+
+01:17:01.088 --> 01:17:05.392
+that makes it easy to find your way around
+using Apple's detailed new map.
+
+01:17:05.459 --> 01:17:07.027
+And for the first time on the Mac,
+
+01:17:07.094 --> 01:17:10.864
+Favorites like home, work
+or that great coffee shop on the corner
+
+01:17:10.931 --> 01:17:13.433
+are now just a click away.
+
+01:17:13.500 --> 01:17:16.370
+You can now create your own Guides
+of all the places you want to visit
+
+01:17:16.436 --> 01:17:17.971
+right on your Mac.
+
+01:17:18.038 --> 01:17:19.806
+And before leaving for the airport,
+
+01:17:19.873 --> 01:17:22.910
+you can check where your gate is located
+with indoor maps
+
+01:17:22.976 --> 01:17:25.746
+or explore your destination city
+with Look Around,
+
+01:17:25.812 --> 01:17:28.115
+which is incredible on the big screen.
+
+01:17:28.182 --> 01:17:31.051
+We've even brought
+other useful features to the Mac,
+
+01:17:31.118 --> 01:17:33.320
+like the ability to see
+the progress of friends
+
+01:17:33.387 --> 01:17:35.022
+who have shared their ETA with you.
+
+01:17:35.622 --> 01:17:38.158
+And the Mac gets
+all the other new Maps features
+
+01:17:38.225 --> 01:17:40.494
+we just introduced in iOS 14.
+
+01:17:41.428 --> 01:17:47.000
+And that's just a taste of what's coming
+in the all-new Apple Maps on the Mac.
+
+01:17:47.067 --> 01:17:50.604
+Next let's talk about Mac Catalyst.
+
+01:17:50.671 --> 01:17:52.940
+Catalyst gives developers a big head start
+
+01:17:53.006 --> 01:17:55.609
+in creating a Mac app from an iPad app.
+
+01:17:55.676 --> 01:17:58.779
+Take, for instance, our recent release
+of Swift Playgrounds for Mac.
+
+01:17:58.846 --> 01:18:01.648
+Catalyst gave us a big head start
+creating the app,
+
+01:18:01.715 --> 01:18:03.884
+and we were able
+to spend our development time
+
+01:18:03.951 --> 01:18:06.353
+crafting a great Mac experience.
+
+01:18:06.920 --> 01:18:10.157
+Today we have some improvements
+to Mac Catalyst I'd like to share.
+
+01:18:10.724 --> 01:18:13.327
+This year, developers will be able
+to optimize their apps
+
+01:18:13.393 --> 01:18:15.863
+to fully utilize the native resolution
+of the Mac screen,
+
+01:18:15.929 --> 01:18:19.333
+providing total control of every pixel.
+
+01:18:19.399 --> 01:18:21.768
+We've also given developers
+new capabilities,
+
+01:18:21.835 --> 01:18:25.138
+including powerful new menu
+and keyboard APIs
+
+01:18:25.205 --> 01:18:28.509
+and updated controls
+like checkboxes and date pickers.
+
+01:18:28.575 --> 01:18:31.645
+They look great
+with the new design of macOS.
+
+01:18:31.712 --> 01:18:34.948
+In fact, we used Catalyst
+with the new version of Maps.
+
+01:18:35.015 --> 01:18:36.483
+And just as you'd expect,
+
+01:18:36.550 --> 01:18:38.952
+it's a full-fledged Mac app
+that runs natively
+
+01:18:39.019 --> 01:18:41.221
+and is designed
+in a way that's true to the Mac.
+
+01:18:41.288 --> 01:18:45.158
+So you get multiple resizable windows,
+keyboard shortcuts
+
+01:18:45.225 --> 01:18:48.896
+and everything else you'd expect
+from a native Mac app.
+
+01:18:48.962 --> 01:18:51.565
+And we did the same thing for Messages.
+
+01:18:51.632 --> 01:18:54.301
+Maps and Messages join
+the great set of apps from Apple
+
+01:18:54.368 --> 01:18:57.070
+that already use
+the Mac Catalyst technology.
+
+01:18:57.137 --> 01:18:59.873
+And there's a growing list
+of third-party Catalyst apps available
+
+01:18:59.940 --> 01:19:01.942
+on the Mac App Store.
+
+01:19:02.476 --> 01:19:05.245
+Next... Safari.
+
+01:19:05.312 --> 01:19:06.513
+Our users love Safari
+
+01:19:06.580 --> 01:19:09.616
+for its speedy performance,
+power efficiency
+
+01:19:09.683 --> 01:19:12.486
+and state-of-the-art privacy protections.
+
+01:19:12.553 --> 01:19:13.954
+And it delivers all of that
+
+01:19:14.021 --> 01:19:17.991
+while making it easy to get to your
+bookmarks, tabs and browsing history
+
+01:19:18.058 --> 01:19:19.660
+across all of your devices.
+
+01:19:19.726 --> 01:19:22.896
+This year, we're building
+on Safari's amazing performance,
+
+01:19:22.963 --> 01:19:26.233
+elegant design
+and pioneering privacy protections
+
+01:19:26.300 --> 01:19:30.804
+to deliver the biggest update to Safari
+since it was first introduced.
+
+01:19:30.871 --> 01:19:35.909
+As you know, Safari has long been
+the world's fastest desktop browser.
+
+01:19:35.976 --> 01:19:39.346
+This year, Safari's performance
+running JavaScript is better than ever
+
+01:19:39.413 --> 01:19:43.817
+and continues to significantly outpace
+all other major browsers.
+
+01:19:44.351 --> 01:19:48.989
+And now, when it comes to page loading,
+we're even faster there too.
+
+01:19:49.056 --> 01:19:51.692
+In fact, when loading
+frequently visited websites,
+
+01:19:51.758 --> 01:19:55.963
+Safari is now on average
+more than 50% faster than Chrome.
+
+01:19:56.029 --> 01:19:58.699
+And Safari delivers
+this amazing performance
+
+01:19:58.765 --> 01:20:01.869
+while continuing to deliver
+industry-leading battery life.
+
+01:19:58.765 --> 01:20:01.869
+while continuing to deliver
+industry-leading battery life.
+
+01:20:02.503 --> 01:20:04.938
+And of course,
+Safari is continuing to build
+
+01:20:05.005 --> 01:20:09.009
+on its pioneering track record
+of protecting user privacy.
+
+01:20:09.076 --> 01:20:13.447
+Safari was the first browser to introduce
+private browsing, cookie blocking,
+
+01:20:13.514 --> 01:20:16.483
+and most recently,
+Intelligent Tracking Prevention.
+
+01:20:17.284 --> 01:20:20.387
+This year, we want to give our users
+even more visibility
+
+01:20:20.454 --> 01:20:23.190
+into how each site they visit
+tries to track them
+
+01:20:23.257 --> 01:20:25.993
+and the ways that Safari protects them.
+
+01:20:26.059 --> 01:20:29.062
+So now users can click on
+the Privacy Report button in the toolbar
+
+01:20:29.129 --> 01:20:30.163
+when they visit a site
+
+01:20:30.230 --> 01:20:33.333
+to better understand
+how that site is treating their privacy.
+
+01:20:34.168 --> 01:20:36.370
+In addition to monitoring
+unwanted tracking,
+
+01:20:36.436 --> 01:20:40.374
+Safari now also securely monitors
+your saved passwords
+
+01:20:40.440 --> 01:20:43.810
+to ensure that they haven't been
+compromised in a data breach.
+
+01:20:44.311 --> 01:20:47.714
+And this is also a big year
+for extensions in Safari.
+
+01:20:47.781 --> 01:20:49.983
+We're adding support
+for the WebExtensions API
+
+01:20:50.050 --> 01:20:52.319
+so developers can easily
+bring over extensions
+
+01:20:52.386 --> 01:20:54.488
+that they built for other browsers.
+
+01:20:54.555 --> 01:20:57.224
+And we're building an all-new category
+in the Mac App Store
+
+01:20:57.291 --> 01:21:01.662
+to showcase Safari extensions
+so users can easily find them.
+
+01:21:01.728 --> 01:21:03.897
+Now extensions are very powerful
+
+01:21:03.964 --> 01:21:06.400
+but can introduce privacy challenges.
+
+01:21:06.466 --> 01:21:10.103
+In other browsers, extensions can access
+every page you visit,
+
+01:21:10.170 --> 01:21:11.705
+every tab you open,
+
+01:21:11.772 --> 01:21:13.340
+even everything you type.
+
+01:21:13.407 --> 01:21:15.909
+So we're doing even more here.
+
+01:21:16.476 --> 01:21:20.414
+In Safari, you choose
+which sites each extension can work with,
+
+01:21:20.480 --> 01:21:23.851
+and you can even give them access
+just for the day,
+
+01:21:23.917 --> 01:21:26.653
+just for the website or all the time.
+
+01:21:26.720 --> 01:21:28.355
+But improved performance,
+
+01:21:28.422 --> 01:21:32.526
+power efficiency and privacy protections
+are only the start.
+
+01:21:32.593 --> 01:21:34.862
+We have a whole slew
+of new features this year.
+
+01:21:34.928 --> 01:21:37.130
+From a customizable start page
+
+01:21:37.197 --> 01:21:40.701
+to redesigned tabs
+that are more elegant and powerful,
+
+01:21:40.767 --> 01:21:45.939
+and native translation capabilities
+built right into Safari.
+
+01:21:46.006 --> 01:21:49.643
+To tell you more,
+I'll hand it off to Beth Dakin.
+
+01:21:50.310 --> 01:21:51.345
+Thanks, Craig.
+
+01:21:51.411 --> 01:21:54.648
+I'm so excited to give you
+a tour of the brand-new Safari.
+
+01:21:54.715 --> 01:21:58.485
+When you open Safari,
+right away you'll notice the new look.
+
+01:21:58.552 --> 01:22:00.053
+It's clean and fresh.
+
+01:22:00.120 --> 01:22:02.556
+I want to show you
+one of my favorite new features:
+
+01:22:02.623 --> 01:22:03.991
+the customizable start page.
+
+01:22:04.057 --> 01:22:05.959
+I love it because I can make it my own.
+
+01:22:06.026 --> 01:22:08.095
+It's easy to get to
+the customization controls
+
+01:22:08.161 --> 01:22:09.630
+here in the bottom corner.
+
+01:22:09.696 --> 01:22:12.766
+We think a lot of people are gonna want
+to set a background image,
+
+01:22:12.833 --> 01:22:17.104
+and there's a beautiful gallery
+of curated wallpapers to choose from.
+
+01:22:17.171 --> 01:22:21.041
+You can use one of your own photos, too,
+and I know I want a photo of my son.
+
+01:22:21.108 --> 01:22:23.877
+I have a few really cute ones
+here in the downloads.
+
+01:22:23.944 --> 01:22:26.213
+I can just drag and drop to set it.
+
+01:22:26.280 --> 01:22:27.881
+That is so perfect.
+
+01:22:27.948 --> 01:22:30.450
+You can add new sections
+to the start page too.
+
+01:22:30.517 --> 01:22:34.321
+Let's add iCloud Tabs and Reading List.
+
+01:22:34.388 --> 01:22:35.756
+Let's take a look.
+
+01:22:35.822 --> 01:22:37.591
+There. This is perfect.
+
+01:22:37.658 --> 01:22:40.561
+I use Reading List all the time,
+and now it's so easy to get to.
+
+01:22:40.627 --> 01:22:44.031
+Another way that you can dial in Safari
+to suit your specific needs
+
+01:22:44.097 --> 01:22:45.465
+is with extensions.
+
+01:22:45.532 --> 01:22:49.403
+I can't wait for you developers
+to bring your web extensions to Safari.
+
+01:22:49.469 --> 01:22:53.140
+I've gone ahead and downloaded
+a few web extensions to take a peek.
+
+01:22:53.207 --> 01:22:56.844
+So let's go here to the Safari preferences
+to enable them.
+
+01:22:56.910 --> 01:23:01.615
+And I'll enable Power Thesaurus
+and Recipe Filter.
+
+01:23:01.682 --> 01:23:03.650
+So each of the extensions
+that I just enabled
+
+01:23:03.717 --> 01:23:05.652
+now has its own button
+here in the toolbar.
+
+01:23:05.719 --> 01:23:08.188
+Let me show you Recipe Filter.
+I love this one.
+
+01:23:08.255 --> 01:23:11.625
+So this extension will search
+the web page for a recipe,
+
+01:23:11.692 --> 01:23:14.394
+and if it finds one,
+it will pop it up in a little card.
+
+01:23:14.461 --> 01:23:17.831
+It's been a great accelerator for me
+when I'm building a grocery list.
+
+01:23:18.232 --> 01:23:22.336
+So the extension hasn't done anything yet
+because I haven't granted permission.
+
+01:23:22.402 --> 01:23:24.505
+So let me click on the toolbar button,
+
+01:23:24.571 --> 01:23:27.174
+and I'm going to allow this extension
+for one day.
+
+01:23:27.241 --> 01:23:28.976
+And when I click here, it'll do its thing.
+
+01:23:29.042 --> 01:23:32.179
+So here we go. And there it is. So useful.
+
+01:23:32.246 --> 01:23:33.847
+Okay, so I have my personality
+
+01:23:33.914 --> 01:23:36.683
+pretty thoroughly stamped
+over Safari at this point.
+
+01:23:36.750 --> 01:23:39.353
+And you know,
+I use Safari for a lot of personal things,
+
+01:23:39.419 --> 01:23:42.623
+and Apple makes sure
+my private life stays private.
+
+01:23:42.689 --> 01:23:46.960
+Privacy is essential to everything we do
+at Apple, and it's critical on the web.
+
+01:23:47.027 --> 01:23:49.897
+And now you can see
+what Safari is doing to protect you.
+
+01:23:49.963 --> 01:23:52.766
+If I click on the
+Intelligent Tracking Prevention button,
+
+01:23:52.833 --> 01:23:54.501
+I can see the number of known trackers
+
+01:23:54.568 --> 01:23:57.538
+that Safari protected me from
+on this web page.
+
+01:23:57.604 --> 01:23:59.039
+I can click here
+
+01:23:59.106 --> 01:24:03.043
+to see a list of the known trackers
+right here in this popover.
+
+01:24:03.110 --> 01:24:05.846
+And the full privacy report
+is just one click away.
+
+01:24:06.580 --> 01:24:09.049
+And that's what we have for privacy
+in the new Safari.
+
+01:24:09.116 --> 01:24:11.018
+Next I'd like to talk about tabs.
+
+01:24:11.084 --> 01:24:13.720
+If you love tabs,
+you're going to love the new Safari.
+
+01:24:13.787 --> 01:24:17.524
+It's easier and more efficient than ever
+to work with lots of tabs.
+
+01:24:17.591 --> 01:24:19.560
+So I have another window here,
+
+01:24:19.626 --> 01:24:22.129
+and right away you'll notice
+that there are icons and tabs,
+
+01:24:22.196 --> 01:24:25.365
+which makes it so easy
+to spot what you're looking for.
+
+01:24:25.432 --> 01:24:30.804
+And if I open more tabs,
+then you'll see more of them at once
+
+01:24:30.871 --> 01:24:35.209
+because the tabs get smaller
+and use the space more efficiently.
+
+01:24:35.275 --> 01:24:38.011
+If it's a little hard to find what
+you're looking for with this many tabs,
+
+01:24:38.078 --> 01:24:39.213
+that's no problem.
+
+01:24:39.279 --> 01:24:43.817
+You can just hover over tabs
+and see a nice preview of the page.
+
+01:24:44.685 --> 01:24:46.987
+I'm ready to clean up now,
+and that's easy too.
+
+01:24:47.054 --> 01:24:49.189
+I can just bring up the context menu here
+
+01:24:49.256 --> 01:24:51.758
+and close all tabs to the right.
+Just like that.
+
+01:24:51.825 --> 01:24:55.729
+We are so excited that
+the new Safari has built-in translation.
+
+01:24:55.796 --> 01:24:56.797
+Let me show you.
+
+01:24:57.598 --> 01:24:59.700
+So here on this website, on El Mundo,
+
+01:24:59.766 --> 01:25:03.070
+Safari has detected
+that this is not in my primary language,
+
+01:25:03.136 --> 01:25:06.406
+and it's added the translation icon
+to the smart search field.
+
+01:25:06.473 --> 01:25:10.077
+I can click here,
+and let's translate this page to English.
+
+01:25:10.143 --> 01:25:11.612
+It'll happen inline.
+
+01:25:12.079 --> 01:25:14.147
+And as more content is added,
+
+01:25:14.214 --> 01:25:16.416
+that gets translated dynamically too.
+
+01:25:17.618 --> 01:25:20.787
+Those are some highlights, but there is
+so much more to the new Safari.
+
+01:25:20.854 --> 01:25:22.022
+Back to you, Craig.
+
+01:25:22.089 --> 01:25:23.490
+Thanks, Beth.
+
+01:25:23.557 --> 01:25:25.192
+So that's Safari.
+
+01:25:25.259 --> 01:25:28.262
+It's a huge release,
+with new ways to customize,
+
+01:25:28.328 --> 01:25:30.264
+big improvements
+to your browsing experience
+
+01:25:30.330 --> 01:25:32.165
+like tabs and translation,
+
+01:25:32.232 --> 01:25:34.535
+and even stronger privacy protection
+
+01:25:34.601 --> 01:25:37.571
+to keep your browsing your business.
+
+01:25:38.539 --> 01:25:40.207
+And that's macOS Big Sur,
+
+01:25:40.274 --> 01:25:44.745
+the biggest update to design since
+the original introduction of Mac OS X,
+
+01:25:44.811 --> 01:25:47.281
+significant updates to Messages and Maps
+
+01:25:47.347 --> 01:25:50.684
+and the biggest update to Safari ever.
+
+01:25:50.751 --> 01:25:53.086
+But these changes are only the beginning.
+
+01:25:53.153 --> 01:25:56.456
+For years now,
+down deep, below the surface,
+
+01:25:56.523 --> 01:25:59.426
+we've been working
+on something truly profound.
+
+01:25:59.493 --> 01:26:01.995
+To tell you more,
+I'll hand it back to Tim.
+
+01:26:03.797 --> 01:26:05.065
+Thanks, Craig.
+
+01:26:05.132 --> 01:26:08.135
+Big Sur is going to be
+a great release of macOS.
+
+01:26:08.202 --> 01:26:10.370
+But that's only part of the story,
+
+01:26:10.437 --> 01:26:15.209
+because today is going to be
+a truly historic day for the Mac.
+
+01:26:15.275 --> 01:26:18.078
+Today we're going to tell you
+about some really big changes,
+
+01:26:18.145 --> 01:26:21.181
+how we're going to take the Mac
+to a whole new level.
+
+01:26:21.248 --> 01:26:22.583
+From the very beginning,
+
+01:26:22.649 --> 01:26:25.853
+the Mac redefined
+the entire computer industry.
+
+01:26:25.919 --> 01:26:30.257
+The Mac has always been about innovation
+and boldly pushing things forward,
+
+01:26:30.324 --> 01:26:33.927
+embracing big changes to stay
+at the forefront of personal computing.
+
+01:26:35.128 --> 01:26:38.198
+The Mac has had
+three major transitions in its history.
+
+01:26:38.899 --> 01:26:40.701
+The move to PowerPC,
+
+01:26:40.767 --> 01:26:43.070
+the transition to Mac OS X
+
+01:26:43.136 --> 01:26:45.239
+and the move to Intel.
+
+01:26:45.305 --> 01:26:50.110
+And now it's time
+for a huge leap forward for the Mac,
+
+01:26:50.177 --> 01:26:54.081
+because today is the day we're announcing
+that the Mac is transitioning...
+
+01:26:58.986 --> 01:27:01.121
+to our own Apple Silicon.
+
+01:27:02.389 --> 01:27:06.760
+When we make bold changes,
+it's for one simple yet powerful reason:
+
+01:27:06.827 --> 01:27:09.096
+so we can make much better products.
+
+01:27:09.162 --> 01:27:12.299
+When we look ahead,
+we envision some amazing new products,
+
+01:27:12.366 --> 01:27:15.002
+and transitioning
+to our own custom silicon
+
+01:27:15.068 --> 01:27:17.271
+is what will enable us
+to bring them to life.
+
+01:27:18.405 --> 01:27:19.606
+At Apple,
+
+01:27:19.673 --> 01:27:24.178
+integrating hardware and software
+is fundamental to everything we do.
+
+01:27:24.244 --> 01:27:26.213
+That's what makes our products so great.
+
+01:27:26.280 --> 01:27:29.483
+And silicon is at the heart
+of our hardware.
+
+01:27:29.550 --> 01:27:32.252
+So having a world-class
+silicon design team
+
+01:27:32.319 --> 01:27:33.554
+is a game changer.
+
+01:27:34.555 --> 01:27:36.790
+To tell you more about Apple Silicon
+
+01:27:36.857 --> 01:27:39.259
+and how it will take Mac
+to the next level,
+
+01:27:39.326 --> 01:27:42.496
+I'd like to send you over to Johny Srouji
+
+01:27:42.563 --> 01:27:45.699
+at one of our labs
+in an undisclosed location.
+
+01:27:46.533 --> 01:27:48.535
+["I'm Getting Tired"
+by Jacknife Lee playing]
+
+01:28:10.591 --> 01:28:11.692
+[song ends]
+
+01:28:11.758 --> 01:28:13.460
+Welcome to our lab.
+
+01:28:13.527 --> 01:28:17.030
+We've been building and refining
+our Apple Silicon for over a decade.
+
+01:28:17.097 --> 01:28:18.999
+The result is a scalable architecture
+
+01:28:19.066 --> 01:28:21.235
+that is custom-designed
+for Apple products,
+
+01:28:21.301 --> 01:28:24.471
+and it leads the industry in features
+and performance per watt.
+
+01:28:24.538 --> 01:28:26.306
+So I'd like to tell you how we got here
+
+01:28:26.373 --> 01:28:28.609
+and what it means for the Mac
+moving forward.
+
+01:28:28.675 --> 01:28:30.811
+It all started with the iPhone.
+
+01:28:30.878 --> 01:28:32.980
+The iPhone demanded
+performance and capabilities
+
+01:28:33.046 --> 01:28:35.916
+that were seen as impossible
+in a device that small.
+
+01:28:36.350 --> 01:28:40.187
+This is where we developed our relentless
+focus on performance per watt.
+
+01:28:41.054 --> 01:28:44.324
+Generation after generation,
+we pushed the boundaries of technology,
+
+01:28:44.391 --> 01:28:47.494
+which enabled us to improve
+performance and energy efficiency,
+
+01:28:47.561 --> 01:28:50.531
+while building advanced
+and industry-leading features.
+
+01:28:50.597 --> 01:28:55.335
+Our team delivered ten generations
+of increasingly complex and rich designs,
+
+01:28:55.402 --> 01:28:57.538
+always improving performance.
+
+01:28:57.604 --> 01:28:59.907
+In fact, CPU performance in the iPhone
+
+01:28:59.973 --> 01:29:02.142
+has improved by over a hundred times,
+
+01:29:02.209 --> 01:29:06.180
+keeping the iPhone's performance ahead
+of every other phone in the industry.
+
+01:29:06.246 --> 01:29:09.149
+Another opportunity for the team
+was the iPad.
+
+01:29:09.216 --> 01:29:11.818
+While iPhone chips
+could drive our mainstream iPads,
+
+01:29:11.885 --> 01:29:14.054
+we wanted to push the iPad even further.
+
+01:29:14.121 --> 01:29:16.423
+It began with the iPad's Retina display,
+
+01:29:16.490 --> 01:29:18.692
+which demanded a custom chip.
+
+01:29:18.759 --> 01:29:20.494
+So the team scaled our architecture
+
+01:29:20.561 --> 01:29:22.563
+and designed the most-optimized
+
+01:29:22.629 --> 01:29:25.766
+and highest-performance chip
+possible for the iPad.
+
+01:29:25.832 --> 01:29:27.034
+Starting with the A5X,
+
+01:29:27.100 --> 01:29:30.571
+we built a line of SoCs
+specifically designed for the iPad.
+
+01:29:30.637 --> 01:29:33.740
+We doubled the iPhone's
+graphics performance through a larger GPU
+
+01:29:33.807 --> 01:29:36.376
+and a wider memory subsystem.
+
+01:29:36.443 --> 01:29:39.079
+This put the iPad in a class by itself.
+
+01:29:39.146 --> 01:29:42.816
+Compared to the very first iPad,
+the latest iPad Pro delivers
+
+01:29:42.883 --> 01:29:45.385
+over 1,000 times faster
+graphics performance
+
+01:29:45.452 --> 01:29:47.354
+in just ten years.
+
+01:29:47.421 --> 01:29:50.157
+This is part of the reason
+why the iPad Pro is faster
+
+01:29:50.224 --> 01:29:53.227
+than the vast majority of PC laptops.
+
+01:29:53.293 --> 01:29:57.698
+And this foreshadows how well
+our architecture will scale into the Mac.
+
+01:29:57.764 --> 01:30:01.168
+Another place where we applied our focus
+was the Watch.
+
+01:29:57.764 --> 01:30:01.168
+Another place where we applied our focus
+was the Watch.
+
+01:30:01.235 --> 01:30:04.171
+We scaled our SoC architecture
+to optimize performance
+
+01:30:04.238 --> 01:30:07.107
+for the device's unique
+low-power requirements,
+
+01:30:07.174 --> 01:30:10.310
+and we built a chip
+perfectly suited for Apple Watch.
+
+01:30:11.345 --> 01:30:14.681
+Our SoCs enable each of these products
+with unique features
+
+01:30:14.748 --> 01:30:16.783
+and industry-leading performance per watt,
+
+01:30:16.850 --> 01:30:19.620
+and it makes each of them best in class.
+
+01:30:19.987 --> 01:30:22.689
+And we do this at an enormous scale.
+
+01:30:22.756 --> 01:30:26.660
+In fact, adding all of the processors
+across these three products,
+
+01:30:26.727 --> 01:30:29.997
+we've shipped over two billion
+in just ten years.
+
+01:30:30.063 --> 01:30:32.833
+And we've designed and shipped
+billions of additional chips
+
+01:30:32.900 --> 01:30:34.535
+that work together with our SoCs
+
+01:30:34.601 --> 01:30:36.537
+to enable our amazing products.
+
+01:30:36.603 --> 01:30:39.139
+And now we're bringing
+all of that expertise
+
+01:30:39.206 --> 01:30:42.042
+and that same focused
+and disciplined approach
+
+01:30:42.109 --> 01:30:43.243
+to the Mac.
+
+01:30:43.644 --> 01:30:47.347
+The first thing this will do is give
+the Mac a whole new level of performance.
+
+01:30:47.414 --> 01:30:50.984
+Now, when we talk about performance,
+we have to talk about power,
+
+01:30:51.051 --> 01:30:54.555
+because all systems built today
+are constrained by power consumption,
+
+01:30:54.621 --> 01:30:55.989
+thermals, or both.
+
+01:30:56.757 --> 01:30:58.759
+Among today's consumer systems,
+
+01:30:58.825 --> 01:31:01.028
+desktops deliver the highest performance
+
+01:31:01.094 --> 01:31:03.163
+but consume the most power.
+
+01:31:03.230 --> 01:31:05.899
+Notebooks trade off performance
+for lower power,
+
+01:31:05.966 --> 01:31:07.601
+making them portable.
+
+01:31:07.668 --> 01:31:09.937
+As you can see,
+normally to get more performance
+
+01:31:10.003 --> 01:31:12.239
+you have to consume more power.
+
+01:31:12.306 --> 01:31:14.274
+When you take a closer look at this chart,
+
+01:31:14.341 --> 01:31:17.744
+you realize you want to operate
+in the upper-left corner.
+
+01:31:17.811 --> 01:31:20.047
+You want to deliver
+the highest performance
+
+01:31:20.113 --> 01:31:22.049
+at the lowest power consumption.
+
+01:31:22.115 --> 01:31:24.618
+And that's exactly
+where we want to take the Mac.
+
+01:31:25.118 --> 01:31:26.954
+Building up on our years of experience
+
+01:31:27.020 --> 01:31:29.790
+designing the world's
+most energy-efficient chips,
+
+01:31:29.857 --> 01:31:33.093
+our plan is to give the Mac
+a much higher level of performance
+
+01:31:33.160 --> 01:31:36.163
+while at the same time
+consuming less power.
+
+01:31:36.230 --> 01:31:38.332
+So, much better performance
+is reason enough
+
+01:31:38.398 --> 01:31:40.534
+to transition the Mac to Apple SoCs.
+
+01:31:41.301 --> 01:31:43.270
+But that's just part of the story.
+
+01:31:44.071 --> 01:31:47.307
+Our scalable architecture includes
+many custom technologies
+
+01:31:47.374 --> 01:31:49.443
+that when integrated with our software
+
+01:31:49.510 --> 01:31:51.912
+will bring even more innovation
+to the Mac.
+
+01:31:52.646 --> 01:31:54.314
+With our advanced power management,
+
+01:31:54.381 --> 01:31:56.984
+we will maximize performance
+and battery life
+
+01:31:57.050 --> 01:31:58.719
+better than ever before.
+
+01:31:59.520 --> 01:32:02.923
+Our Secure Enclave will bring
+best-in-class security,
+
+01:32:02.990 --> 01:32:04.525
+and our high-performance GPU
+
+01:32:04.591 --> 01:32:08.428
+is going to bring a whole new level
+of graphics performance to every Mac,
+
+01:32:08.495 --> 01:32:10.831
+making them even better
+for Pro Applications
+
+01:32:10.898 --> 01:32:12.432
+and really great for games.
+
+01:32:12.499 --> 01:32:14.668
+And combined with our neural engines,
+
+01:32:14.735 --> 01:32:18.672
+our chips will make the Mac
+an amazing platform for machine learning.
+
+01:32:18.739 --> 01:32:21.074
+And we're bringing
+many other custom technologies,
+
+01:32:21.141 --> 01:32:24.545
+such as our video-display
+and image-processing engines,
+
+01:32:24.611 --> 01:32:27.414
+that will help make the Mac
+better than ever before.
+
+01:32:28.015 --> 01:32:29.950
+So, what does all of this mean
+for the Mac?
+
+01:32:30.017 --> 01:32:34.421
+First, we're designing a family of SoCs
+specifically for the Mac product line.
+
+01:32:34.488 --> 01:32:37.391
+Second, just like we did
+with the iPhone, iPad and Watch,
+
+01:32:37.457 --> 01:32:40.227
+we're going to bring
+great technologies to the Mac.
+
+01:32:40.294 --> 01:32:42.696
+This will give the Mac
+a unique set of features
+
+01:32:42.763 --> 01:32:44.831
+and incredible performance.
+
+01:32:44.898 --> 01:32:47.034
+And third, we'll have
+a common architecture
+
+01:32:47.100 --> 01:32:49.803
+across all of our product lines,
+
+01:32:49.870 --> 01:32:53.140
+making it far easier for developers
+to write and optimize software
+
+01:32:53.207 --> 01:32:55.375
+for the entire Apple ecosystem.
+
+01:32:55.442 --> 01:32:58.512
+Ultimately we know
+that bringing our SoCs to the Mac
+
+01:32:58.579 --> 01:33:01.748
+will allow us to build
+much better products,
+
+01:33:01.815 --> 01:33:04.785
+and the Mac will take
+another huge leap forward.
+
+01:33:04.852 --> 01:33:06.653
+Now, a key advantage we have
+
+01:33:06.720 --> 01:33:10.057
+is the tight integration
+of our silicon with our software.
+
+01:33:10.123 --> 01:33:13.360
+To tell you more about
+how macOS will run on Apple SoCs,
+
+01:33:13.427 --> 01:33:15.295
+here is my colleague, Craig.
+
+01:33:17.364 --> 01:33:18.432
+Thanks, Johny.
+
+01:33:18.498 --> 01:33:22.870
+Now let's talk about the technologies
+that we've built into macOS Big Sur
+
+01:33:22.936 --> 01:33:26.440
+that will make the transition
+to Apple Silicon smooth and seamless
+
+01:33:26.507 --> 01:33:29.176
+for both consumers and developers.
+
+01:33:29.243 --> 01:33:32.145
+These new Mac systems will be incredible,
+
+01:33:32.212 --> 01:33:33.981
+and users will want their favorite apps
+
+01:33:34.047 --> 01:33:37.451
+to take full advantage of the capabilities
+of our custom silicon.
+
+01:33:37.518 --> 01:33:40.521
+And the best way to do that
+is with native apps.
+
+01:33:40.587 --> 01:33:43.156
+So of course when we updated
+our apps for Big Sur,
+
+01:33:43.223 --> 01:33:47.361
+we built everything as native
+for Apple Silicon.
+
+01:33:47.427 --> 01:33:50.364
+And I'm happy to say we have
+all of our own Apple apps,
+
+01:33:50.430 --> 01:33:54.801
+including our most demanding Pro Apps
+like Final Cut Pro and Logic Pro,
+
+01:33:54.868 --> 01:33:57.070
+up and running as native now,
+
+01:33:57.137 --> 01:34:00.307
+and they'll be ready for customers
+on day one.
+
+01:34:00.374 --> 01:34:01.909
+So, how did we do this?
+
+01:34:01.975 --> 01:34:05.145
+We're using Xcode,
+just like all our developers will.
+
+01:34:05.212 --> 01:34:08.248
+Everything developers need
+to build apps for these new chips
+
+01:34:08.315 --> 01:34:11.051
+is built into the new version of Xcode.
+
+01:34:11.118 --> 01:34:15.189
+To get started, developers just open
+their app projects and recompile.
+
+01:34:15.255 --> 01:34:18.559
+The vast majority of developers
+can get their apps up and running
+
+01:34:18.625 --> 01:34:21.161
+in just a matter of days.
+
+01:34:21.228 --> 01:34:23.096
+And to deliver these apps,
+
+01:34:23.163 --> 01:34:24.865
+we've created Universal 2.
+
+01:34:24.932 --> 01:34:26.567
+It's a new type of Universal binary
+
+01:34:26.633 --> 01:34:30.904
+that works on both Intel-based Macs
+and Macs built on Apple Silicon.
+
+01:34:31.405 --> 01:34:35.375
+So developers can tap into the native
+power and performance of our new Macs
+
+01:34:35.442 --> 01:34:37.911
+and still support Intel-based Macs,
+
+01:34:37.978 --> 01:34:41.114
+all with a single binary
+for all of their users.
+
+01:34:41.181 --> 01:34:44.418
+Some of the biggest Mac developers
+have already gotten started.
+
+01:34:44.484 --> 01:34:47.454
+Microsoft is hard at work
+on Office for the Mac.
+
+01:34:47.521 --> 01:34:49.489
+And we've been working with Adobe
+
+01:34:49.556 --> 01:34:51.291
+on their flagship Creative Cloud,
+
+01:34:51.358 --> 01:34:55.128
+and many of their apps
+are already up and running great.
+
+01:34:55.696 --> 01:34:59.333
+So let's take a look at macOS
+running on Apple Silicon.
+
+01:34:59.399 --> 01:35:03.303
+So here we are on the desktop
+that we know and love.
+
+01:35:03.370 --> 01:35:06.039
+And I'm just gonna open up About This Mac.
+
+01:35:06.940 --> 01:35:11.745
+And what you see here is that we are
+running on our Apple Development Platform.
+
+01:35:11.812 --> 01:35:14.147
+This is a system built
+to support early development
+
+01:35:14.214 --> 01:35:16.617
+using the same A12Z processor
+
+01:35:16.683 --> 01:35:19.219
+currently shipping in iPad Pro.
+
+01:35:19.286 --> 01:35:21.054
+Now, I have a confession to make.
+
+01:35:21.121 --> 01:35:24.358
+This isn't the first time
+you've seen macOS running here.
+
+01:35:24.424 --> 01:35:26.426
+In fact, this is the same Mac
+
+01:35:26.493 --> 01:35:30.597
+that Beth and I used to demo
+all the new Big Sur features earlier.
+
+01:35:31.131 --> 01:35:32.666
+And as you saw earlier,
+
+01:35:32.733 --> 01:35:35.068
+we've updated all of our Apple apps
+
+01:35:35.135 --> 01:35:37.104
+and they're running great.
+
+01:35:37.171 --> 01:35:40.974
+Of course, a big part
+of the Mac experience is third-party apps,
+
+01:35:41.041 --> 01:35:43.577
+and we've been working
+with our friends at Microsoft,
+
+01:35:43.644 --> 01:35:47.447
+and they already have Office
+up and running natively on our new Macs.
+
+01:35:47.781 --> 01:35:49.283
+Let's take a look at Word.
+
+01:35:49.349 --> 01:35:50.717
+It runs great.
+
+01:35:50.784 --> 01:35:53.287
+Scrolling is super smooth.
+
+01:35:53.353 --> 01:35:56.924
+Everything you do
+is just super responsive.
+
+01:35:57.324 --> 01:35:59.927
+Next let's check out Excel.
+
+01:36:00.794 --> 01:36:04.898
+Just as you'd expect,
+complex sheets and elements like this map
+
+01:36:04.965 --> 01:36:07.301
+all update instantly.
+
+01:36:07.367 --> 01:36:10.204
+And next let's take a look at PowerPoint.
+
+01:36:10.270 --> 01:36:14.441
+It's using Metal for rendering,
+and it performs great.
+
+01:36:14.508 --> 01:36:19.313
+For instance, check out how I can see
+all the layers of my slide in 3D.
+
+01:36:19.379 --> 01:36:22.015
+The animation is perfectly fluid.
+
+01:36:22.449 --> 01:36:25.452
+Now, we've also been working closely
+with our friends at Adobe
+
+01:36:25.519 --> 01:36:27.988
+to bring Creative Cloud to our new Macs.
+
+01:36:28.488 --> 01:36:31.491
+Here's Lightroom
+running native on Apple Silicon.
+
+01:36:31.992 --> 01:36:37.231
+Navigating large libraries of DNG images
+is super fast,
+
+01:36:37.297 --> 01:36:41.468
+and all of Lightroom's editing controls
+are available right here.
+
+01:36:41.535 --> 01:36:43.737
+Let's apply an adjustment to this image.
+
+01:36:43.804 --> 01:36:44.838
+Well, that's much better.
+
+01:36:44.905 --> 01:36:50.143
+And we can apply that same edit
+to all of these images in a single step.
+
+01:36:51.411 --> 01:36:52.713
+Looks great.
+
+01:36:52.779 --> 01:36:56.049
+Next, let me show you the app
+I know many of you wanna see:
+
+01:36:56.116 --> 01:36:57.484
+Photoshop.
+
+01:36:57.551 --> 01:37:02.256
+Here is a five-gigabyte Photoshop file
+by photographer Stephen Wilkes.
+
+01:37:02.322 --> 01:37:06.793
+Now this is a heavy-duty document
+with lots of layers.
+
+01:37:06.860 --> 01:37:09.463
+Now let's add one more bird in there.
+
+01:37:10.998 --> 01:37:14.801
+Not totally comfortable with the level of
+social distancing, but let's keep going.
+
+01:37:15.169 --> 01:37:19.306
+And let's check out
+how smooth the animation is as I zoom out.
+
+01:37:20.507 --> 01:37:22.176
+Wow. Beautiful.
+
+01:37:22.809 --> 01:37:26.013
+Finally, let's turn to
+one of our most sophisticated apps:
+
+01:37:26.079 --> 01:37:27.414
+Final Cut Pro.
+
+01:37:27.481 --> 01:37:30.584
+Here it is running on Apple Silicon
+for the first time.
+
+01:37:30.651 --> 01:37:32.953
+Let's play back some 4K video.
+
+01:37:33.020 --> 01:37:36.123
+As you can see, playback is super smooth.
+
+01:37:36.190 --> 01:37:39.259
+And all your filters are here,
+and you can apply them in real time.
+
+01:37:40.060 --> 01:37:41.929
+Let's try some color correction.
+
+01:37:41.995 --> 01:37:46.066
+And I can even add
+animated titles and lens flare...
+
+01:37:46.800 --> 01:37:48.769
+all during live playback.
+
+01:37:48.836 --> 01:37:50.270
+And Final Cut takes advantage
+
+01:37:50.337 --> 01:37:52.806
+of the unique capabilities
+of the Apple Neural Engine
+
+01:37:52.873 --> 01:37:56.610
+with a new feature that analyzes video
+and intelligently crops it
+
+01:37:56.677 --> 01:37:59.279
+to keep the most important action
+in the frame.
+
+01:37:59.346 --> 01:38:00.814
+But that's not all.
+
+01:38:00.881 --> 01:38:04.518
+Final Cut fully exploits
+the system's multicore architecture
+
+01:38:04.585 --> 01:38:08.188
+to let us play back not just one or two,
+but three streams
+
+01:38:08.255 --> 01:38:13.694
+of full-resolution 4K ProRes,
+all on an A12Z processor.
+
+01:38:13.760 --> 01:38:14.828
+Amazing.
+
+01:38:15.162 --> 01:38:18.932
+So that's a first look
+at Universal apps on Apple Silicon.
+
+01:38:19.800 --> 01:38:23.270
+We're really excited to see
+so much great work on native apps.
+
+01:38:23.837 --> 01:38:26.773
+These apps even get more amazing
+when they're built to take advantage of
+
+01:38:26.840 --> 01:38:28.775
+the Silicon's powerful capabilities.
+
+01:38:29.109 --> 01:38:31.845
+Like its incredible
+CPU and graphics performance,
+
+01:38:31.912 --> 01:38:34.948
+a unified memory architecture
+and the Neural Engine
+
+01:38:35.015 --> 01:38:37.684
+which accelerates
+advanced machine-learning tasks.
+
+01:38:37.751 --> 01:38:40.621
+The transition to Apple Silicon
+is also great for developers
+
+01:38:40.687 --> 01:38:44.124
+who've already optimized their apps
+for other Apple platforms.
+
+01:38:44.191 --> 01:38:46.059
+The shared architecture
+across our products
+
+01:38:46.126 --> 01:38:49.997
+means that their code
+will absolutely sing on our new Macs.
+
+01:38:50.697 --> 01:38:52.332
+And there's even more to the story.
+
+01:38:52.399 --> 01:38:53.934
+We're doing some really important things
+
+01:38:54.001 --> 01:38:56.470
+to make this transition
+seamless for our users.
+
+01:38:57.237 --> 01:39:00.407
+Now, while we expect most developers
+will go native immediately,
+
+01:39:00.474 --> 01:39:04.077
+we wanna make sure that users
+can run all of their apps on day one,
+
+01:39:04.144 --> 01:39:06.513
+even if some apps
+haven't yet been updated.
+
+01:39:07.214 --> 01:39:09.416
+Now, we've been down this road before.
+
+01:39:09.483 --> 01:39:12.452
+When we transitioned
+from PowerPC to Intel processors,
+
+01:39:12.519 --> 01:39:15.822
+a cornerstone of that transition
+was Rosetta,
+
+01:39:15.889 --> 01:39:20.661
+a technology that makes it possible
+to run PowerPC apps on Intel-based Macs.
+
+01:39:21.161 --> 01:39:25.666
+macOS Big Sur will include
+a new version of Rosetta, Rosetta 2.
+
+01:39:25.732 --> 01:39:28.869
+Rosetta 2 automatically
+translates your existing Mac apps
+
+01:39:28.936 --> 01:39:31.438
+so they work on new Macs
+with Apple Silicon.
+
+01:39:31.939 --> 01:39:37.411
+And this time Rosetta is even faster,
+more powerful and more compatible.
+
+01:39:37.477 --> 01:39:39.913
+It translates the apps
+when you install them,
+
+01:39:39.980 --> 01:39:42.983
+so they can launch immediately
+and be instantly responsive.
+
+01:39:43.417 --> 01:39:47.287
+And Rosetta 2 can also
+translate code on the fly when needed,
+
+01:39:47.354 --> 01:39:51.258
+like for web browsers with just-in-time
+JavaScript compilers or for Java code.
+
+01:39:51.625 --> 01:39:55.462
+It even handles the most complex
+Pro Apps and their plug-ins.
+
+01:39:56.063 --> 01:40:00.200
+Rosetta 2 is transparent to users,
+and the performance is amazing.
+
+01:39:56.063 --> 01:40:00.200
+Rosetta 2 is transparent to users,
+and the performance is amazing.
+
+01:40:00.701 --> 01:40:05.005
+We're also introducing new Virtualization
+technologies in macOS Big Sur.
+
+01:40:05.405 --> 01:40:08.575
+So, for developers who wanna run
+other environments like Linux
+
+01:40:08.642 --> 01:40:11.378
+or tools like Docker, we have you covered.
+
+01:40:11.979 --> 01:40:14.181
+When you put
+all of these technologies together,
+
+01:40:14.515 --> 01:40:17.718
+Universal, Rosetta and Virtualization,
+
+01:40:17.784 --> 01:40:21.021
+you have a system that can run
+an amazing diversity of apps.
+
+01:40:21.688 --> 01:40:25.125
+To show you how this all comes together,
+I'll hand it over to Andreas Wendker.
+
+01:40:28.228 --> 01:40:29.162
+Thanks, Craig.
+
+01:40:29.630 --> 01:40:32.432
+Let's take a look at some existing apps
+running under Rosetta.
+
+01:40:32.499 --> 01:40:35.769
+Rosetta, of course, works great with
+all sorts of apps you use every day.
+
+01:40:35.836 --> 01:40:39.206
+But for our first demo, I'd like to
+show you something a bit more challenging.
+
+01:40:39.273 --> 01:40:42.309
+This is Maya, the powerful animation
+and modeling software
+
+01:40:42.376 --> 01:40:44.011
+running great here on Apple Silicon.
+
+01:40:44.578 --> 01:40:48.182
+I already have a model open that consists
+of over six million polygons
+
+01:40:48.248 --> 01:40:51.552
+and, as you can see,
+I can fluidly move around in this scene.
+
+01:40:51.618 --> 01:40:54.888
+So let's make it more challenging
+and bring in textures and shaders as well.
+
+01:40:55.689 --> 01:40:58.592
+And still, everything is incredibly fluid.
+
+01:40:59.259 --> 01:41:03.363
+So Rosetta works great,
+and the performance is simply fantastic.
+
+01:41:03.430 --> 01:41:04.765
+But Rosetta isn't just for apps.
+
+01:41:04.831 --> 01:41:06.834
+It also works amazingly well with games.
+
+01:41:06.900 --> 01:41:08.769
+I can even use a game controller.
+
+01:41:09.736 --> 01:41:11.405
+This is Shadow of the Tomb Raider,
+
+01:41:11.471 --> 01:41:14.775
+a high-end AAA game
+that's using our Metal APIs.
+
+01:41:15.242 --> 01:41:17.377
+I downloaded it directly from
+the Mac App Store,
+
+01:41:17.444 --> 01:41:19.079
+so it's completely unmodified,
+
+01:41:19.146 --> 01:41:20.814
+and it is absolutely beautiful.
+
+01:41:21.849 --> 01:41:23.350
+Let me jump into the water.
+
+01:41:24.351 --> 01:41:26.353
+You can see
+some of the lighting effects here.
+
+01:41:30.858 --> 01:41:33.861
+And as I follow the path,
+you can see the game is responsive,
+
+01:41:34.428 --> 01:41:35.495
+it's smooth,
+
+01:41:36.263 --> 01:41:39.666
+and the best part is, you're running
+the 1080p as a translated app
+
+01:41:39.733 --> 01:41:41.268
+and an emulation.
+
+01:41:41.335 --> 01:41:43.437
+So these new Macs, they are fast.
+
+01:41:44.338 --> 01:41:46.540
+You can see
+some more of the lighting effects here.
+
+01:41:47.341 --> 01:41:50.677
+It's awesome what Rosetta can do
+with existing games.
+
+01:41:51.445 --> 01:41:54.982
+Now, as Craig mentioned, many of our users
+rely on apps from other environments.
+
+01:41:55.048 --> 01:41:58.018
+So let me bring up a Linux VM
+in Parallels Desktop.
+
+01:41:58.552 --> 01:42:01.522
+You can see the graphical user interface
+designed for Linux here.
+
+01:42:01.588 --> 01:42:05.259
+But, of course, many developers
+like to use Linux for hosting servers.
+
+01:42:05.325 --> 01:42:08.729
+So let me dive down to the command line
+and launch in Apache Web Server.
+
+01:42:09.530 --> 01:42:11.865
+And now I can simply bring up Safari
+
+01:42:11.932 --> 01:42:15.402
+and browse the website of the server
+I just launched in the Linux VM.
+
+01:42:15.469 --> 01:42:16.837
+Here it is.
+
+01:42:16.904 --> 01:42:19.706
+Now I want to show you one more
+type of app to run on these new Macs
+
+01:42:19.773 --> 01:42:21.175
+that we haven't even told you about yet,
+
+01:42:21.241 --> 01:42:23.944
+and that is iPhone and iPad apps.
+
+01:42:24.011 --> 01:42:26.213
+Since they've been built
+to run on the same Apple Silicon
+
+01:42:26.280 --> 01:42:27.648
+that we're using on our new Macs,
+
+01:42:27.714 --> 01:42:29.917
+they will run natively,
+completely unmodified,
+
+01:42:29.983 --> 01:42:31.418
+on the new Macs as well.
+
+01:42:31.485 --> 01:42:33.253
+Let me show you a few.
+
+01:42:33.320 --> 01:42:36.256
+This here is one of my favorite games,
+Monument Valley 2.
+
+01:42:36.323 --> 01:42:38.225
+It's fun to play here on the new Mac.
+
+01:42:39.059 --> 01:42:42.162
+And if I want to catch up on my
+guitar lessons, I can use Fender Play.
+
+01:42:42.229 --> 01:42:44.631
+[guitar plays]
+
+01:42:45.465 --> 01:42:47.868
+Or if I want to relax
+at the end of the day a little bit,
+
+01:42:47.935 --> 01:42:49.403
+I can bring up the Calm app.
+
+01:42:51.338 --> 01:42:54.208
+And that was just a quick look
+at Rosetta, Virtualization
+
+01:42:54.274 --> 01:42:57.945
+and support for iPhone and iPad apps,
+giving users amazing versatility
+
+01:42:58.011 --> 01:43:01.448
+for running apps and other environments
+with macOS on Apple Silicon.
+
+01:43:01.515 --> 01:43:02.583
+Back to you, Craig.
+
+01:43:04.518 --> 01:43:05.519
+Thanks, Andreas.
+
+01:43:05.919 --> 01:43:06.920
+As you saw,
+
+01:43:06.987 --> 01:43:11.758
+Macs built with Apple Silicon will be able
+to run iPhone and iPad apps directly.
+
+01:43:12.292 --> 01:43:16.697
+Starting day one, users can download
+these apps right from the Mac App Store,
+
+01:43:16.763 --> 01:43:20.400
+and most apps will just work
+with no changes from the developer.
+
+01:43:21.068 --> 01:43:22.336
+With everything we're doing,
+
+01:43:22.402 --> 01:43:25.272
+the range of apps that users
+will be able to run on these new Macs
+
+01:43:25.339 --> 01:43:27.474
+is truly unprecedented.
+
+01:43:27.541 --> 01:43:31.979
+Together, we have all the technologies in
+place to make this an amazing transition.
+
+01:43:32.045 --> 01:43:33.547
+The vast majority of Mac apps
+
+01:43:33.614 --> 01:43:36.450
+can be recompiled as Universal
+in a few days,
+
+01:43:36.517 --> 01:43:39.186
+so users can have fast, native apps.
+
+01:43:39.720 --> 01:43:42.022
+Rosetta 2 runs existing Mac apps,
+
+01:43:42.489 --> 01:43:45.058
+our Virtualization technology
+makes it easier than ever
+
+01:43:45.125 --> 01:43:47.694
+to bring other environments,
+like Linux, to the Mac,
+
+01:43:47.761 --> 01:43:53.600
+and Mac users can, for the first time,
+run iOS and iPadOS apps directly,
+
+01:43:53.667 --> 01:43:57.070
+tapping into
+the world's most vital app ecosystem.
+
+01:43:57.137 --> 01:44:01.308
+Now, we know our Mac developers will be
+eager to get started on this new platform.
+
+01:44:02.009 --> 01:44:05.979
+So to get them going right away,
+we're launching a Quick Start Program.
+
+01:44:06.513 --> 01:44:07.981
+The focus of the Quick Start Program
+
+01:44:08.048 --> 01:44:10.617
+is to enable developers
+to make their apps Universal
+
+01:44:10.684 --> 01:44:13.554
+and take advantage
+of all the capabilities of Apple Silicon.
+
+01:44:14.121 --> 01:44:17.758
+Developers will have access to
+documentation and sample code,
+
+01:44:17.824 --> 01:44:19.927
+forums on developer.apple.com,
+
+01:44:19.993 --> 01:44:24.998
+priority DTS support incidents,
+and access to labs around the world.
+
+01:44:25.699 --> 01:44:29.469
+This program also includes
+new Developer Transition Kit hardware
+
+01:44:29.536 --> 01:44:33.173
+so developers can get going
+even before we ship production systems.
+
+01:44:33.607 --> 01:44:36.376
+The DTK hardware
+takes the form of a Mac mini,
+
+01:44:36.443 --> 01:44:39.513
+but one with an A12Z SoC inside.
+
+01:44:39.847 --> 01:44:43.283
+It has desktop specs,
+including 16 gigabytes of memory,
+
+01:44:43.350 --> 01:44:48.155
+a 512-gig SSD,
+and a complement of Mac I/O ports.
+
+01:44:48.522 --> 01:44:50.290
+Most significantly, it will include
+
+01:44:50.357 --> 01:44:54.361
+the macOS Big Sur developer beta
+and Xcode tools.
+
+01:44:54.428 --> 01:44:56.597
+Developers will be able to apply
+to the program
+
+01:44:56.663 --> 01:44:59.700
+at developer.apple.com today.
+
+01:44:59.967 --> 01:45:02.569
+We will be shipping units out
+starting this week
+
+01:45:02.636 --> 01:45:04.438
+so you can get to work.
+
+01:45:05.138 --> 01:45:08.175
+So that's how macOS Big Sur
+is paving the way
+
+01:45:08.242 --> 01:45:11.078
+for a smooth transition to Apple Silicon.
+
+01:45:11.478 --> 01:45:14.581
+This year, we're elevating the Mac
+to a whole new level.
+
+01:45:14.648 --> 01:45:16.917
+And it's an incredible opportunity
+for developers.
+
+01:45:17.584 --> 01:45:20.053
+I can't wait to see what you all create,
+
+01:45:20.120 --> 01:45:24.324
+and I can't wait until
+we can all be together in person again.
+
+01:45:24.391 --> 01:45:26.059
+And now, back to Tim.
+
+01:45:28.295 --> 01:45:30.497
+Thank you, Craig, and thank you, Johny.
+
+01:45:30.564 --> 01:45:33.467
+It truly is a historic day for the Mac.
+
+01:45:34.368 --> 01:45:36.537
+Our vision for the Mac
+has always been about
+
+01:45:36.603 --> 01:45:39.373
+embracing breakthrough innovation
+and having the courage
+
+01:45:39.439 --> 01:45:41.308
+to make bold changes.
+
+01:45:41.375 --> 01:45:45.012
+Every time we've done this, the Mac
+has come out stronger and more capable.
+
+01:45:45.512 --> 01:45:47.080
+And I have never been more confident
+
+01:45:47.147 --> 01:45:49.416
+about the future of the Mac
+than I am today.
+
+01:45:50.317 --> 01:45:52.719
+So, what's the timeline
+for this transition?
+
+01:45:52.786 --> 01:45:53.787
+Well, for developers,
+
+01:45:53.854 --> 01:45:56.423
+it begins this week with
+the valuable information
+
+01:45:56.490 --> 01:46:01.028
+delivered at this conference as well as
+applying for the Quick Start Program.
+
+01:46:01.094 --> 01:46:02.095
+And for the customers,
+
+01:46:02.162 --> 01:46:06.166
+we expect to ship our first Mac with
+Apple Silicon by the end of this year,
+
+01:46:06.233 --> 01:46:09.269
+and we expect the transition
+to take about two years.
+
+01:46:10.070 --> 01:46:13.440
+We plan to continue to support and release
+new versions of macOS
+
+01:46:13.507 --> 01:46:16.243
+for Intel-based Macs for years to come.
+
+01:46:16.310 --> 01:46:20.080
+In fact, we have some new Intel-based Macs
+in the pipeline
+
+01:46:20.147 --> 01:46:21.648
+that we're really excited about.
+
+01:46:22.916 --> 01:46:26.353
+What a huge leap forward for the Mac
+and for Apple.
+
+01:46:26.420 --> 01:46:29.189
+Apple Silicon will bring
+amazing technologies,
+
+01:46:29.256 --> 01:46:30.858
+industry-leading performance,
+
+01:46:30.924 --> 01:46:33.861
+and a common architecture
+across all of our products.
+
+01:46:34.995 --> 01:46:37.464
+What an incredible day of announcements.
+
+01:46:37.531 --> 01:46:40.033
+As you've seen,
+we haven't stopped innovating.
+
+01:46:40.100 --> 01:46:43.937
+We pushed all of our platforms forward
+in some amazing new ways.
+
+01:46:44.738 --> 01:46:48.809
+Our OS releases will be available
+as developer betas today.
+
+01:46:49.843 --> 01:46:54.715
+And each of them will have a public beta,
+including watchOS for the very first time,
+
+01:46:54.781 --> 01:46:56.183
+starting next month.
+
+01:46:57.284 --> 01:47:01.355
+And all of this great software will be
+available to our customers this fall.
+
+01:47:02.656 --> 01:47:05.325
+We hope you've enjoyed
+this very special keynote
+
+01:47:05.392 --> 01:47:08.262
+and that you're ready
+for the big week ahead,
+
+01:47:08.328 --> 01:47:11.298
+with over 100
+engineering-led video sessions,
+
+01:47:11.365 --> 01:47:13.834
+one-on-one consultations
+with Apple engineers,
+
+01:47:13.901 --> 01:47:15.402
+and so much more.
+
+01:47:16.036 --> 01:47:18.705
+We can't wait
+to start working with all of you
+
+01:47:18.772 --> 01:47:21.208
+and watch you do
+the best work of your lives.
+
+01:47:22.276 --> 01:47:24.678
+At Apple, we've always drawn strength
+
+01:47:24.745 --> 01:47:27.014
+from the diversity of our global community
+
+01:47:27.080 --> 01:47:30.017
+because we truly believe
+when we all work together,
+
+01:47:30.083 --> 01:47:31.919
+we can change the world for the better.
+
+01:47:32.486 --> 01:47:34.821
+Thanks to you all for joining us.
+
+01:47:34.888 --> 01:47:36.657
+This has been such a big day,
+
+01:47:36.723 --> 01:47:39.660
+and it's only the beginning
+of a huge week to come.
+
+01:47:39.726 --> 01:47:42.329
+So let's have a great WWDC.
+
+01:47:43.330 --> 01:47:45.832
+["Daydreamer" by Aurora playing]
+
+01:47:59.446 --> 01:48:01.048
+[song fades]

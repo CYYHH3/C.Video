@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link ref="preconnect" href="https://cdn.jsdelivr.net">
+    <link ref="preconnect" href="https://euservi.ccontent.tk">
+    <link ref="preconnect" href="https://euservg.ccontent.tk">
+    <link ref="preconnect" href="https://dplayer.moerats.com">
+    <title>唐人街探案3 | C·Video</title>
+    <link rel="icon" href="/img/index-icon.png" type="image/x-icon">
+    <link rel="stylesheet" href="/css/watch/style.css">
+</head>
+<body>
+    <div id="dplayer"></div>
+    <script src="/js/flv.js-1.5.0/flv.min.js"></script>
+    <script src="/js/DPlayer-1.26.0/DPlayer.min.js"></script>
+    <script>
+        const dp = new DPlayer({
+            container: document.getElementById('dplayer'),
+            screenshot: true,
+            video: {
+                quality: [
+                    {
+                        name: '1080P 高码率',
+                        url: 'https://euservi.ccontent.tk/videos/唐人街探案/唐人街探案3-1080P高码率.flv',
+                        type: 'flv',
+                    },
+                    {
+                        name: '1080P',
+                        url: 'https://euservg.ccontent.tk/videos/唐人街探案/唐人街探案3-1080P.flv',
+                        //url: 'https://content.chebt.tk/videos/唐人街探案3-1080P.flv',
+                        //url: './videos/唐人街探案3-1080P.flv',
+                        type: 'flv',
+                    },
+                ],
+                defaultQuality: 0,
+                //url: './videos/唐人街探案3.flv',
+                thumbnails: 'https://cdn.jsdelivr.net/gh/CYYHH3/CDN2@main/static/c-video/video-thumbnails/Movies/Detective-Chinatown/Detective Chinatown 3.jpg',
+                //thumbnails: './thumbnails/Detective Chinatown 3.jpg',
+            },
+            danmaku: {
+                // ...
+                id: '331464590', //id = cid
+                api: 'https://dplayer.moerats.com/',
+                //api: 'https://dplayer.chebt.tk/',
+                addition: ['https://dplayer.moerats.com/v3/bilibili?cid=331464590'],
+                //addition: ['./videos/弹幕/唐人街探案3.json'],
+                //addition: ['https://dplayer.chebt.tk/v3/bilibili?cid=331464590'],
+                user: 'Default',
+                unlimited: true,
+            },
+        });
+        dp.fullScreen.request('web');
+    </script>
+</body>
+</html>

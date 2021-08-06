@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link ref="preconnect" href="https://cdn.jsdelivr.net">
+    <link ref="preconnect" href="https://euservg.ccontent.tk">
+    <title>WWDC 2020 | C·Video</title>
+    <link rel="icon" href="/img/index-icon.png" type="image/x-icon">
+    <link rel="stylesheet" href="/css/watch/style.css">
+</head>
+<body>
+    <div id="dplayer"></div>
+    <script src="/js/DPlayer-1.26.0/DPlayer.min.js"></script>
+    <script>
+        const dp = new DPlayer({
+            container: document.getElementById('dplayer'),
+            screenshot: true,
+            video: {
+                url: 'https://euservg.ccontent.tk/videos/Apple/WWDC/WWDC%202020-1080P.mp4',
+                thumbnails: 'https://cdn.jsdelivr.net/gh/CYYHH3/CDN2@main/static/c-video/video-thumbnails/Apple/WWDC 2020.jpg',
+                //thumbnails: './thumbnails/WWDC 2020.jpg',
+            },
+            subtitle: {
+                url: './subtitles/WWDC 2020 (ZH-CN).vtt',
+            },
+            highlight: [
+                {
+                    time: 330,
+                    text: 'iOS',
+                },
+                {
+                    time: 1908,
+                    text: 'iPadOS',
+                },
+                {
+                    time: 2716,
+                    text: 'watchOS',
+                },
+                {
+                    time: 3315,
+                    text: '隐私',
+                },
+                {
+                    time: 3812,
+                    text: 'tvOS',
+                },
+                {
+                    time: 4085,
+                    text: 'macOS',
+                },
+                {
+                    time: 5153,
+                    text: 'Mac',
+                },
+            ],
+        });
+        dp.fullScreen.request('web');
+    </script>
+</body>
+</html>

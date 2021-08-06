@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link ref="preconnect" href="https://cdn.jsdelivr.net">
+    <link ref="preconnect" href="https://euservg.ccontent.tk">
+    <title>WWDC 2021 | C·Video</title>
+    <link rel="icon" href="/img/index-icon.png" type="image/x-icon">
+    <link rel="stylesheet" href="/css/watch/style.css">
+</head>
+<body>
+    <div id="dplayer"></div>
+    <script src="/js/DPlayer-1.26.0/DPlayer.min.js"></script>
+    <script>
+        const dp = new DPlayer({
+            container: document.getElementById('dplayer'),
+            screenshot: true,
+            video: {
+                url: 'https://euservg.ccontent.tk/videos/Apple/WWDC/WWDC%202021-1080P.mp4',
+                thumbnails: 'https://cdn.jsdelivr.net/gh/CYYHH3/CDN2@main/static/c-video/video-thumbnails/Apple/WWDC 2021.jpg',
+                //thumbnails: './thumbnails/WWDC 2021.jpg',
+            },
+            subtitle: {
+                url: './subtitles/WWDC 2021 (EN).vtt',
+            },
+            highlight: [
+                {
+                    time: 317,
+                    text: 'iOS',
+                },
+                {
+                    time: 2062,
+                    text: 'AirPods',
+                },
+                {
+                    time: 2258,
+                    text: 'iPadOS',
+                },
+                {
+                    time: 2919,
+                    text: 'Privacy',
+                },
+                {
+                    time: 3193,
+                    text: 'iCloud',
+                },
+                {
+                    time: 3425,
+                    text: 'Health',
+                },
+                {
+                    time: 4036,
+                    text: 'watchOS',
+                },
+                {
+                    time: 4452,
+                    text: 'Home',
+                },
+                {
+                    time: 4792,
+                    text: 'macOS',
+                },
+                {
+                    time: 5598,
+                    text: 'Developer Technologies and App Store',
+                },
+            ],
+        });
+        dp.fullScreen.request('web');
+    </script>
+</body>
+</html>

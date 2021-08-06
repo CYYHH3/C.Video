@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link ref="preconnect" href="https://cdn.jsdelivr.net">
+    <title>Wonderful Tools-Apple | C·Video</title>
+    <link rel="icon" href="/img/index-icon.png" type="image/x-icon">
+    <link rel="stylesheet" href="/css/watch/style.css">
+</head>
+<body>
+    <div id="dplayer"></div>
+    <script src="/js/DPlayer-1.26.0/DPlayer.min.js"></script>
+    <script>
+        const dp = new DPlayer({
+            container: document.getElementById('dplayer'),
+            screenshot: true,
+            video: {
+                url: './videos/Wonderful Tools-Apple.mp4',
+                thumbnails: 'https://cdn.jsdelivr.net/gh/CYYHH3/CDN2@main/static/c-video/video-thumbnails/Apple/Wonderful Tools-Apple.jpg',
+                //thumbnails: './thumbnails/Wonderful Tools-Apple.jpg',
+            },
+        });
+        dp.fullScreen.request('web');
+    </script>
+</body>
+</html>

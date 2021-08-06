@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link ref="preconnect" href="https://cdn.jsdelivr.net">
+    <link ref="preconnect" href="https://euservi.ccontent.tk">
+    <title>中二病也要谈恋爱！剧场版 小鸟游六花·改 | C·Video</title>
+    <link rel="icon" href="/img/index-icon.png" type="image/x-icon">
+    <link rel="stylesheet" href="/css/watch/style.css">
+</head>
+<body>
+    <div id="dplayer"></div>
+    <script src="/js/DPlayer-1.26.0/DPlayer.min.js"></script>
+    <script>
+        const dp = new DPlayer({
+            container: document.getElementById('dplayer'),
+            screenshot: true,
+            video: {
+                url: 'https://euservi.ccontent.tk/videos/中二病也要谈恋爱！/剧场版/中二病也要谈恋爱！剧场版 小鸟游六花·改-720P.mp4',
+                thumbnails: 'https://cdn.jsdelivr.net/gh/CYYHH3/CDN2@main/static/c-video/video-thumbnails/Anime/中二病也要谈恋爱！/剧场版/中二病也要谈恋爱！剧场版 小鸟游六花·改.jpg',
+                //thumbnails: './thumbnails/中二病也要谈恋爱！剧场版 小鸟游六花·改.jpg',
+            },
+        });
+        dp.fullScreen.request('web');
+    </script>
+</body>
+</html>

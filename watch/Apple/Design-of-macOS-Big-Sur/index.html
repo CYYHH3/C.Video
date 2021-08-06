@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link ref="preconnect" href="https://cdn.jsdelivr.net">
+    <title>Design of macOS Big Sur | C·Video</title>
+    <link rel="icon" href="/img/index-icon.png" type="image/x-icon">
+    <link rel="stylesheet" href="/css/watch/style.css">
+</head>
+<body>
+    <div id="dplayer"></div>
+    <script src="/js/DPlayer-1.26.0/DPlayer.min.js"></script>
+    <script>
+        const dp = new DPlayer({
+            container: document.getElementById('dplayer'),
+            screenshot: true,
+            video: {
+                url: './videos/Design of macOS Big Sur.mp4',
+                thumbnails: 'https://cdn.jsdelivr.net/gh/CYYHH3/CDN2@main/static/c-video/video-thumbnails/Apple/Design%20of%20macOS%20Big%20Sur.jpg',
+                //thumbnails: './thumbnails/Design of macOS Big Sur.jpg',
+            },
+            subtitle: {
+                url: './subtitles/Design of macOS Big Sur.vtt',
+            },
+        });
+        dp.fullScreen.request('web');
+    </script>
+</body>
+</html>
