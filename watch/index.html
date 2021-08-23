@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <link ref="preconnect" href="https://cdn.jsdelivr.net">
-    <title>Wonderful Tools — Apple | C·Video</title>
+    <title>Watch | C·Video</title>
     <link rel="icon" href="/img/index-icon.png" type="image/x-icon">
     <link rel="stylesheet" href="/css/watch/style.css">
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -14,14 +14,19 @@
 <body>
     <div id="dplayer"></div>
     <script src="/js/DPlayer-1.26.0/DPlayer.min.js"></script>
+    <script src="https://euservg.ccontent.tk/cv-v2/source.js"></script>
     <script>
+        var href = "https://euservg.ccontent.tk/cv-v2/";
+        var vid = window.location.search.substr(5)
         const dp = new DPlayer({
             container: document.getElementById('dplayer'),
             screenshot: true,
             video: {
-                url: './videos/Wonderful Tools-Apple.mp4',
-                thumbnails: 'https://cdn.jsdelivr.net/gh/CYYHH3/CDN2@main/static/c-video/video-thumbnails/Apple/Wonderful Tools-Apple.jpg',
-                //thumbnails: './thumbnails/Wonderful Tools-Apple.jpg',
+                url: href + "videos/" + vid + ".mp4",
+                thumbnails: href + "video-thumbnails/" + vid + ".jpg",
+            },
+            subtitle: {
+                url: href + "subtitles/" + vid + ".vtt",
             },
         });
         dp.fullScreen.request('web');
