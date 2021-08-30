@@ -1,5 +1,11 @@
+/*@font-face {
+    font-family: HarmonyOS Sans Regular;
+    src: url("https://cdn.jsdelivr.net/gh/CYYHH3/CDN2@main/fonts/HarmonyOS Sans/HarmonyOS_Sans/HarmonyOS_Sans_Regular.ttf");
+    font-display: fallback;
+}*/
+
 body {
-    font-family: 微软雅黑;
+    font-family: 'HarmonyOS Sans Regular', 微软雅黑, sans-serif;
 }
 .dplayer {
     /*margin: 0px 100px;
