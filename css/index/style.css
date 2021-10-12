@@ -9,3 +9,12 @@ body {
     margin: 0;
     background-color: #f9f9f9;
 }
+body, .header, .card {
+    transition: 0.1s;
+}
+
+/* Dark Mode */
+[data-theme="dark"] {
+  background-color: #181818 !important;
+  color: #ccc !important;
+}

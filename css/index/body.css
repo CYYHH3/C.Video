@@ -13,6 +13,9 @@
     margin: 0 0 20px 0;
     width: 18rem;
 }
+.card:hover {
+    background-color: #eee;
+}
 .video-name {
     color: #303030;
     text-decoration: none;
@@ -22,6 +25,7 @@
     color: slategray;
     transition: 0.2s ease 0s;
 }
+
 @media only screen and (max-width: 1600px) {
     .body {
         width: 100%;
@@ -32,4 +36,26 @@
     .card {
         width: 90%;
     }
+}
+
+/* Dark Mode */
+[data-theme="dark"] .card {
+    background-color: #212121 !important;
+    border: 1px solid #4b4b4b !important;
+}
+[data-theme="dark"] .card:hover {
+    background-color: #2d2f34 !important;
+}
+/*[data-theme="dark"] .card:hover .card-title {
+    color: #8b9199 !important;
+}*/
+[data-theme="dark"] .video-name {
+    color: #ccc !important;
+}
+[data-theme="dark"] .video-name:hover {
+    color: #8b9199 !important;
+}
+[data-theme="dark"] #back-to-top {
+    background-color: #aaa !important;
+    color: #000 !important;
 }
