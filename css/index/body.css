@@ -16,6 +16,9 @@
 .card:hover {
     background-color: #eee;
 }
+.card:hover .card-title {
+    color: #51595f;
+}
 .video-name {
     color: #303030;
     text-decoration: none;
@@ -46,14 +49,14 @@
 [data-theme="dark"] .card:hover {
     background-color: #2d2f34 !important;
 }
-/*[data-theme="dark"] .card:hover .card-title {
-    color: #8b9199 !important;
-}*/
+[data-theme="dark"] .card:hover .card-title {
+    color: #eee !important;
+}
 [data-theme="dark"] .video-name {
     color: #ccc !important;
 }
 [data-theme="dark"] .video-name:hover {
-    color: #8b9199 !important;
+    color: #eee !important;
 }
 [data-theme="dark"] #back-to-top {
     background-color: #aaa !important;
